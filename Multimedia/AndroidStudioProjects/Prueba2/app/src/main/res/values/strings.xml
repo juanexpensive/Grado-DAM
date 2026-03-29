@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Prueba2</string>
+    <string name="titulo_actividad_a">Estás en la Actividad A</string>
+    <string name="titulo_actividad_b">¡Bienvenido a la Actividad B!</string>
+    <string name="ir_a_la_b">Ir a la Actividad B</string>
+    <string name="toast_actividad_b">Toast desde la Actividad B</string>
+
+</resources>

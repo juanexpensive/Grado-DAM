@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Boletin1">
+        <activity
+            android:name=".boletin1_8"
+            android:exported="false"
+            android:label="@string/title_activity_boletin18"
+            android:theme="@style/Theme.Boletin1" />
+        <activity
+            android:name=".boletin1_7"
+            android:exported="false"
+            android:label="@string/title_activity_boletin17"
+            android:theme="@style/Theme.Boletin1" />
+        <activity
+            android:name=".ui.theme.boletin1_6"
+            android:exported="false"
+            android:label="@string/title_activity_boletin16"
+            android:theme="@style/Theme.Boletin1" />
+        <activity
+            android:name=".boletin1_5"
+            android:exported="false"
+            android:label="@string/title_activity_boletin15"
+            android:theme="@style/Theme.Boletin1" />
+        <activity
+            android:name=".boletin1_4"
+            android:exported="false"
+            android:label="@string/title_activity_boletin14"
+            android:theme="@style/Theme.Boletin1" />
+        <activity
+            android:name=".boletin1_3"
+            android:exported="false"
+            android:label="@string/title_activity_boletin13"
+            android:theme="@style/Theme.Boletin1" />
+        <activity
+            android:name=".boletin1_2"
+            android:exported="false"
+            android:label="@string/title_activity_boletin12"
+            android:theme="@style/Theme.Boletin1" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.Boletin1">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
