@@ -1,0 +1,6 @@
+
+    La programación de procesos en Python es muy interesante.
+    El módulo threading permite ejecutar código en paralelo dentro de un proceso.
+    Este ejercicio cuenta cuántas vocales hay en este texto usando hilos.
+    Las vocales son a, e, i, o, u.
+    

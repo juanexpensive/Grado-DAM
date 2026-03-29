@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./unit_1_API/project2"
+    ]
+}
