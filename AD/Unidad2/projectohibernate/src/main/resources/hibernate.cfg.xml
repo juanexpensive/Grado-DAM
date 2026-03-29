@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <!-- Database connection settings -->
+        <property name="connection.driver_class">com.mysql.cj.jdbc.Driver</property>
+        <property name="connection.url">jdbc:mysql://dns11036.phdns11.es:3306/ad2526_juan_caro?allowPublicKeyRetrieval=true&amp;useSSL=false&amp;sessionVariables=FOREIGN_KEY_CHECKS=0</property>
+        <property name="connection.username">ad2526_juan_caro</property>
+        <property name="connection.password">12345</property>
+
+        <!-- Habilitamos el volcado de SQL a consola para depurar (Desactivar en producción) -->
+        <property name="show_sql">false</property>
+        <property name="format_sql">false</property>
+
+        <!-- Definimos el dialecto estándar sugerido para evitar advertencias de depreciación -->
+        <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
+
+        <!-- hbm2ddl.auto se pone en 'none' porque la creación se gestionará manualmente 
+             con la limpieza nativa para evitar errores de integridad (errno: 150) -->
+        <property name="hbm2ddl.auto">none</property>
+
+        <!-- Annotated entities -->
+        <mapping class="com.school.model.Profesor"/>
+        <mapping class="com.school.model.Alumno"/>
+        <mapping class="com.school.model.Matricula"/>
+    </session-factory>
+</hibernate-configuration>
