@@ -1,0 +1,141 @@
+<!-- Pantalla de búsqueda de productos -->
+<div class="productos-page">
+  <!-- Header -->
+  <header class="page-header">
+    <div class="page-header__left">
+      <button class="back-btn" (click)="volver()">← Volver</button>
+      <h1 class="page-title">Catálogo de Productos</h1>
+    </div>
+    <div class="page-header__right">
+      <select class="sort-select" [ngModel]="vm.ordenPrecio() ?? ''" (ngModelChange)="vm.ordenPrecio.set($event || null)">
+        <option value="">↕ Ordenar por precio</option>
+        <option value="asc">↑ Menor precio</option>
+        <option value="desc">↓ Mayor precio</option>
+      </select>
+      <button class="cart-btn" (click)="irAlCarrito()">
+        Nuevo Pedido
+        @if (carrito.totalItems() > 0) {
+          <span class="cart-badge">{{ carrito.totalItems() }}</span>
+        }
+      </button>
+    </div>
+  </header>
+
+  <!-- Barra de búsqueda y filtros -->
+  <div class="search-bar animate-fade-in">
+    <div class="search-input-wrapper">
+      <span class="search-icon">🔍</span>
+      <input
+        type="text"
+        class="search-input"
+        placeholder="Buscar productos..."
+        [ngModel]="vm.searchText()"
+        (ngModelChange)="vm.searchText.set($event)"
+      />
+    </div>
+    <div class="filter-row">
+      <div class="category-filters">
+        <button
+          class="filter-chip"
+          [class.filter-chip--active]="!vm.selectedCategoriaId()"
+          (click)="vm.selectedCategoriaId.set(null)"
+        >
+          Todas
+        </button>
+        @for (cat of vm.categorias(); track cat.id) {
+          <button
+            class="filter-chip"
+            [class.filter-chip--active]="vm.selectedCategoriaId() === cat.id"
+            (click)="vm.selectedCategoriaId.set(cat.id)"
+          >
+            {{ cat.nombre }}
+          </button>
+        }
+      </div>
+      <select class="proveedor-select" [ngModel]="vm.selectedProveedorId() ?? ''" (ngModelChange)="vm.selectedProveedorId.set($event ? +$event : null)">
+        <option value="">🏢 Todos los proveedores</option>
+        @for (emp of vm.empresas(); track emp.id) {
+          <option [value]="emp.id">{{ emp.nombre }}</option>
+        }
+      </select>
+    </div>
+  </div>
+
+  <!-- Aviso de proveedor único -->
+  @if (carrito.errorProveedor()) {
+    <div class="proveedor-warning animate-fade-in">
+      <span>⚠️ {{ carrito.errorProveedor() }}</span>
+      <button class="warning-close" (click)="carrito.errorProveedor.set(null)">✕</button>
+    </div>
+  }
+
+  <!-- Info del proveedor actual del pedido -->
+  @if (carrito.proveedorActualNombre()) {
+    <div class="proveedor-info animate-fade-in">
+      <span>🏢 Pedido actual: <strong>{{ carrito.proveedorActualNombre() }}</strong></span>
+      <span class="proveedor-info__count">{{ carrito.totalItems() }} producto(s)</span>
+    </div>
+  }
+
+  <!-- Estado de carga -->
+  @if (vm.isLoading()) {
+    <app-skeleton-loading type="card" [count]="6"></app-skeleton-loading>
+  }
+
+  <!-- Mensaje de error -->
+  @if (vm.errorMessage()) {
+    <app-error-message
+      [message]="vm.errorMessage()!"
+      (retry)="vm.cargarDatos()"
+    ></app-error-message>
+  }
+
+  <!-- Grid de productos -->
+  @if (!vm.isLoading() && !vm.errorMessage()) {
+    @if (vm.productosFiltrados().length === 0) {
+      <div class="empty-state">
+        <span class="empty-icon">📭</span>
+        <p>No se encontraron productos.</p>
+      </div>
+    } @else {
+      <div class="products-grid">
+        @for (producto of vm.productosFiltrados(); track producto.id; let i = $index) {
+          <app-animated-list-item [index]="i" animation="fadeScale">
+            <div class="product-card"
+                 [class.product-card--out-of-stock]="!producto.enStock"
+                 [class.product-card--added]="addedProductId === producto.id"
+                 (click)="verDetalleProducto(producto)"
+                 [style.view-transition-name]="'product-' + producto.id">
+              <div class="product-card__header">
+                <span class="product-card__category">{{ producto.categoriaNombre }}</span>
+                @if (!producto.enStock) {
+                  <span class="product-card__badge product-card__badge--out">Agotado</span>
+                } @else {
+                  <span class="product-card__badge product-card__badge--stock">{{ producto.stock }} uds</span>
+                }
+              </div>
+              <div class="product-card__icon">📦</div>
+              <h3 class="product-card__name" [style.view-transition-name]="'product-name-' + producto.id">{{ producto.nombre }}</h3>
+              <p class="product-card__desc">{{ producto.descripcion }}</p>
+              <div class="product-card__footer">
+                <span class="product-card__price" [style.view-transition-name]="'product-price-' + producto.id">{{ producto.precio | currencyFormat }}</span>
+                <button
+                  class="product-card__add-btn"
+                  [class.product-card__add-btn--added]="addedProductId === producto.id"
+                  (click)="agregarAlCarrito(producto); $event.stopPropagation()"
+                  [disabled]="!producto.enStock"
+                >
+                  @if (addedProductId === producto.id) {
+                    ✓ Añadido
+                  } @else {
+                    + Añadir
+                  }
+                </button>
+              </div>
+            </div>
+          </app-animated-list-item>
+        }
+      </div>
+    }
+  }
+</div>

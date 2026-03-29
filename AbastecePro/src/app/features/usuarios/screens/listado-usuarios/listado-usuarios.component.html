@@ -1,0 +1,85 @@
+<!-- Pantalla de gestión de usuarios -->
+<div class="usuarios-page">
+  <header class="page-header">
+    <div class="page-header__left">
+      <button class="back-btn" (click)="volver()">← Volver</button>
+      <h1 class="page-title">Gestión de Usuarios</h1>
+    </div>
+    <button class="create-btn" (click)="crearUsuario()">
+      + Nuevo Usuario
+    </button>
+  </header>
+
+  <!-- Estado de carga -->
+  @if (vm.isLoading()) {
+    <app-skeleton-loading type="list" [count]="4"></app-skeleton-loading>
+  }
+
+  <!-- Error -->
+  @if (vm.errorMessage()) {
+    <app-error-message
+      [message]="vm.errorMessage()!"
+      (retry)="vm.cargarUsuarios()"
+    ></app-error-message>
+  }
+
+  <!-- Lista de usuarios -->
+  @if (!vm.isLoading() && !vm.errorMessage()) {
+    @if (vm.usuarios().length === 0) {
+      <div class="empty-state animate-fade-in">
+        <span class="empty-icon">👥</span>
+        <h2>No hay usuarios registrados</h2>
+        <p>Crea un nuevo usuario para empezar.</p>
+        <button class="btn-primary" (click)="crearUsuario()">Crear Usuario</button>
+      </div>
+    } @else {
+      <div class="usuarios-grid">
+        @for (usuario of vm.usuarios(); track usuario.id; let i = $index) {
+          <app-animated-list-item [index]="i" animation="fadeScale">
+            <div class="usuario-card">
+              <div class="usuario-card__avatar">
+                {{ usuario.iniciales }}
+              </div>
+              <div class="usuario-card__info">
+                <h3 class="usuario-card__name">{{ usuario.nombreCompleto }}</h3>
+                <p class="usuario-card__email">{{ usuario.correo }}</p>
+                <span
+                  class="usuario-card__role"
+                  [class.usuario-card__role--admin]="usuario.rol === 'administrador'"
+                >
+                  {{ usuario.rol === 'administrador' ? '👑 Admin' : '👤 Empleado' }}
+                </span>
+              </div>
+              <div class="usuario-card__actions">
+                <button class="action-btn action-btn--edit" (click)="editarUsuario(usuario.id)" title="Editar">
+                  ✏️
+                </button>
+                <button class="action-btn action-btn--delete" (click)="eliminarUsuario(usuario.id, usuario.nombreCompleto)" title="Eliminar">
+                  🗑️
+                </button>
+              </div>
+            </div>
+          </app-animated-list-item>
+        }
+      </div>
+    }
+  }
+
+  <!-- Diálogo de confirmación de eliminación -->
+  @if (usuarioPendienteEliminar(); as usuario) {
+    <div class="confirm-overlay animate-fade-in">
+      <div class="confirm-dialog">
+        <div class="confirm-dialog__icon">⚠️</div>
+        <p class="confirm-dialog__message">¿Estás seguro de eliminar al usuario <strong>"{{ usuario.nombre }}"</strong>?</p>
+        <div class="confirm-dialog__actions">
+          <button class="confirm-dialog__btn confirm-dialog__btn--danger" (click)="confirmarEliminacion()">
+            🗑️ Sí, eliminar
+          </button>
+          <button class="confirm-dialog__btn confirm-dialog__btn--secondary" (click)="descartarEliminacion()">
+            No, volver
+          </button>
+        </div>
+      </div>
+    </div>
+  }
+</div>

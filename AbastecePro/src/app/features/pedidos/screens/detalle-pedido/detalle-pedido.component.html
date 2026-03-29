@@ -1,0 +1,127 @@
+<!-- Pantalla de detalle de pedido -->
+<div class="detalle-page">
+  <header class="page-header">
+    <button class="back-btn" (click)="volver()">← Volver al historial</button>
+  </header>
+
+  <!-- Estado de carga -->
+  @if (vm.isLoading()) {
+    <app-skeleton-loading type="card" [count]="1"></app-skeleton-loading>
+    <app-skeleton-loading type="list" [count]="3"></app-skeleton-loading>
+  }
+
+  <!-- Error -->
+  @if (vm.errorMessage()) {
+    <app-error-message
+      [message]="vm.errorMessage()!"
+      (retry)="vm.cargarDetalle(vm.pedido()?.id ?? 0)"
+    ></app-error-message>
+  }
+
+  <!-- Detalle del pedido -->
+  @if (!vm.isLoading() && !vm.errorMessage() && vm.pedido()) {
+    <div class="detalle-content animate-fade-in">
+      <!-- Cabecera del pedido -->
+      <div class="pedido-header-card" [style.view-transition-name]="'pedido-' + vm.pedido()!.id">
+        <div class="pedido-header-card__top">
+          <h1 class="pedido-header-card__title" [style.view-transition-name]="'pedido-title-' + vm.pedido()!.id">Pedido #{{ vm.pedido()!.id }}</h1>
+          <span class="pedido-estado" [ngClass]="getEstadoClass(vm.pedido()!.estado)">
+            {{ vm.pedido()!.estado | titlecase }}
+          </span>
+        </div>
+        <div class="pedido-header-card__info-grid">
+          <div class="info-block">
+            <span class="info-label">📅 Fecha</span>
+            <span class="info-value">{{ vm.pedido()!.fecha | date:'dd/MM/yyyy HH:mm' }}</span>
+          </div>
+          <div class="info-block">
+            <span class="info-label">👤 Solicitado por</span>
+            <span class="info-value">{{ vm.pedido()!.usuarioNombre }}</span>
+          </div>
+          <div class="info-block">
+            <span class="info-label">💰 Total</span>
+            <span class="info-value info-value--price">{{ vm.pedido()!.precioTotal | currencyFormat }}</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Líneas de detalle -->
+      <h2 class="section-title">Productos del pedido</h2>
+      <div class="detalles-list">
+        @for (linea of vm.pedido()!.detalles; track linea.idProducto; let i = $index) {
+          <app-animated-list-item [index]="i" animation="fadeUp">
+            <div class="detalle-item">
+              <div class="detalle-item__icon">📦</div>
+              <div class="detalle-item__info">
+                <h3 class="detalle-item__name">{{ linea.productoNombre }}</h3>
+                <p class="detalle-item__unit">{{ linea.precioUnitario | currencyFormat }} / ud.</p>
+              </div>
+              <div class="detalle-item__qty">
+                <span class="qty-label">Cantidad</span>
+                <span class="qty-value">{{ linea.cantidadProducto }}</span>
+              </div>
+              <div class="detalle-item__subtotal">
+                {{ linea.subtotal | currencyFormat }}
+              </div>
+            </div>
+          </app-animated-list-item>
+        }
+      </div>
+
+      <!-- Total final -->
+      <div class="total-card">
+        <span>Total del pedido</span>
+        <span class="total-value">{{ vm.pedido()!.precioTotal | currencyFormat }}</span>
+      </div>
+
+      <!-- Acciones del pedido -->
+      <div class="pedido-actions">
+        <button class="btn-action btn-action--pdf" (click)="descargarFactura()">
+          📄 Descargar Factura PDF
+        </button>
+        @if (puedeAvanzar()) {
+          <button
+            class="btn-action btn-action--avanzar"
+            [disabled]="vm.actualizandoEstado()"
+            (click)="avanzarEstado()">
+            @if (vm.actualizandoEstado()) {
+              Actualizando...
+            } @else {
+              {{ getEtiquetaAvance() }}
+            }
+          </button>
+        }
+        @if (puedeCancelar()) {
+          <button
+            class="btn-action btn-action--cancelar"
+            [disabled]="vm.actualizandoEstado()"
+            (click)="cancelarPedido()">
+            ❌ Cancelar pedido
+          </button>
+        }
+      </div>
+    </div>
+
+      <!-- Diálogo de confirmación -->
+      @if (mostrarConfirmacion()) {
+        <div class="confirm-overlay animate-fade-in">
+          <div class="confirm-dialog">
+            <div class="confirm-dialog__icon">⚠️</div>
+            <p class="confirm-dialog__message">{{ mensajeConfirmacion() }}</p>
+            <div class="confirm-dialog__actions">
+              <button
+                class="confirm-dialog__btn"
+                [class.confirm-dialog__btn--danger]="accionPendiente() === 'cancelar'"
+                [class.confirm-dialog__btn--success]="accionPendiente() === 'avanzar'"
+                (click)="ejecutarAccion()">
+                {{ etiquetaConfirmar() }}
+              </button>
+              <button class="confirm-dialog__btn confirm-dialog__btn--secondary" (click)="descartarConfirmacion()">
+                No, volver
+              </button>
+            </div>
+          </div>
+        </div>
+      }
+  }
+</div>

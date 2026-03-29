@@ -1,0 +1,114 @@
+<!-- Pantalla del historial de pedidos -->
+<div class="pedidos-page">
+  <header class="page-header">
+    <div class="page-header__left">
+      <button class="back-btn" (click)="volver()">← Volver</button>
+      <h1 class="page-title">Historial de Pedidos</h1>
+    </div>
+    <div class="page-header__filters">
+      <select class="sort-select" [ngModel]="vm.ordenPrecio() ?? ''" (ngModelChange)="vm.ordenPrecio.set($event || null)">
+        <option value="">↕ Ordenar por precio</option>
+        <option value="asc">↑ Menor precio</option>
+        <option value="desc">↓ Mayor precio</option>
+      </select>
+      <button
+        class="filter-toggle"
+        [class.filter-toggle--active]="vm.soloMios()"
+        (click)="vm.toggleSoloMios()"
+      >
+        @if (vm.soloMios()) { 👤 Solo mis pedidos } @else { 📋 Todos los pedidos }
+      </button>
+    </div>
+  </header>
+
+  <!-- Barra de búsqueda por ID -->
+  <div class="search-bar">
+    <div class="search-input-wrapper">
+      <span class="search-icon">🔍</span>
+      <input
+        type="text"
+        class="search-input"
+        placeholder="Buscar pedido por ID..."
+        [ngModel]="vm.searchId()"
+        (ngModelChange)="vm.searchId.set($event)"
+      />
+    </div>
+    <div class="date-filters">
+      <div class="date-filter-group">
+        <label class="date-label">📅 Desde</label>
+        <input
+          type="date"
+          class="date-input"
+          [ngModel]="vm.fechaDesde()"
+          (ngModelChange)="vm.fechaDesde.set($event)"
+        />
+      </div>
+      <div class="date-filter-group">
+        <label class="date-label">📅 Hasta</label>
+        <input
+          type="date"
+          class="date-input"
+          [ngModel]="vm.fechaHasta()"
+          (ngModelChange)="vm.fechaHasta.set($event)"
+        />
+      </div>
+      @if (vm.fechaDesde() || vm.fechaHasta()) {
+        <button class="clear-dates-btn" (click)="vm.fechaDesde.set(''); vm.fechaHasta.set('')">
+          ✕ Limpiar fechas
+        </button>
+      }
+    </div>
+  </div>
+
+  <!-- Estado de carga -->
+  @if (vm.isLoading()) {
+    <app-skeleton-loading type="list" [count]="5"></app-skeleton-loading>
+  }
+
+  <!-- Mensaje de error -->
+  @if (vm.errorMessage()) {
+    <app-error-message
+      [message]="vm.errorMessage()!"
+      (retry)="vm.cargarPedidos()"
+    ></app-error-message>
+  }
+
+  <!-- Lista de pedidos -->
+  @if (!vm.isLoading() && !vm.errorMessage()) {
+    @if (vm.pedidos().length === 0) {
+      <div class="empty-state animate-fade-in">
+        <span class="empty-icon">📭</span>
+        <h2>No hay pedidos</h2>
+        <p>Aún no se han realizado pedidos.</p>
+      </div>
+    } @else {
+      <div class="pedidos-list">
+        @for (pedido of vm.pedidosFiltrados(); track pedido.id; let i = $index) {
+          <app-animated-list-item [index]="i" animation="fadeUp">
+            <div class="pedido-card" (click)="verDetalle(pedido.id)" [style.view-transition-name]="'pedido-' + pedido.id">
+              <div class="pedido-card__top">
+                <div class="pedido-card__id">
+                  <span class="pedido-card__emoji">{{ getEstadoEmoji(pedido.estado) }}</span>
+                  <span class="pedido-card__number" [style.view-transition-name]="'pedido-title-' + pedido.id">Pedido #{{ pedido.id }}</span>
+                </div>
+                <span class="pedido-card__estado" [ngClass]="getEstadoClass(pedido.estado)">
+                  {{ pedido.estado | titlecase }}
+                </span>
+              </div>
+              <div class="pedido-card__body">
+                <div class="pedido-card__info">
+                  <span class="info-item">📅 {{ pedido.fecha | date:'dd/MM/yyyy' }}</span>
+                  <span class="info-item">👤 {{ pedido.usuarioNombre }}</span>
+                </div>
+                <div class="pedido-card__price">
+                  {{ pedido.precioTotal | currencyFormat }}
+                </div>
+              </div>
+              <div class="pedido-card__arrow">→</div>
+            </div>
+          </app-animated-list-item>
+        }
+      </div>
+    }
+  }
+</div>

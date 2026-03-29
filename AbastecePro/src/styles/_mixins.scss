@@ -1,0 +1,250 @@
+/**
+ * Mixins reutilizables para estilos consistentes.
+ * Incluye responsive, flexbox, glass, truncate y más.
+ */
+@use 'variables' as *;
+
+/* ==========================================
+   RESPONSIVE BREAKPOINTS
+   ========================================== */
+
+/** Mixin para media queries responsive (mobile-first) */
+@mixin respond-to($breakpoint) {
+  @if $breakpoint == 'xs' {
+    @media (min-width: $breakpoint-xs) { @content; }
+  } @else if $breakpoint == 'sm' {
+    @media (min-width: $breakpoint-sm) { @content; }
+  } @else if $breakpoint == 'md' {
+    @media (min-width: $breakpoint-md) { @content; }
+  } @else if $breakpoint == 'lg' {
+    @media (min-width: $breakpoint-lg) { @content; }
+  } @else if $breakpoint == 'xl' {
+    @media (min-width: $breakpoint-xl) { @content; }
+  } @else if $breakpoint == '2xl' {
+    @media (min-width: $breakpoint-2xl) { @content; }
+  }
+}
+
+/* ==========================================
+   LAYOUT HELPERS
+   ========================================== */
+
+/** Centrar elementos con flexbox */
+@mixin flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/** Columna flex centrada */
+@mixin flex-column-center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+/** Flex con espacio entre elementos */
+@mixin flex-between {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/** Grid responsive con auto-fill */
+@mixin responsive-grid($min-width: 280px, $gap: $spacing-lg) {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax($min-width, 1fr));
+  gap: $gap;
+}
+
+/* ==========================================
+   EFECTO GLASSMORPHISM
+   ========================================== */
+
+/** Efecto de cristal premium */
+@mixin glass($bg: $glass-bg, $blur: $glass-blur, $border: $glass-border) {
+  background: $bg;
+  backdrop-filter: blur($blur);
+  -webkit-backdrop-filter: blur($blur);
+  border: 1px solid $border;
+}
+
+/* ==========================================
+   TEXTO
+   ========================================== */
+
+/** Truncar texto con ellipsis */
+@mixin text-truncate {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/** Truncar texto multilinea */
+@mixin text-clamp($lines: 2) {
+  display: -webkit-box;
+  -webkit-line-clamp: $lines;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* ==========================================
+   TRANSICIONES Y ANIMACIONES
+   ========================================== */
+
+/** Transición suave por defecto */
+@mixin smooth-transition($properties: all, $duration: $transition-normal, $easing: $transition-ease) {
+  transition: $properties $duration $easing;
+}
+
+/** Hover con elevación */
+@mixin hover-lift($y: -4px, $shadow: $shadow-lg) {
+  @include smooth-transition(transform box-shadow);
+
+  &:hover {
+    transform: translateY($y);
+    box-shadow: $shadow;
+  }
+}
+
+/* ==========================================
+   TARJETAS
+   ========================================== */
+
+/** Estilo base para tarjetas */
+@mixin card-base($radius: $border-radius-xl) {
+  border-radius: $radius;
+  box-shadow: $shadow-md;
+  @include smooth-transition;
+}
+
+/** Tarjeta con efecto glass */
+@mixin card-glass {
+  @include card-base;
+  @include glass;
+}
+
+/* ==========================================
+   SCROLLBAR PERSONALIZADO
+   ========================================== */
+
+@mixin custom-scrollbar($width: 6px, $track: transparent, $thumb: var(--text-secondary)) {
+  &::-webkit-scrollbar {
+    width: $width;
+  }
+
+  &::-webkit-scrollbar-track {
+    background: $track;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background: $thumb;
+    border-radius: $border-radius-full;
+
+    &:hover {
+      /** Usa filter para oscurecer sin necesidad de darken() */
+      filter: brightness(0.85);
+    }
+  }
+}
+
+/* ==========================================
+   SKELETON LOADING
+   ========================================== */
+
+/** Efecto de shimmer para skeleton loading */
+@mixin skeleton-shimmer {
+  background: linear-gradient(
+    90deg,
+    var(--skeleton-base) 25%,
+    var(--skeleton-shine) 50%,
+    var(--skeleton-base) 75%
+  );
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite ease-in-out;
+  border-radius: $border-radius-md;
+}
+
+/* ==========================================
+   INPUTS
+   ========================================== */
+
+/** Estilo base para inputs */
+@mixin input-base {
+  width: 100%;
+  padding: $spacing-sm $spacing-md;
+  font-family: $font-family-primary;
+  font-size: $font-size-base;
+  border: 2px solid var(--border-color);
+  border-radius: $border-radius-lg;
+  background: var(--surface-color);
+  color: var(--text-primary);
+  @include smooth-transition(border-color, box-shadow);
+
+  &:focus {
+    outline: none;
+    border-color: $color-primary;
+    box-shadow: 0 0 0 3px $color-primary-200;
+  }
+
+  &::placeholder {
+    color: var(--text-secondary);
+    opacity: 0.6;
+  }
+}
+
+/* ==========================================
+   BOTONES
+   ========================================== */
+
+/** Estilo base para botones */
+@mixin button-base {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: $spacing-xs;
+  padding: $spacing-sm $spacing-lg;
+  font-family: $font-family-primary;
+  font-size: $font-size-base;
+  font-weight: $font-weight-semibold;
+  border: none;
+  border-radius: $border-radius-lg;
+  cursor: pointer;
+  @include smooth-transition;
+
+  &:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+}
+
+/** Botón primario */
+@mixin button-primary {
+  @include button-base;
+  background: linear-gradient(135deg, $color-primary, $color-primary-dark);
+  color: $color-white;
+
+  &:hover:not(:disabled) {
+    background: linear-gradient(135deg, $color-primary-light, $color-primary);
+    transform: translateY(-1px);
+    box-shadow: $shadow-lg;
+  }
+
+  &:active:not(:disabled) {
+    transform: translateY(0);
+  }
+}
+
+/** Botón secundario outline */
+@mixin button-outline {
+  @include button-base;
+  background: transparent;
+  border: 2px solid $color-primary;
+  color: $color-primary;
+
+  &:hover:not(:disabled) {
+    background: $color-primary-50;
+    transform: translateY(-1px);
+  }
+}

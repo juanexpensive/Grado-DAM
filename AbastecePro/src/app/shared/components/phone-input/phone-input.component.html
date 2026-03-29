@@ -1,0 +1,54 @@
+<!-- Phone input con selector de prefijo internacional -->
+<div class="phone-input-container" (clickOutside)="closeDropdown()">
+  <!-- Selector de prefijo -->
+  <div class="prefix-selector" (click)="toggleDropdown()" [class.prefix-selector--disabled]="disabled">
+    <span class="prefix-flag">{{ selectedCountry().flag }}</span>
+    <span class="prefix-code">{{ selectedCountry().prefix }}</span>
+    <span class="prefix-arrow" [class.prefix-arrow--open]="dropdownOpen()">▾</span>
+  </div>
+
+  <!-- Input del número -->
+  <input
+    type="tel"
+    class="phone-number-input"
+    placeholder="612 345 678"
+    [ngModel]="phoneNumber()"
+    (ngModelChange)="onPhoneChange($event)"
+    (blur)="onTouched()"
+    [disabled]="disabled"
+    name="phoneNumber"
+  />
+
+  <!-- Dropdown de países -->
+  @if (dropdownOpen()) {
+    <div class="country-dropdown">
+      <div class="dropdown-search">
+        <input
+          type="text"
+          class="dropdown-search-input"
+          placeholder="Buscar país..."
+          [ngModel]="searchCountry()"
+          (ngModelChange)="searchCountry.set($event)"
+          name="countrySearch"
+          (click)="$event.stopPropagation()"
+        />
+      </div>
+      <div class="dropdown-list">
+        @for (country of filteredCountries(); track country.code) {
+          <div
+            class="dropdown-item"
+            [class.dropdown-item--selected]="country.code === selectedCountry().code"
+            (click)="selectCountry(country); $event.stopPropagation()"
+          >
+            <span class="dropdown-item__flag">{{ country.flag }}</span>
+            <span class="dropdown-item__name">{{ country.name }}</span>
+            <span class="dropdown-item__prefix">{{ country.prefix }}</span>
+          </div>
+        }
+        @if (filteredCountries().length === 0) {
+          <div class="dropdown-empty">No se encontraron países</div>
+        }
+      </div>
+    </div>
+  }
+</div>

@@ -1,0 +1,95 @@
+<!-- Pantalla de nuevo pedido -->
+<div class="carrito-page">
+  <header class="page-header">
+    <div class="page-header__left">
+      <button class="back-btn" (click)="volver()">← Volver</button>
+      <h1 class="page-title">Nuevo Pedido</h1>
+    </div>
+  </header>
+
+  @if (pedidoConfirmado) {
+    <!-- Estado: Pedido confirmado -->
+    <div class="success-state animate-fade-in-scale">
+      <span class="success-icon">✅</span>
+      <h2>¡Pedido confirmado!</h2>
+      <p>Tu pedido ha sido registrado correctamente.</p>
+      <div class="success-actions">
+        <button class="btn-primary" (click)="verPedidos()">Ver mis pedidos</button>
+        <button class="btn-outline" (click)="seguirComprando()">Seguir comprando</button>
+      </div>
+    </div>
+  } @else if (carrito.items().length === 0) {
+    <!-- Estado: Pedido vacío -->
+    <div class="empty-state animate-fade-in">
+      <span class="empty-icon">📋</span>
+      <h2>No hay productos en el pedido</h2>
+      <p>Añade productos desde el catálogo para crear un nuevo pedido.</p>
+      <button class="btn-primary" (click)="seguirComprando()">Explorar productos</button>
+    </div>
+  } @else {
+    <!-- Info del proveedor -->
+    @if (carrito.proveedorActualNombre()) {
+      <div class="proveedor-banner animate-fade-in">
+        <span>🏢 Proveedor: <strong>{{ carrito.proveedorActualNombre() }}</strong></span>
+      </div>
+    }
+
+    <!-- Lista de items del pedido -->
+    <div class="carrito-content">
+      <div class="carrito-items">
+        @for (item of carrito.items(); track item.idProducto; let i = $index) {
+          <app-animated-list-item [index]="i" animation="fadeUp">
+            <div class="carrito-item">
+              <div class="carrito-item__icon">📦</div>
+              <div class="carrito-item__info">
+                <h3 class="carrito-item__name">{{ item.nombre }}</h3>
+                <p class="carrito-item__price">{{ item.precioUnitario | currencyFormat }} / ud.</p>
+              </div>
+              <div class="carrito-item__quantity">
+                <button class="qty-btn" (click)="decrementar(item.idProducto, item.cantidad)">−</button>
+                <span class="qty-value">{{ item.cantidad }}</span>
+                <button class="qty-btn" (click)="incrementar(item.idProducto, item.cantidad)" [disabled]="item.cantidad >= item.stock">+</button>
+              </div>
+              <div class="carrito-item__subtotal">
+                {{ item.subtotal | currencyFormat }}
+              </div>
+              <button class="carrito-item__remove" title="Eliminar producto" (click)="eliminar(item.idProducto)">🗑️</button>
+            </div>
+          </app-animated-list-item>
+        }
+      </div>
+
+      <!-- Resumen del pedido -->
+      <div class="carrito-summary animate-fade-in">
+        <h3 class="summary-title">Resumen del pedido</h3>
+        <div class="summary-row">
+          <span>Productos ({{ carrito.totalItems() }})</span>
+          <span>{{ carrito.precioTotal() | currencyFormat }}</span>
+        </div>
+        <div class="summary-divider"></div>
+        <div class="summary-row summary-total">
+          <span>Total</span>
+          <span>{{ carrito.precioTotal() | currencyFormat }}</span>
+        </div>
+        <button
+          class="confirm-btn"
+          (click)="confirmarPedido()"
+          [disabled]="procesando"
+        >
+          @if (procesando) {
+            <span class="spinner"></span> Procesando...
+          } @else {
+            Confirmar Pedido
+          }
+        </button>
+        <button
+          class="vaciar-btn"
+          (click)="carrito.vaciarCarrito()"
+          [disabled]="procesando"
+        >
+          🗑️ Vaciar pedido
+        </button>
+      </div>
+    </div>
+  }
+</div>

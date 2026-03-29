@@ -1,0 +1,205 @@
+/**
+ * Animaciones y keyframes globales.
+ * Todas las duraciones son fácilmente modificables
+ * mediante las variables de _variables.scss.
+ */
+@use 'variables' as *;
+
+/* ==========================================
+   KEYFRAMES
+   ========================================== */
+
+/** Shimmer para skeleton loading */
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+/** Fade in desde abajo */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/** Fade in desde la izquierda */
+@keyframes fadeInLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+/** Fade in con escala */
+@keyframes fadeInScale {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+/** Fade in simple */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+/** Fade out simple */
+@keyframes fadeOut {
+  from { opacity: 1; }
+  to { opacity: 0; }
+}
+
+/** Spin para loading */
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+/** Pulso suave */
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+
+/** Bounce sutil */
+@keyframes subtleBounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-5px); }
+}
+
+/** Slide in desde la derecha */
+@keyframes slideInRight {
+  from {
+    opacity: 0;
+    transform: translateX(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+/** Slide down */
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ==========================================
+   CLASES DE ANIMACIÓN REUTILIZABLES
+   ========================================== */
+
+.animate-fade-in {
+  animation: fadeIn $transition-normal $transition-ease forwards;
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp $transition-slow $transition-ease forwards;
+}
+
+.animate-fade-in-left {
+  animation: fadeInLeft $transition-slow $transition-ease forwards;
+}
+
+.animate-fade-in-scale {
+  animation: fadeInScale $transition-slow $transition-spring forwards;
+}
+
+.animate-slide-in-right {
+  animation: slideInRight $transition-slow $transition-ease forwards;
+}
+
+.animate-slide-down {
+  animation: slideDown $transition-normal $transition-ease forwards;
+}
+
+.animate-spin {
+  animation: spin 1s linear infinite;
+}
+
+.animate-pulse {
+  animation: pulse 2s $transition-ease-in-out infinite;
+}
+
+/* ==========================================
+   STAGGER (para listas de elementos)
+   ========================================== */
+
+/** Genera clases .stagger-1 a .stagger-20 con delay progresivo */
+@for $i from 1 through 20 {
+  .stagger-#{$i} {
+    animation-delay: #{$i * 60}ms;
+  }
+}
+
+/* ==========================================
+   VIEW TRANSITION NAMES
+   ========================================== */
+
+.vt-page {
+  view-transition-name: page-content;
+}
+
+.vt-header {
+  view-transition-name: main-header;
+}
+
+.vt-sidebar {
+  view-transition-name: main-sidebar;
+}
+
+/* ==========================================
+   VIEW TRANSITIONS CSS (navegación)
+   ========================================== */
+
+::view-transition-old(page-content) {
+  animation: fadeOut $transition-normal $transition-ease forwards;
+}
+
+::view-transition-new(page-content) {
+  animation: fadeInUp $transition-slow $transition-ease forwards;
+}
+
+::view-transition-old(main-header),
+::view-transition-old(main-sidebar) {
+  animation: none;
+}
+
+::view-transition-new(main-header),
+::view-transition-new(main-sidebar) {
+  animation: none;
+}
+
+/* ==========================================
+   SHARED ELEMENT VIEW TRANSITIONS
+   Los elementos con view-transition-name
+   dinámico (product-*, pedido-*) usan la
+   animación por defecto del navegador
+   (cross-fade + morph), que ya es fluida.
+   Aquí solo suavizamos la duración.
+   ========================================== */
+
+::view-transition-group(*) {
+  animation-duration: 300ms;
+  animation-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}

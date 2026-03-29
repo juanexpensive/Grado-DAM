@@ -1,0 +1,7 @@
+/**
+ * Estilos del componente AnimatedListItem.
+ */
+:host {
+  display: block;
+  will-change: opacity, transform;
+}
