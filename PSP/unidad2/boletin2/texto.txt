@@ -1,0 +1,6 @@
+
+    La programación de procesos en Python es muy interesante.
+    El módulo multiprocessing permite ejecutar código en paralelo.
+    Las vocales son letras fundamentales del alfabeto español.
+    Este ejercicio cuenta cuántas vocales hay en este texto.
+    
