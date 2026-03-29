@@ -1,0 +1,102 @@
+/**
+ * Archivo principal de estilos globales de AbastecePro.
+ * Importa todos los parciales SCSS y define resets y utilidades.
+ */
+@use 'variables' as *;
+@use 'mixins' as *;
+@use 'themes';
+@use 'typography';
+@use 'animations';
+
+/* ==========================================
+   RESET Y BASE
+   ========================================== */
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: $font-family-primary;
+  font-size: $font-size-base;
+  line-height: $line-height-normal;
+  color: var(--text-primary);
+  background-color: var(--bg-color);
+  min-height: 100vh;
+  @include smooth-transition(background-color color);
+}
+
+a {
+  color: var(--color-primary);
+  text-decoration: none;
+  @include smooth-transition(color);
+
+  &:hover {
+    color: var(--color-primary-light);
+  }
+}
+
+button {
+  font-family: inherit;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+ul, ol {
+  list-style: none;
+}
+
+input, textarea, select {
+  font-family: inherit;
+}
+
+/* ==========================================
+   UTILIDADES
+   ========================================== */
+
+/** Contenedor principal con ancho máximo */
+.container {
+  width: 100%;
+  max-width: $breakpoint-xl;
+  margin: 0 auto;
+  padding: 0 $spacing-md;
+
+  @include respond-to('lg') {
+    padding: 0 $spacing-xl;
+  }
+}
+
+/** Ocultar visualmente pero accesible para screen readers */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+/* ==========================================
+   SCROLLBAR GLOBAL
+   ========================================== */
+
+body {
+  @include custom-scrollbar(8px, var(--bg-color), var(--border-color));
+}

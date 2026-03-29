@@ -1,0 +1,116 @@
+/**
+ * Definición de temas claro y oscuro usando CSS custom properties.
+ * Los temas se aplican mediante la clase .dark-theme en el body.
+ */
+@use 'variables' as *;
+
+/* ==========================================
+   TEMA CLARO (por defecto)
+   ========================================== */
+
+:root,
+[data-theme='light'] {
+  /** Colores de fondo */
+  --bg-color: #{$light-bg};
+  --surface-color: #{$light-surface};
+  --surface-elevated: #{$color-white};
+
+  /** Colores de texto */
+  --text-primary: #{$light-text-primary};
+  --text-secondary: #{$light-text-secondary};
+  --text-inverse: #{$dark-text-primary};
+
+  /** Colores de borde */
+  --border-color: #{$light-border};
+  --border-light: #{$color-gray-100};
+
+  /** Colores de marca */
+  --color-primary: #{$color-primary};
+  --color-primary-light: #{$color-primary-light};
+  --color-primary-dark: #{$color-primary-dark};
+  --color-primary-50: #{$color-primary-50};
+  --color-secondary: #{$color-secondary};
+  --color-accent: #{$color-accent};
+
+  /** Colores de estado */
+  --color-success: #{$color-success};
+  --color-warning: #{$color-warning};
+  --color-error: #{$color-error};
+  --color-info: #{$color-info};
+
+  /** Sombras */
+  --shadow-sm: #{$shadow-sm};
+  --shadow-md: #{$shadow-md};
+  --shadow-lg: #{$shadow-lg};
+  --shadow-xl: #{$shadow-xl};
+
+  /** Skeleton loading */
+  --skeleton-base: #{$color-gray-200};
+  --skeleton-shine: #{$color-gray-100};
+
+  /** Overlay */
+  --overlay-bg: rgba(0, 0, 0, 0.5);
+
+  /** Sidebar */
+  --sidebar-bg: #{$color-white};
+  --sidebar-hover: #{$color-gray-50};
+
+  /** Input */
+  --input-bg: #{$color-white};
+  --input-border: #{$color-gray-300};
+}
+
+/* ==========================================
+   TEMA OSCURO
+   ========================================== */
+
+[data-theme='dark'] {
+  /** Colores de fondo */
+  --bg-color: #{$dark-bg};
+  --surface-color: #{$dark-surface};
+  --surface-elevated: #283548;
+
+  /** Colores de texto */
+  --text-primary: #{$dark-text-primary};
+  --text-secondary: #{$dark-text-secondary};
+  --text-inverse: #{$light-text-primary};
+
+  /** Colores de borde */
+  --border-color: #{$dark-border};
+  --border-light: #2D3A4D;
+
+  /** Colores de marca (ligeramente más claros en modo oscuro) */
+  --color-primary: #{$color-primary-light};
+  --color-primary-light: #{$color-primary-200};
+  --color-primary-dark: #{$color-primary};
+  --color-primary-50: rgba(13, 115, 119, 0.15);
+  --color-secondary: #{$color-secondary-light};
+  --color-accent: #{$color-accent-light};
+
+  /** Colores de estado */
+  --color-success: #{$color-success};
+  --color-warning: #{$color-warning};
+  --color-error: #F87171;
+  --color-info: #60A5FA;
+
+  /** Sombras (más pronunciadas en oscuro) */
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.2);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.3), 0 2px 4px -2px rgba(0, 0, 0, 0.2);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.4), 0 4px 6px -4px rgba(0, 0, 0, 0.3);
+  --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.5), 0 8px 10px -6px rgba(0, 0, 0, 0.4);
+
+  /** Skeleton loading */
+  --skeleton-base: #2D3A4D;
+  --skeleton-shine: #{$dark-border};
+
+  /** Overlay */
+  --overlay-bg: rgba(0, 0, 0, 0.7);
+
+  /** Sidebar */
+  --sidebar-bg: #{$dark-surface};
+  --sidebar-hover: #283548;
+
+  /** Input */
+  --input-bg: #283548;
+  --input-border: #{$dark-border};
+}

@@ -1,0 +1,41 @@
+<!-- Menú principal del ERP con módulos como tarjetas -->
+<div class="main-menu-page" [style.background]="backgroundUrl">
+  <div class="main-menu-overlay"></div>
+
+  <div class="main-menu-content">
+    <!-- Header con saludo -->
+    <header class="menu-header animate-fade-in">
+      <div class="menu-header__greeting">
+        <h1 class="menu-header__title">
+          ¡Hola, {{ vm.nombreUsuario() }}! 👋
+        </h1>
+        <p class="menu-header__subtitle">
+          ¿Qué quieres hacer hoy?
+        </p>
+      </div>
+      <div class="menu-header__badge">
+        {{ vm.rolUsuario() }}
+      </div>
+    </header>
+
+    <!-- Grid de módulos -->
+    <div class="modules-grid">
+      @for (modulo of vm.modulos(); track modulo.id; let i = $index) {
+        <app-animated-list-item [index]="i" animation="fadeScale">
+          <button
+            class="module-card"
+            (click)="navigateTo(modulo.ruta)"
+            [style.--module-color]="modulo.color"
+          >
+            <div class="module-card__icon-wrapper" [style.background]="modulo.color + '20'">
+              <span class="module-card__icon">{{ modulo.icono }}</span>
+            </div>
+            <h3 class="module-card__name">{{ modulo.nombre }}</h3>
+            <p class="module-card__desc">{{ modulo.descripcion }}</p>
+            <div class="module-card__arrow">→</div>
+          </button>
+        </app-animated-list-item>
+      }
+    </div>
+  </div>
+</div>

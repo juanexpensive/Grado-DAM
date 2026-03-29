@@ -1,0 +1,98 @@
+<!-- Pantalla de ajustes / configuración -->
+<div class="config-page">
+  <header class="page-header">
+    <div class="page-header__left">
+      <button class="back-btn" (click)="volver()">← Volver</button>
+      <h1 class="page-title">Ajustes</h1>
+    </div>
+  </header>
+
+  <div class="config-content animate-fade-in">
+
+    <!-- Sección: Perfil del usuario -->
+    <section class="config-section">
+      <h2 class="section-title">👤 Perfil</h2>
+      <div class="profile-card">
+        <div class="profile-avatar">
+          {{ vm.usuarioActual?.nombre?.charAt(0)?.toUpperCase() ?? '?' }}
+        </div>
+        <div class="profile-info">
+          <h3 class="profile-name">{{ vm.usuarioActual?.nombre ?? 'Usuario' }}</h3>
+          <p class="profile-email">{{ vm.usuarioActual?.correo ?? '' }}</p>
+          <span class="profile-role" [class.profile-role--admin]="vm.usuarioActual?.rol === 'administrador'">
+            {{ vm.usuarioActual?.rol === 'administrador' ? '👑 Administrador' : '👤 Empleado' }}
+          </span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Sección: Apariencia - Tema -->
+    <section class="config-section">
+      <h2 class="section-title">🎨 Tema</h2>
+      <p class="section-desc">Selecciona el tema de la interfaz.</p>
+      <div class="theme-options">
+        <button
+          class="theme-card"
+          [class.theme-card--active]="vm.temaActual() === 'light'"
+          (click)="vm.cambiarTema('light')"
+        >
+          <span class="theme-card__icon">☀️</span>
+          <span class="theme-card__name">Claro</span>
+        </button>
+        <button
+          class="theme-card"
+          [class.theme-card--active]="vm.temaActual() === 'dark'"
+          (click)="vm.cambiarTema('dark')"
+        >
+          <span class="theme-card__icon">🌙</span>
+          <span class="theme-card__name">Oscuro</span>
+        </button>
+      </div>
+    </section>
+
+    <!-- Sección: Apariencia - Fondo de pantalla -->
+    <section class="config-section">
+      <h2 class="section-title">🖼️ Fondo de Pantalla</h2>
+      <p class="section-desc">Elige un fondo para la pantalla de inicio.</p>
+      <div class="wallpaper-grid">
+        @for (wp of vm.fondos(); track wp.id) {
+          <button
+            class="wallpaper-card"
+            [class.wallpaper-card--active]="vm.fondoActual() === wp.id"
+            [style.background]="wp.previewUrl"
+            (click)="vm.cambiarFondo(wp.id)"
+          >
+            <span class="wallpaper-card__name">{{ wp.nombre }}</span>
+            @if (vm.fondoActual() === wp.id) {
+              <span class="wallpaper-card__check">✓</span>
+            }
+          </button>
+        }
+      </div>
+    </section>
+
+    <!-- Sección: Acerca de -->
+    <section class="config-section">
+      <h2 class="section-title">ℹ️ Acerca de</h2>
+      <div class="about-card">
+        <div class="about-row">
+          <span class="about-label">Aplicación</span>
+          <span class="about-value">AbastecePro</span>
+        </div>
+        <div class="about-row">
+          <span class="about-label">Versión</span>
+          <span class="about-value">{{ appVersion }}</span>
+        </div>
+        <div class="about-row">
+          <span class="about-label">Plataforma</span>
+          <span class="about-value">Angular 21</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Botón cerrar sesión -->
+    <button class="logout-btn" (click)="vm.cerrarSesion()">
+      🚪 Cerrar Sesión
+    </button>
+  </div>
+</div>

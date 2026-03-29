@@ -1,0 +1,89 @@
+<div class="detalle-producto-page">
+  <header class="page-header">
+    <div class="page-header__left">
+      <button class="back-btn" (click)="volver()">← Volver</button>
+      <h1 class="page-title">Detalle del Producto</h1>
+    </div>
+  </header>
+
+  @if (vm.errorMessage()) {
+    <app-error-message [message]="vm.errorMessage()!" (retry)="vm.cargarDetalle(vm.producto()?.id ?? 0)"></app-error-message>
+  }
+
+  @if (vm.producto(); as producto) {
+    <div class="detalle-content" [class.detalle-content--ready]="!vm.isLoading()">
+      <!-- Card principal del producto -->
+      <div class="producto-hero" [style.view-transition-name]="'product-' + producto.id">
+        <div class="producto-hero__icon">📦</div>
+        <div class="producto-hero__info">
+          <span class="producto-hero__category">{{ producto.categoriaNombre }}</span>
+          <h2 class="producto-hero__name" [style.view-transition-name]="'product-name-' + producto.id">{{ producto.nombre }}</h2>
+          <p class="producto-hero__desc">{{ producto.descripcion }}</p>
+          <div class="producto-hero__meta">
+            <span class="producto-hero__price" [style.view-transition-name]="'product-price-' + producto.id">{{ producto.precio | currencyFormat }}</span>
+            @if (producto.enStock) {
+              <span class="stock-badge stock-badge--in">✓ {{ producto.stock }} en stock</span>
+            } @else {
+              <span class="stock-badge stock-badge--out">✗ Agotado</span>
+            }
+          </div>
+        </div>
+      </div>
+
+      <!-- Acciones -->
+      <div class="actions-bar">
+        @if (carrito.errorProveedor()) {
+          <div class="proveedor-warning">
+            <span>⚠️ {{ carrito.errorProveedor() }}</span>
+          </div>
+        }
+        <button
+          class="add-to-cart-btn"
+          [class.add-to-cart-btn--added]="addedToCart"
+          (click)="agregarAlCarrito()"
+          [disabled]="!producto.enStock"
+        >
+          @if (addedToCart) {
+            ✓ Añadido al pedido
+          } @else {
+            Añadir al pedido
+          }
+        </button>
+      </div>
+
+      <!-- Info del proveedor -->
+      <section class="info-section">
+        <h3 class="section-title">🏢 Proveedor</h3>
+        <div class="info-card">
+          <div class="info-row">
+            <span class="info-label">Empresa</span>
+            <span class="info-value">{{ producto.proveedorNombre }}</span>
+          </div>
+          <div class="info-row">
+            <span class="info-label">Teléfono</span>
+            <span class="info-value">📞 {{ producto.proveedorTelefono }}</span>
+          </div>
+          <div class="info-row">
+            <span class="info-label">Correo</span>
+            <span class="info-value"><a class="mailto-link" href="mailto:{{ producto.proveedorCorreo }}">✉️ {{ producto.proveedorCorreo }}</a></span>
+          </div>
+        </div>
+      </section>
+
+      <!-- Info adicional -->
+      <section class="info-section">
+        <h3 class="section-title">📋 Información</h3>
+        <div class="info-card">
+          <div class="info-row">
+            <span class="info-label">Categoría</span>
+            <span class="info-value">{{ producto.categoriaNombre }}</span>
+          </div>
+          <div class="info-row">
+            <span class="info-label">Stock disponible</span>
+            <span class="info-value">{{ producto.stock }} unidades</span>
+          </div>
+        </div>
+      </section>
+    </div>
+  }
+</div>

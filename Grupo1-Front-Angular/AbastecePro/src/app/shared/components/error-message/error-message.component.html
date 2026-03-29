@@ -1,0 +1,12 @@
+<!-- Mensaje de error con opción de reintento -->
+<div class="error-container animate-fade-in-scale">
+  <div class="error-icon">{{ icon }}</div>
+  <h3 class="error-title">{{ title }}</h3>
+  <p class="error-message">{{ message }}</p>
+  @if (showRetry) {
+    <button class="error-retry-btn" (click)="onRetry()">
+      <span class="error-retry-icon">🔄</span>
+      Reintentar
+    </button>
+  }
+</div>

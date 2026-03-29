@@ -1,0 +1,100 @@
+<!-- Pantalla de edición de usuario -->
+<div class="form-page">
+  <header class="page-header">
+    <button class="back-btn" (click)="cancelar()">← Volver al listado</button>
+    <h1 class="page-title">Editar Usuario</h1>
+  </header>
+
+  @if (vm.isLoading()) {
+    <app-skeleton-loading type="card" [count]="1"></app-skeleton-loading>
+  } @else {
+    <form class="user-form animate-fade-in" (ngSubmit)="onSubmit()">
+      @if (vm.errorMessage()) {
+        <div class="form-error">
+          ⚠️ {{ vm.errorMessage() }}
+        </div>
+      }
+
+      <div class="form-card">
+        <h2 class="form-section-title">📋 Datos personales</h2>
+
+        <div class="form-row form-row--two">
+          <div class="form-group">
+            <label class="form-label">Nombre *</label>
+            <input
+              type="text"
+              class="form-input"
+              [ngModel]="vm.nombre()"
+              (ngModelChange)="vm.nombre.set($event)"
+              name="nombre"
+              required
+            />
+          </div>
+          <div class="form-group">
+            <label class="form-label">Apellidos *</label>
+            <input
+              type="text"
+              class="form-input"
+              [ngModel]="vm.apellidos()"
+              (ngModelChange)="vm.apellidos.set($event)"
+              name="apellidos"
+              required
+            />
+          </div>
+        </div>
+
+        <div class="form-row form-row--two">
+          <div class="form-group">
+            <label class="form-label">Correo electrónico *</label>
+            <input
+              type="email"
+              class="form-input"
+              [ngModel]="vm.correo()"
+              (ngModelChange)="vm.correo.set($event)"
+              name="correo"
+              required
+            />
+          </div>
+          <div class="form-group">
+            <label class="form-label">Teléfono</label>
+            <app-phone-input
+              [ngModel]="vm.telefono()"
+              (ngModelChange)="vm.telefono.set($event)"
+              name="telefono"
+            ></app-phone-input>
+          </div>
+        </div>
+
+        <div class="form-row">
+          <div class="form-group">
+            <label class="form-label">Rol *</label>
+            <select
+              class="form-input form-select"
+              [ngModel]="vm.rol()"
+              (ngModelChange)="vm.rol.set($event)"
+              name="rol"
+            >
+              <option value="empleado">Empleado</option>
+              <option value="administrador">Administrador</option>
+            </select>
+          </div>
+        </div>
+      </div>
+
+      <div class="form-actions">
+        <button type="button" class="btn-outline" (click)="cancelar()" [disabled]="vm.isSaving()">Cancelar</button>
+        <button
+          type="submit"
+          class="btn-primary"
+          [disabled]="vm.isSaving() || !vm.nombre() || !vm.apellidos() || !vm.correo()"
+        >
+          @if (vm.isSaving()) {
+            <span class="spinner"></span> Guardando...
+          } @else {
+            Guardar Cambios
+          }
+        </button>
+      </div>
+    </form>
+  }
+</div>
