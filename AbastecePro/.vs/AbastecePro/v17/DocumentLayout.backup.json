@@ -1,0 +1,513 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6708120-7A2C-4497-8B17-E773C08F918A}|Domain\\Domain.csproj|c:\\users\\juanm\\documents\\github\\grupo1-back-.net\\abastecepro\\domain\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6708120-7A2C-4497-8B17-E773C08F918A}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F35170-59A7-4A90-A1E5-014A1461FCC3}|Data\\Data.csproj|c:\\users\\juanm\\documents\\github\\grupo1-back-.net\\abastecepro\\data\\repositories\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F35170-59A7-4A90-A1E5-014A1461FCC3}|Data\\Data.csproj|solutionrelative:data\\repositories\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F35170-59A7-4A90-A1E5-014A1461FCC3}|Data\\Data.csproj|c:\\users\\juanm\\documents\\github\\grupo1-back-.net\\abastecepro\\data\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F35170-59A7-4A90-A1E5-014A1461FCC3}|Data\\Data.csproj|solutionrelative:data\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F35170-59A7-4A90-A1E5-014A1461FCC3}|Data\\Data.csproj|c:\\users\\juanm\\documents\\github\\grupo1-back-.net\\abastecepro\\data\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F35170-59A7-4A90-A1E5-014A1461FCC3}|Data\\Data.csproj|solutionrelative:data\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A2DC40-FBE5-4BC7-9BE2-FBA9C06B6060}|AbastecePro\\AbastecePro.csproj|c:\\users\\juanm\\documents\\github\\grupo1-back-.net\\abastecepro\\abastecepro\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A2DC40-FBE5-4BC7-9BE2-FBA9C06B6060}|AbastecePro\\AbastecePro.csproj|solutionrelative:abastecepro\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F35170-59A7-4A90-A1E5-014A1461FCC3}|Data\\Data.csproj|c:\\users\\juanm\\documents\\github\\grupo1-back-.net\\abastecepro\\data\\database\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F35170-59A7-4A90-A1E5-014A1461FCC3}|Data\\Data.csproj|solutionrelative:data\\database\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A2DC40-FBE5-4BC7-9BE2-FBA9C06B6060}|AbastecePro\\AbastecePro.csproj|c:\\users\\juanm\\documents\\github\\grupo1-back-.net\\abastecepro\\abastecepro\\controllers\\detallepedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A2DC40-FBE5-4BC7-9BE2-FBA9C06B6060}|AbastecePro\\AbastecePro.csproj|solutionrelative:abastecepro\\controllers\\detallepedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F35170-59A7-4A90-A1E5-014A1461FCC3}|Data\\Data.csproj|c:\\users\\juanm\\documents\\github\\grupo1-back-.net\\abastecepro\\data\\repositories\\empresarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F35170-59A7-4A90-A1E5-014A1461FCC3}|Data\\Data.csproj|solutionrelative:data\\repositories\\empresarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6708120-7A2C-4497-8B17-E773C08F918A}|Domain\\Domain.csproj|c:\\users\\juanm\\documents\\github\\grupo1-back-.net\\abastecepro\\domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6708120-7A2C-4497-8B17-E773C08F918A}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6708120-7A2C-4497-8B17-E773C08F918A}|Domain\\Domain.csproj|c:\\users\\juanm\\documents\\github\\grupo1-back-.net\\abastecepro\\domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6708120-7A2C-4497-8B17-E773C08F918A}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A2DC40-FBE5-4BC7-9BE2-FBA9C06B6060}|AbastecePro\\AbastecePro.csproj|c:\\users\\juanm\\documents\\github\\grupo1-back-.net\\abastecepro\\abastecepro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A2DC40-FBE5-4BC7-9BE2-FBA9C06B6060}|AbastecePro\\AbastecePro.csproj|solutionrelative:abastecepro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A2DC40-FBE5-4BC7-9BE2-FBA9C06B6060}|AbastecePro\\AbastecePro.csproj|c:\\users\\juanm\\documents\\github\\grupo1-back-.net\\abastecepro\\abastecepro\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A2DC40-FBE5-4BC7-9BE2-FBA9C06B6060}|AbastecePro\\AbastecePro.csproj|solutionrelative:abastecepro\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6708120-7A2C-4497-8B17-E773C08F918A}|Domain\\Domain.csproj|c:\\users\\juanm\\documents\\github\\grupo1-back-.net\\abastecepro\\domain\\usecases\\usuariousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6708120-7A2C-4497-8B17-E773C08F918A}|Domain\\Domain.csproj|solutionrelative:domain\\usecases\\usuariousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6708120-7A2C-4497-8B17-E773C08F918A}|Domain\\Domain.csproj|c:\\users\\juanm\\documents\\github\\grupo1-back-.net\\abastecepro\\domain\\interfaces\\usecases\\iusuariousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6708120-7A2C-4497-8B17-E773C08F918A}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\usecases\\iusuariousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F35170-59A7-4A90-A1E5-014A1461FCC3}|Data\\Data.csproj|c:\\users\\juanm\\documents\\github\\grupo1-back-.net\\abastecepro\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A8F35170-59A7-4A90-A1E5-014A1461FCC3}|Data\\Data.csproj|solutionrelative:data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180310C8-B744-4D53-83DE-BDCC85060524}|Core\\Core.csproj|c:\\users\\juanm\\documents\\github\\grupo1-back-.net\\abastecepro\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{180310C8-B744-4D53-83DE-BDCC85060524}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.311\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F35170-59A7-4A90-A1E5-014A1461FCC3}|Data\\Data.csproj|c:\\users\\juanm\\documents\\github\\grupo1-back-.net\\abastecepro\\data\\repositories\\detallepedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F35170-59A7-4A90-A1E5-014A1461FCC3}|Data\\Data.csproj|solutionrelative:data\\repositories\\detallepedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6708120-7A2C-4497-8B17-E773C08F918A}|Domain\\Domain.csproj|c:\\users\\juanm\\documents\\github\\grupo1-back-.net\\abastecepro\\domain\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6708120-7A2C-4497-8B17-E773C08F918A}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6708120-7A2C-4497-8B17-E773C08F918A}|Domain\\Domain.csproj|c:\\users\\juanm\\documents\\github\\grupo1-back-.net\\abastecepro\\domain\\entities\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6708120-7A2C-4497-8B17-E773C08F918A}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6708120-7A2C-4497-8B17-E773C08F918A}|Domain\\Domain.csproj|c:\\users\\juanm\\documents\\github\\grupo1-back-.net\\abastecepro\\domain\\entities\\direccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6708120-7A2C-4497-8B17-E773C08F918A}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\direccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6708120-7A2C-4497-8B17-E773C08F918A}|Domain\\Domain.csproj|c:\\users\\juanm\\documents\\github\\grupo1-back-.net\\abastecepro\\domain\\entities\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6708120-7A2C-4497-8B17-E773C08F918A}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6708120-7A2C-4497-8B17-E773C08F918A}|Domain\\Domain.csproj|c:\\users\\juanm\\documents\\github\\grupo1-back-.net\\abastecepro\\domain\\interfaces\\repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6708120-7A2C-4497-8B17-E773C08F918A}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6708120-7A2C-4497-8B17-E773C08F918A}|Domain\\Domain.csproj|c:\\users\\juanm\\documents\\github\\grupo1-back-.net\\abastecepro\\domain\\interfaces\\repositories\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6708120-7A2C-4497-8B17-E773C08F918A}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\repositories\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6708120-7A2C-4497-8B17-E773C08F918A}|Domain\\Domain.csproj|c:\\users\\juanm\\documents\\github\\grupo1-back-.net\\abastecepro\\domain\\usecases\\productousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6708120-7A2C-4497-8B17-E773C08F918A}|Domain\\Domain.csproj|solutionrelative:domain\\usecases\\productousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6708120-7A2C-4497-8B17-E773C08F918A}|Domain\\Domain.csproj|c:\\users\\juanm\\documents\\github\\grupo1-back-.net\\abastecepro\\domain\\interfaces\\usecases\\iproductousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6708120-7A2C-4497-8B17-E773C08F918A}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\usecases\\iproductousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A2DC40-FBE5-4BC7-9BE2-FBA9C06B6060}|AbastecePro\\AbastecePro.csproj|c:\\users\\juanm\\documents\\github\\grupo1-back-.net\\abastecepro\\abastecepro\\abastecepro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{25A2DC40-FBE5-4BC7-9BE2-FBA9C06B6060}|AbastecePro\\AbastecePro.csproj|solutionrelative:abastecepro\\abastecepro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Data\\Services\\FirebaseAuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Services\\FirebaseAuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Domain\\Interfaces\\Services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Interfaces\\Services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\AbastecePro\\firebase-credentials.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AbastecePro\\firebase-credentials.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Core.csproj",
+              "DocumentMoniker": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "Core\\Core.csproj",
+              "ToolTip": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Core\\Core.csproj",
+              "RelativeToolTip": "Core\\Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-17T17:01:55.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsuarioUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Domain\\UseCases\\UsuarioUseCase.cs",
+              "RelativeDocumentMoniker": "Domain\\UseCases\\UsuarioUseCase.cs",
+              "ToolTip": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Domain\\UseCases\\UsuarioUseCase.cs",
+              "RelativeToolTip": "Domain\\UseCases\\UsuarioUseCase.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwCMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T12:01:45.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUsuarioUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Domain\\Interfaces\\UseCases\\IUsuarioUseCase.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\UseCases\\IUsuarioUseCase.cs",
+              "ToolTip": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Domain\\Interfaces\\UseCases\\IUsuarioUseCase.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\UseCases\\IUsuarioUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T12:01:31.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "firebase-credentials.json",
+              "DocumentMoniker": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\AbastecePro\\firebase-credentials.json",
+              "RelativeDocumentMoniker": "AbastecePro\\firebase-credentials.json",
+              "ToolTip": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\AbastecePro\\firebase-credentials.json",
+              "RelativeToolTip": "AbastecePro\\firebase-credentials.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-17T17:17:56.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Domain\\Entities\\Producto.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Producto.cs",
+              "ToolTip": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Domain\\Entities\\Producto.cs",
+              "RelativeToolTip": "Domain\\Entities\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:53:59.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Data.csproj",
+              "DocumentMoniker": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Data\\Data.csproj",
+              "RelativeToolTip": "Data\\Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-17T17:12:07.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Data\\Repositories\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\ProductoRepository.cs",
+              "ToolTip": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Data\\Repositories\\ProductoRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\ProductoRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T12:03:35.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedidoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Data\\Repositories\\PedidoRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\PedidoRepository.cs",
+              "ToolTip": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Data\\Repositories\\PedidoRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\PedidoRepository.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAwwH0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:31:17.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Domain\\Entities\\Pedido.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Pedido.cs",
+              "ToolTip": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Domain\\Entities\\Pedido.cs",
+              "RelativeToolTip": "Domain\\Entities\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:55:40.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Data\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Data\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowFQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T12:03:56.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\AbastecePro\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "AbastecePro\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\AbastecePro\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "AbastecePro\\Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAqwB0AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T19:35:58.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Services.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Domain\\Interfaces\\Services.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\Services.cs",
+              "ToolTip": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Domain\\Interfaces\\Services.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\Services.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T17:05:25.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DetallePedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\AbastecePro\\Controllers\\DetallePedidoController.cs",
+              "RelativeDocumentMoniker": "AbastecePro\\Controllers\\DetallePedidoController.cs",
+              "ToolTip": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\AbastecePro\\Controllers\\DetallePedidoController.cs",
+              "RelativeToolTip": "AbastecePro\\Controllers\\DetallePedidoController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T19:35:04.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\AbastecePro\\Program.cs",
+              "RelativeDocumentMoniker": "AbastecePro\\Program.cs",
+              "ToolTip": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\AbastecePro\\Program.cs",
+              "RelativeToolTip": "AbastecePro\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:31:38.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Data\\Database\\Connection.cs",
+              "RelativeDocumentMoniker": "Data\\Database\\Connection.cs",
+              "ToolTip": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Data\\Database\\Connection.cs",
+              "RelativeToolTip": "Data\\Database\\Connection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T13:06:11.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmpresaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Data\\Repositories\\EmpresaRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\EmpresaRepository.cs",
+              "ToolTip": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Data\\Repositories\\EmpresaRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\EmpresaRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwBYAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:31:18.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FirebaseAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Data\\Services\\FirebaseAuthService.cs",
+              "RelativeDocumentMoniker": "Data\\Services\\FirebaseAuthService.cs",
+              "ToolTip": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Data\\Services\\FirebaseAuthService.cs",
+              "RelativeToolTip": "Data\\Services\\FirebaseAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T17:06:12.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "Domain\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:54:40.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\AbastecePro\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "AbastecePro\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\AbastecePro\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "AbastecePro\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwCEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:31:34.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Domain\\Entities\\Categoria.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Categoria.cs",
+              "ToolTip": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Domain\\Entities\\Categoria.cs",
+              "RelativeToolTip": "Domain\\Entities\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:56:19.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.311\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.311\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.311\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.311\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "ViewState": "AgIAAJYCAAAAAAAAAAAQwKYCAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-02-17T16:08:54.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AbastecePro.csproj",
+              "DocumentMoniker": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\AbastecePro\\AbastecePro.csproj",
+              "RelativeDocumentMoniker": "AbastecePro\\AbastecePro.csproj",
+              "ToolTip": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\AbastecePro\\AbastecePro.csproj",
+              "RelativeToolTip": "AbastecePro\\AbastecePro.csproj",
+              "ViewState": "AgIAAAEAAAAAAAAAAABhwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-17T16:14:32.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DetallePedidoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Data\\Repositories\\DetallePedidoRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\DetallePedidoRepository.cs",
+              "ToolTip": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Data\\Repositories\\DetallePedidoRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\DetallePedidoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T11:12:41.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DetallePedido.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Domain\\Entities\\DetallePedido.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\DetallePedido.cs",
+              "ToolTip": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Domain\\Entities\\DetallePedido.cs",
+              "RelativeToolTip": "Domain\\Entities\\DetallePedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T12:22:41.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Empresa.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Domain\\Entities\\Empresa.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Empresa.cs",
+              "ToolTip": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Domain\\Entities\\Empresa.cs",
+              "RelativeToolTip": "Domain\\Entities\\Empresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:55:50.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Direccion.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Domain\\Entities\\Direccion.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Direccion.cs",
+              "ToolTip": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Domain\\Entities\\Direccion.cs",
+              "RelativeToolTip": "Domain\\Entities\\Direccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:55:59.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductoUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Domain\\UseCases\\ProductoUseCase.cs",
+              "RelativeDocumentMoniker": "Domain\\UseCases\\ProductoUseCase.cs",
+              "ToolTip": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Domain\\UseCases\\ProductoUseCase.cs",
+              "RelativeToolTip": "Domain\\UseCases\\ProductoUseCase.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T12:01:36.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IProductoUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Domain\\Interfaces\\UseCases\\IProductoUseCase.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\UseCases\\IProductoUseCase.cs",
+              "ToolTip": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Domain\\Interfaces\\UseCases\\IProductoUseCase.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\UseCases\\IProductoUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T12:01:26.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Domain\\Interfaces\\Repositories\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\Repositories\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Domain\\Interfaces\\Repositories\\IUsuarioRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\Repositories\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T12:01:17.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Domain\\Interfaces\\Repositories\\IProductoRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\Repositories\\IProductoRepository.cs",
+              "ToolTip": "C:\\Users\\juanm\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Domain\\Interfaces\\Repositories\\IProductoRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\Repositories\\IProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T12:01:11.751Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
