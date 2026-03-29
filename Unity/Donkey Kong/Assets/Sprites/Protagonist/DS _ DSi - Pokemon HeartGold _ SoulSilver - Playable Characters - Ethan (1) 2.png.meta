@@ -1,0 +1,5799 @@
+fileFormatVersion: 2
+guid: 8b9557dec394d9745a9251a196edd525
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9161673269837885880
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_0
+  - first:
+      213: -6767365505357899395
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_1
+  - first:
+      213: -5787730646360260605
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_2
+  - first:
+      213: 3456366071096301472
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_3
+  - first:
+      213: -1361322910991394985
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_4
+  - first:
+      213: 1887756666551943449
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_5
+  - first:
+      213: -7528339949377950302
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_6
+  - first:
+      213: 9819006430026509
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_7
+  - first:
+      213: -6452470540859960817
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_8
+  - first:
+      213: -4732421624737306096
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_9
+  - first:
+      213: 2849919179187323291
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_10
+  - first:
+      213: 8434213292804755030
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_11
+  - first:
+      213: 6308475442534037379
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_12
+  - first:
+      213: 9038442751536195615
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_13
+  - first:
+      213: 5285868490580903022
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_14
+  - first:
+      213: -1452183450164588693
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_15
+  - first:
+      213: -6070608363463713649
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_16
+  - first:
+      213: -2062026146722339777
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_17
+  - first:
+      213: 4069253592909583305
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_18
+  - first:
+      213: -3099313597496393433
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_19
+  - first:
+      213: -27385526314340354
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_20
+  - first:
+      213: 2888094446597728380
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_21
+  - first:
+      213: -5553358612510301144
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_22
+  - first:
+      213: 3201213641763285251
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_23
+  - first:
+      213: 6477068081590471915
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_24
+  - first:
+      213: 7990124583212903858
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_25
+  - first:
+      213: -3179406621292696963
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_26
+  - first:
+      213: -7840773634425442003
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_27
+  - first:
+      213: 6479159879339091013
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_28
+  - first:
+      213: 266198479958717596
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_29
+  - first:
+      213: -2623253930218270203
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_30
+  - first:
+      213: 8256475738107338803
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_31
+  - first:
+      213: -982928538268933174
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_32
+  - first:
+      213: -493550691110171959
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_33
+  - first:
+      213: -9143008341530941028
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_34
+  - first:
+      213: -3860442985061657635
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_35
+  - first:
+      213: -1204938868077799289
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_36
+  - first:
+      213: -4409796076481324288
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_37
+  - first:
+      213: 56815500731599655
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_38
+  - first:
+      213: -2009302918604894325
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_39
+  - first:
+      213: -8539955831454950873
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_40
+  - first:
+      213: -1497586381469585128
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_41
+  - first:
+      213: -2278429789969169016
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_42
+  - first:
+      213: 1036703764145407871
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_43
+  - first:
+      213: 6107903314472121940
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_44
+  - first:
+      213: 7963431924867173063
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_45
+  - first:
+      213: 7692856592381492051
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_46
+  - first:
+      213: -4149238485855300553
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_47
+  - first:
+      213: -2347163406953221609
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_48
+  - first:
+      213: 5450855833441285634
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_49
+  - first:
+      213: 8580488859005718849
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_50
+  - first:
+      213: -7989499934447110252
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_51
+  - first:
+      213: -5670015188566165851
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_52
+  - first:
+      213: -2198277753160142288
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_53
+  - first:
+      213: 1932714209278823379
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_54
+  - first:
+      213: 4405751974652136988
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_55
+  - first:
+      213: 6576305438624368775
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_56
+  - first:
+      213: 9099437985624041020
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_57
+  - first:
+      213: -7843222469678074023
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_58
+  - first:
+      213: 6833220085412941377
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_59
+  - first:
+      213: -7953691764970058460
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_60
+  - first:
+      213: -7172243486264496176
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_61
+  - first:
+      213: 8242434023933829383
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_62
+  - first:
+      213: -5177262926730579445
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_63
+  - first:
+      213: 7829242870324883006
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_64
+  - first:
+      213: 8006899630287352321
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_65
+  - first:
+      213: -6680077101370314925
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_66
+  - first:
+      213: -2848318902041290763
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_67
+  - first:
+      213: -3929437186628428909
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_68
+  - first:
+      213: -4005734684990178839
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_69
+  - first:
+      213: -383768510365560704
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_70
+  - first:
+      213: 9202773157545629716
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_71
+  - first:
+      213: 4519601993580396431
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_72
+  - first:
+      213: -1080332943501732913
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_73
+  - first:
+      213: 2285890142921367447
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_74
+  - first:
+      213: -7013924824082241871
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_75
+  - first:
+      213: -3884068142498098203
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_76
+  - first:
+      213: 893206550034009734
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_77
+  - first:
+      213: 8498082971049570444
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_78
+  - first:
+      213: -6818708051838183809
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_79
+  - first:
+      213: -6441356215857685966
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_80
+  - first:
+      213: 4894470566846820511
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_81
+  - first:
+      213: 2240009084072053957
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_82
+  - first:
+      213: 7653478328183179216
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_83
+  - first:
+      213: 938484828740636714
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_84
+  - first:
+      213: -2203437284060094437
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_85
+  - first:
+      213: -5063776505620547484
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_86
+  - first:
+      213: -5643609458416674215
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_87
+  - first:
+      213: -3763725797301720061
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_88
+  - first:
+      213: 6923880029733200056
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_89
+  - first:
+      213: 8732484881831180535
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_90
+  - first:
+      213: -1392129733237406455
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_91
+  - first:
+      213: -3585957702136164717
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_92
+  - first:
+      213: 4241937289962242062
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_93
+  - first:
+      213: 1043489939229214069
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_94
+  - first:
+      213: -7735458963308898940
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_95
+  - first:
+      213: -5908520495138299298
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_96
+  - first:
+      213: 7509268610400836114
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_97
+  - first:
+      213: 6375865023130010487
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_98
+  - first:
+      213: 8547181290850885886
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_99
+  - first:
+      213: -349030884342826292
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_100
+  - first:
+      213: 6891520589890721768
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_101
+  - first:
+      213: -6152703558230693489
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_102
+  - first:
+      213: 5084760619551997976
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_103
+  - first:
+      213: -6819489460166356887
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_104
+  - first:
+      213: 190411723101511088
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_105
+  - first:
+      213: 7715835112768948164
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_106
+  - first:
+      213: 6978347452375036498
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_107
+  - first:
+      213: -4313777178762514024
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_108
+  - first:
+      213: -1548373884828552820
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_109
+  - first:
+      213: 4526721441657122857
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_110
+  - first:
+      213: 2780714565532240607
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_111
+  - first:
+      213: 4044994053000357404
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_112
+  - first:
+      213: 1453185090212608035
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_113
+  - first:
+      213: -8753977938952063089
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_114
+  - first:
+      213: -7342938204787537739
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_115
+  - first:
+      213: 92938063512407150
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_116
+  - first:
+      213: 722883280542144985
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_117
+  - first:
+      213: -8146884077714792449
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_118
+  - first:
+      213: 1118237019297133513
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_119
+  - first:
+      213: 5895539105822374696
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_120
+  - first:
+      213: 8799237282712052934
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_121
+  - first:
+      213: -5118020316028326693
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_122
+  - first:
+      213: 320660210213324727
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_123
+  - first:
+      213: -6832962814432585616
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_124
+  - first:
+      213: 4571703240719156197
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_125
+  - first:
+      213: -8347462267524464757
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_126
+  - first:
+      213: 4627770495672543627
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_127
+  - first:
+      213: 6576125021458948249
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_128
+  - first:
+      213: -8267817219268997971
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_129
+  - first:
+      213: 5261068525769526022
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_130
+  - first:
+      213: -7227006893191109153
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_131
+  - first:
+      213: -6619503167239533426
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_132
+  - first:
+      213: -6016685560771254151
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_133
+  - first:
+      213: -5374912113067539112
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_134
+  - first:
+      213: 2154853850637651357
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_135
+  - first:
+      213: 3379769885545170731
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_136
+  - first:
+      213: 6576361355152892281
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_137
+  - first:
+      213: -752669786651157163
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_138
+  - first:
+      213: 3864189041400944827
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_139
+  - first:
+      213: 2737372668377918190
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_140
+  - first:
+      213: 5961598325557128908
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_141
+  - first:
+      213: 3720901855398395503
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_142
+  - first:
+      213: -3145078004161943716
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_143
+  - first:
+      213: 7789870126541049513
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_144
+  - first:
+      213: 894274124927032609
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_145
+  - first:
+      213: -1605721582838018406
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_146
+  - first:
+      213: 2315963661057076791
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_147
+  - first:
+      213: -8395079067500825600
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_148
+  - first:
+      213: 5381631582812661372
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_149
+  - first:
+      213: 4907961521309043965
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_150
+  - first:
+      213: 5628270577669594980
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_151
+  - first:
+      213: 7005246951663002070
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_152
+  - first:
+      213: 5250956805871887927
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_153
+  - first:
+      213: 247342569930667400
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_154
+  - first:
+      213: 4917416151359898929
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_155
+  - first:
+      213: 6534933015516578662
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_156
+  - first:
+      213: 4298679789499478167
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_157
+  - first:
+      213: -8113319424019169748
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_158
+  - first:
+      213: 1281907421304593290
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_159
+  - first:
+      213: -6364556343202747048
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_160
+  - first:
+      213: 8230634988464009904
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_161
+  - first:
+      213: 1154939821441298804
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_162
+  - first:
+      213: 2258613397052040332
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_163
+  - first:
+      213: -8645831505593014441
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_164
+  - first:
+      213: -8567948983925708966
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_165
+  - first:
+      213: -3891292411203653443
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_166
+  - first:
+      213: -8574868686591427098
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_167
+  - first:
+      213: -6901117896517142821
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_168
+  - first:
+      213: 4924919588733136131
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_169
+  - first:
+      213: -2892338982317329198
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_170
+  - first:
+      213: -6857351903205780127
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_171
+  - first:
+      213: 2390841926324567307
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_172
+  - first:
+      213: -3962552051722672788
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_173
+  - first:
+      213: 5536207067549844238
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_174
+  - first:
+      213: -7850054083170911047
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_175
+  - first:
+      213: 5213581876658683825
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_176
+  - first:
+      213: -6816778310330933776
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_177
+  - first:
+      213: 2781323951099817190
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_178
+  - first:
+      213: -5495616602275109123
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_179
+  - first:
+      213: -6227765116835397283
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_180
+  - first:
+      213: -1809841711637617610
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_181
+  - first:
+      213: -8926938731204103
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_182
+  - first:
+      213: 3787451848648403188
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_183
+  - first:
+      213: -1148330031523076793
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_184
+  - first:
+      213: 4577760587358338649
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_185
+  - first:
+      213: -7342521377177778551
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_186
+  - first:
+      213: 1250630079874431924
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_187
+  - first:
+      213: 6343155304683251689
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_188
+  - first:
+      213: -4010922718225216695
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_189
+  - first:
+      213: -5227177366318429389
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_190
+  - first:
+      213: 7303474518156115983
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_191
+  - first:
+      213: -5282458153149836823
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_192
+  - first:
+      213: 813350268982526618
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_193
+  - first:
+      213: 2116636184968920822
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_194
+  - first:
+      213: -469891864215256912
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_195
+  - first:
+      213: -3674250983717255579
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_196
+  - first:
+      213: -6392526968698457764
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_197
+  - first:
+      213: -4656700051904931704
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_198
+  - first:
+      213: -3800830666569115630
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_199
+  - first:
+      213: -1429923955409087374
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_200
+  - first:
+      213: 7594769906297458719
+    second: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+      (1) 1_201
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 443
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1f0ec5c4dc42f70800000000000000
+      internalID: 9161673269837885880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 445
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7919eb8dec7512a0800000000000000
+      internalID: -6767365505357899395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 443
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3000e0054a9ddafa0800000000000000
+      internalID: -5787730646360260605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_3
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 443
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7586901aa77ff20800000000000000
+      internalID: 3456366071096301472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_4
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 446
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757d1c9660c9b1de0800000000000000
+      internalID: -1361322910991394985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 443
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911443cbfa8a23a10800000000000000
+      internalID: 1887756666551943449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_6
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 445
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ade1f0f3b6f58790800000000000000
+      internalID: -7528339949377950302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_7
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 445
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b1f469552e22000800000000000000
+      internalID: 9819006430026509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 445
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f029e50da383476a0800000000000000
+      internalID: -6452470540859960817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_9
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 445
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ae7221b9f035eb0800000000000000
+      internalID: -4732421624737306096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_10
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 442
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91880ad462fc8720800000000000000
+      internalID: 2849919179187323291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 442
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e418dad485c0570800000000000000
+      internalID: 8434213292804755030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_12
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 442
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3873482cdf43c8750800000000000000
+      internalID: 6308475442534037379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_13
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 442
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18e4087bcffe6d70800000000000000
+      internalID: 9038442751536195615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 416
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64418ee26d2b5940800000000000000
+      internalID: 5285868490580903022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_15
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 416
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f0d3898dec8dbe0800000000000000
+      internalID: -1452183450164588693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_16
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 416
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cda3d5bddd0cba0800000000000000
+      internalID: -6070608363463713649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_17
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 417
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f342c0705263263e0800000000000000
+      internalID: -2062026146722339777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_18
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 418
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c39b5a3594e87830800000000000000
+      internalID: 4069253592909583305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_19
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 417
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72180b534b60df4d0800000000000000
+      internalID: -3099313597496393433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_20
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 412
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effeb084205be9ff0800000000000000
+      internalID: -27385526314340354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_21
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 413
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c786c3fe892941820800000000000000
+      internalID: 2888094446597728380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_22
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 412
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824a7fec3c18ee2b0800000000000000
+      internalID: -5553358612510301144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_23
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 413
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3096f6fa8defc6c20800000000000000
+      internalID: 3201213641763285251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_24
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 413
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec883d6a1b23e950800000000000000
+      internalID: 6477068081590471915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_25
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 413
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd658599ff92ee60800000000000000
+      internalID: 7990124583212903858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_26
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 413
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ae25de58a70e3d0800000000000000
+      internalID: -3179406621292696963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 387
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21b2d3fbe9ff2390800000000000000
+      internalID: -7840773634425442003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_28
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 389
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54428fa05999ae950800000000000000
+      internalID: 6479159879339091013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 387
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9430bd6b1ab1b300800000000000000
+      internalID: 266198479958717596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_30
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 390
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50251b5f274589bd0800000000000000
+      internalID: -2623253930218270203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_31
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 393
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330e48a60f4e49270800000000000000
+      internalID: 8256475738107338803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_32
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 391
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3e2e4c3bfeb52f0800000000000000
+      internalID: -982928538268933174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_33
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 386
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cacab9e24e8629f0800000000000000
+      internalID: -493550691110171959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_34
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 387
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c996d98ea528d1180800000000000000
+      internalID: -9143008341530941028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_35
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 386
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd350cffe83fc6ac0800000000000000
+      internalID: -3860442985061657635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_36
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 381
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7885928cb72374fe0800000000000000
+      internalID: -1204938868077799289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_37
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 380
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b5b6125d14dc2c0800000000000000
+      internalID: -4409796076481324288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_38
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 377
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72bc7da9569d9c000800000000000000
+      internalID: 56815500731599655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_39
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 375
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f466a24a58d14e0800000000000000
+      internalID: -2009302918604894325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 361
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a1a9cfa6bfb7980800000000000000
+      internalID: -8539955831454950873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_41
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 361
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811fa00ee11873be0800000000000000
+      internalID: -1497586381469585128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_42
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 360
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885483b7d246160e0800000000000000
+      internalID: -2278429789969169016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_43
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 364
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77823fa49c136e00800000000000000
+      internalID: 1036703764145407871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 365
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456ba8514b1a3c450800000000000000
+      internalID: 6107903314472121940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_45
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 364
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca86b2c42bc38e60800000000000000
+      internalID: 7963431924867173063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_46
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 355
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bbbe0ff4482ca60800000000000000
+      internalID: 7692856592381492051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_47
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 358
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734173aa491fa66c0800000000000000
+      internalID: -4149238485855300553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_48
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 345
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712f1c231533d6fd0800000000000000
+      internalID: -2347163406953221609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_49
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 345
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206322a208455ab40800000000000000
+      internalID: 5450855833441285634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_50
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 345
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1419b38e725041770800000000000000
+      internalID: 8580488859005718849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_51
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 345
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497f54ac3289f1190800000000000000
+      internalID: -7989499934447110252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_52
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 326
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6b17e1a3f0051b0800000000000000
+      internalID: -5670015188566165851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_53
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 313
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032fe3dc7062e71e0800000000000000
+      internalID: -2198277753160142288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_54
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 313
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db0a68555162da10800000000000000
+      internalID: 1932714209278823379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_55
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 298
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ecd990410642d30800000000000000
+      internalID: 4405751974652136988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_56
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 298
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788cca324fab34b50800000000000000
+      internalID: 6576305438624368775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_57
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 298
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3621d413a2b74e70800000000000000
+      internalID: 9099437985624041020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_58
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 298
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957f97018b6472390800000000000000
+      internalID: -7843222469678074023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_59
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 287
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e4a17b67974de50800000000000000
+      internalID: 6833220085412941377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_60
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 287
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d8200fa7fce9190800000000000000
+      internalID: -7953691764970058460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_61
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 286
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df6896ac82177c90800000000000000
+      internalID: -7172243486264496176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_62
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 287
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7016b211312036270800000000000000
+      internalID: 8242434023933829383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_63
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 244
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02bc676ccaa628b0800000000000000
+      internalID: -5177262926730579445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_64
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 271
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e69f1d8ee07ac60800000000000000
+      internalID: 7829242870324883006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_65
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 244
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102fb779ac83e1f60800000000000000
+      internalID: 8006899630287352321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_66
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 244
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fe994d4499b43a0800000000000000
+      internalID: -6680077101370314925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_67
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 244
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f75cc4bc0db878d0800000000000000
+      internalID: -2848318902041290763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_68
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 244
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b5dc3a2b5d779c0800000000000000
+      internalID: -3929437186628428909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_69
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 262
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9f2bcf685c868c0800000000000000
+      internalID: -4005734684990178839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_70
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 262
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0801ea7b2949caaf0800000000000000
+      internalID: -383768510365560704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_71
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 262
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418d10cad61d6bf70800000000000000
+      internalID: 9202773157545629716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_72
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 262
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fb189311ad8be30800000000000000
+      internalID: 4519601993580396431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_73
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 270
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc35d6769e2e101f0800000000000000
+      internalID: -1080332943501732913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_74
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 260
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f156c49fc19bf10800000000000000
+      internalID: 2285890142921367447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_75
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 260
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6a84ba88889ae90800000000000000
+      internalID: -7013924824082241871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_76
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 262
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e35df26a94091ac0800000000000000
+      internalID: -3884068142498098203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_77
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 260
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e44d5ff9e456c00800000000000000
+      internalID: 893206550034009734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_78
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 262
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80b439ff614fe570800000000000000
+      internalID: 8498082971049570444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 248
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76d61767251f51a0800000000000000
+      internalID: -6818708051838183809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_80
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 250
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a5c0246a4bb96a0800000000000000
+      internalID: -6441356215857685966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_81
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 250
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90728c6c07ace340800000000000000
+      internalID: 4894470566846820511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_82
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 250
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc43c5d46c161f10800000000000000
+      internalID: 2240009084072053957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_83
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 250
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d742875dfd963a60800000000000000
+      internalID: 7653478328183179216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_84
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 250
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20dd2cbafa260d00800000000000000
+      internalID: 938484828740636714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_85
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 250
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b102fb6e671db61e0800000000000000
+      internalID: -2203437284060094437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_86
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 250
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468b480e81ad9b9b0800000000000000
+      internalID: -5063776505620547484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_87
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 250
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a1a04491fdda1b0800000000000000
+      internalID: -5643609458416674215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_88
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 250
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c6bd3145f84cbc0800000000000000
+      internalID: -3763725797301720061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_89
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 250
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b02ba7e330961060800000000000000
+      internalID: 6923880029733200056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_90
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 250
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8340cbbb4003970800000000000000
+      internalID: 8732484881831180535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_91
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 250
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905002922692eace0800000000000000
+      internalID: -1392129733237406455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_92
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 226
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e0998187e1c3ec0800000000000000
+      internalID: -3585957702136164717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_93
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 228
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00ceaf8d736eda30800000000000000
+      internalID: 4241937289962242062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_94
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 226
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575837232983b7e00800000000000000
+      internalID: 1043489939229214069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_95
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 216
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4859c5d9e0126a490800000000000000
+      internalID: -7735458963308898940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_96
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 238
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52aa231ae7b00ea0800000000000000
+      internalID: -5908520495138299298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_97
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 238
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21adeede308463860800000000000000
+      internalID: 7509268610400836114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_98
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 238
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773808f257f9b7850800000000000000
+      internalID: 6375865023130010487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_99
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 238
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef028006910bd9670800000000000000
+      internalID: 8547181290850885886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_100
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 238
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccafa1b824ef72bf0800000000000000
+      internalID: -349030884342826292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_101
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 238
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e71ab2b67993af50800000000000000
+      internalID: 6891520589890721768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_102
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 236
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89a06356b43d9aa0800000000000000
+      internalID: -6152703558230693489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_103
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 238
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810ca40e7d2b09640800000000000000
+      internalID: 5084760619551997976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_104
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 238
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9609349977e4c51a0800000000000000
+      internalID: -6819489460166356887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_105
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 238
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd198c047a74a200800000000000000
+      internalID: 190411723101511088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_106
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 238
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c74412a727241b60800000000000000
+      internalID: 7715835112768948164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_107
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 238
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252f01af80218d060800000000000000
+      internalID: 6978347452375036498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_108
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 238
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8917ca3e2826224c0800000000000000
+      internalID: -4313777178762514024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_109
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 238
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c817d47c722138ae0800000000000000
+      internalID: -1548373884828552820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_110
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 238
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920fd17ea2522de30800000000000000
+      internalID: 4526721441657122857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_111
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 238
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdacd4c1a25179620800000000000000
+      internalID: 2780714565532240607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_112
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 238
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1667afe8a4b22830800000000000000
+      internalID: 4044994053000357404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_113
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 238
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3283407e320ca2410800000000000000
+      internalID: 1453185090212608035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_114
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 238
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87f721f17f938680800000000000000
+      internalID: -8753977938952063089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_115
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 236
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b88ef77b94a81a90800000000000000
+      internalID: -7342938204787537739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_116
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 187
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c05c52dae2a4100800000000000000
+      internalID: 92938063512407150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_117
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 187
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d998ce7382380a00800000000000000
+      internalID: 722883280542144985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_118
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 187
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff1689681470fe80800000000000000
+      internalID: -8146884077714792449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_119
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 187
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3b5e5f4a6c48f00800000000000000
+      internalID: 1118237019297133513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_120
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 212
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b77f1b49921d150800000000000000
+      internalID: 5895539105822374696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_121
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 212
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4ec6230bb2d1a70800000000000000
+      internalID: 8799237282712052934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_122
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 212
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc26e593a329f8b0800000000000000
+      internalID: -5118020316028326693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_123
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 212
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b70e5323c6337400800000000000000
+      internalID: 320660210213324727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_124
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 212
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078da4ad5807c21a0800000000000000
+      internalID: -6832962814432585616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_125
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 212
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3419120e3f17f30800000000000000
+      internalID: 4571703240719156197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_126
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 212
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f3a306b4bd72c80800000000000000
+      internalID: -8347462267524464757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_127
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 212
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8968903fb4293040800000000000000
+      internalID: 4627770495672543627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_128
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 212
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9906e9e7dd6134b50800000000000000
+      internalID: 6576125021458948249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_129
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 212
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac0d993b00d24d80800000000000000
+      internalID: -8267817219268997971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_130
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 212
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b0b7923f1130940800000000000000
+      internalID: 5261068525769526022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_131
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 212
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd56b0e558384bb90800000000000000
+      internalID: -7227006893191109153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_132
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 212
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c4d17e0fcc224a0800000000000000
+      internalID: -6619503167239533426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_133
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 212
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978e1093c50708ca0800000000000000
+      internalID: -6016685560771254151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_134
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 212
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8554aa129e97865b0800000000000000
+      internalID: -5374912113067539112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_135
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 200
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9dc326092497ed10800000000000000
+      internalID: 2154853850637651357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_136
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 200
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b278b7addca57ee20800000000000000
+      internalID: 3379769885545170731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_137
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 199
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971ae783fcde34b50800000000000000
+      internalID: 6576361355152892281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_138
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 200
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d1d7d11dafd85f0800000000000000
+      internalID: -752669786651157163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_139
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 159
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb819a5b57b50a530800000000000000
+      internalID: 3864189041400944827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_140
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 178
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea678c40f91df520800000000000000
+      internalID: 2737372668377918190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_141
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 178
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce6568571adbb250800000000000000
+      internalID: 5961598325557128908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_142
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 178
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6efc17f58c43a330800000000000000
+      internalID: 3720901855398395503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_143
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 177
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c576803f7307a54d0800000000000000
+      internalID: -3145078004161943716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_144
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 169
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae08ea8b9d2b1c60800000000000000
+      internalID: 7789870126541049513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_145
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 172
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d591c1499196c00800000000000000
+      internalID: 894274124927032609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_146
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 170
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e03c65ab457b9e0800000000000000
+      internalID: -1605721582838018406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_147
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 131
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e2502eda4f32020800000000000000
+      internalID: 2315963661057076791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_148
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 131
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004bb403110be7b80800000000000000
+      internalID: -8395079067500825600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_149
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 131
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76629559656faa40800000000000000
+      internalID: 5381631582812661372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_150
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 132
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc49e800059c1440800000000000000
+      internalID: 4907961521309043965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_151
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 132
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f57c14542ab1e40800000000000000
+      internalID: 5628270577669594980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_152
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 143
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1e2c5bcf2a73160800000000000000
+      internalID: 7005246951663002070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_153
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 143
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736e9e8e4652fd840800000000000000
+      internalID: 5250956805871887927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_154
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 141
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885bc82c1ccbe6300800000000000000
+      internalID: 247342569930667400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_155
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 142
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1354392afeb2e3440800000000000000
+      internalID: 4917416151359898929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_156
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 97
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66386dc34feb0ba50800000000000000
+      internalID: 6534933015516578662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_157
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 99
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79074404e7af7ab30800000000000000
+      internalID: 4298679789499478167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_158
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 97
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e7f0658f2b76f80800000000000000
+      internalID: -8113319424019169748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_159
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 99
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b1cc102004ac110800000000000000
+      internalID: 1281907421304593290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_160
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 101
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85de07a0abd8ca7a0800000000000000
+      internalID: -6364556343202747048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_161
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 99
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b27c4b0ae6193270800000000000000
+      internalID: 8230634988464009904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_162
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 100
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47136f106ab270010800000000000000
+      internalID: 1154939821441298804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_163
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 100
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84a9300be4385f10800000000000000
+      internalID: 2258613397052040332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_164
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 99
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7576f31ad06d30880800000000000000
+      internalID: -8645831505593014441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_165
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 101
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5760774bc7881980800000000000000
+      internalID: -8567948983925708966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_166
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 99
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db078014b2a5ff9c0800000000000000
+      internalID: -3891292411203653443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_167
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 71
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edf8147c52fff880800000000000000
+      internalID: -8574868686591427098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_168
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 71
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6310936dd4a30a0800000000000000
+      internalID: -6901117896517142821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_169
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 70
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d2dc9c544d85440800000000000000
+      internalID: 4924919588733136131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_170
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 72
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4f5f415095cd7d0800000000000000
+      internalID: -2892338982317329198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_171
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 73
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165129d96cac5d0a0800000000000000
+      internalID: -6857351903205780127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_172
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 72
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0dbfa4901afd2120800000000000000
+      internalID: 2390841926324567307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_173
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 72
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65231947ef2209c0800000000000000
+      internalID: -3962552051722672788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_174
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 73
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03c050fefe84dc40800000000000000
+      internalID: 5536207067549844238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_175
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 73
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc3ef817610f0390800000000000000
+      internalID: -7850054083170911047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_176
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 73
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfb7a5181d5a5840800000000000000
+      internalID: 5213581876658683825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_177
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 72
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd132c5e30f561a0800000000000000
+      internalID: -6816778310330933776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_178
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 72
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec279eb56f399620800000000000000
+      internalID: 2781323951099817190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_179
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 71
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df627a731d5abb3b0800000000000000
+      internalID: -5495616602275109123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_180
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 72
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5105725f988299a0800000000000000
+      internalID: -6227765116835397283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_181
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 40
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634a72e5d8622e6e0800000000000000
+      internalID: -1809841711637617610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_182
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 42
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1befb1ff840eff0800000000000000
+      internalID: -8926938731204103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_183
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 40
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8a59ab36bbf8430800000000000000
+      internalID: 3787451848648403188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_184
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 43
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7456722abef4010f0800000000000000
+      internalID: -1148330031523076793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_185
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 46
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ef64c0009778f30800000000000000
+      internalID: 4577760587358338649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_186
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 43
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9864b95b5bf1a1a90800000000000000
+      internalID: -7342521377177778551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_187
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 28
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb75587e612b5110800000000000000
+      internalID: 1250630079874431924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_188
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 28
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7a7c2642a670850800000000000000
+      internalID: 6343155304683251689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_189
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 42
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b44aed9075658c0800000000000000
+      internalID: -4010922718225216695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_190
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 45
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bc0ae41e55577b0800000000000000
+      internalID: -5227177366318429389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_191
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 43
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0000d8f0672b5560800000000000000
+      internalID: 7303474518156115983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_192
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 14
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e153a02c40f0b6b0800000000000000
+      internalID: -5282458153149836823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_193
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 14
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a920ca4a2c9994b00800000000000000
+      internalID: 813350268982526618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_194
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 13
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe7fc3556dcf5d10800000000000000
+      internalID: 2116636184968920822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_195
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 16
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b08a9ec6db9a79f0800000000000000
+      internalID: -469891864215256912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_196
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 17
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56647e38230720dc0800000000000000
+      internalID: -3674250983717255579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_197
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 16
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51bf9d479e2947a0800000000000000
+      internalID: -6392526968698457764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_198
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 16
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888d9ac99f3106fb0800000000000000
+      internalID: -4656700051904931704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_199
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 16
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2189cbb75acb04bc0800000000000000
+      internalID: -3800830666569115630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_200
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 15
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27415061db3e72ce0800000000000000
+      internalID: -1429923955409087374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan
+        (1) 1_201
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 16
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10dfafadfa066960800000000000000
+      internalID: 7594769906297458719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_0: 9161673269837885880
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_1: -6767365505357899395
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_10: 2849919179187323291
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_100: -349030884342826292
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_101: 6891520589890721768
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_102: -6152703558230693489
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_103: 5084760619551997976
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_104: -6819489460166356887
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_105: 190411723101511088
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_106: 7715835112768948164
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_107: 6978347452375036498
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_108: -4313777178762514024
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_109: -1548373884828552820
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_11: 8434213292804755030
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_110: 4526721441657122857
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_111: 2780714565532240607
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_112: 4044994053000357404
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_113: 1453185090212608035
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_114: -8753977938952063089
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_115: -7342938204787537739
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_116: 92938063512407150
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_117: 722883280542144985
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_118: -8146884077714792449
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_119: 1118237019297133513
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_12: 6308475442534037379
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_120: 5895539105822374696
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_121: 8799237282712052934
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_122: -5118020316028326693
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_123: 320660210213324727
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_124: -6832962814432585616
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_125: 4571703240719156197
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_126: -8347462267524464757
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_127: 4627770495672543627
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_128: 6576125021458948249
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_129: -8267817219268997971
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_13: 9038442751536195615
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_130: 5261068525769526022
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_131: -7227006893191109153
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_132: -6619503167239533426
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_133: -6016685560771254151
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_134: -5374912113067539112
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_135: 2154853850637651357
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_136: 3379769885545170731
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_137: 6576361355152892281
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_138: -752669786651157163
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_139: 3864189041400944827
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_14: 5285868490580903022
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_140: 2737372668377918190
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_141: 5961598325557128908
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_142: 3720901855398395503
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_143: -3145078004161943716
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_144: 7789870126541049513
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_145: 894274124927032609
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_146: -1605721582838018406
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_147: 2315963661057076791
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_148: -8395079067500825600
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_149: 5381631582812661372
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_15: -1452183450164588693
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_150: 4907961521309043965
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_151: 5628270577669594980
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_152: 7005246951663002070
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_153: 5250956805871887927
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_154: 247342569930667400
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_155: 4917416151359898929
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_156: 6534933015516578662
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_157: 4298679789499478167
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_158: -8113319424019169748
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_159: 1281907421304593290
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_16: -6070608363463713649
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_160: -6364556343202747048
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_161: 8230634988464009904
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_162: 1154939821441298804
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_163: 2258613397052040332
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_164: -8645831505593014441
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_165: -8567948983925708966
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_166: -3891292411203653443
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_167: -8574868686591427098
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_168: -6901117896517142821
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_169: 4924919588733136131
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_17: -2062026146722339777
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_170: -2892338982317329198
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_171: -6857351903205780127
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_172: 2390841926324567307
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_173: -3962552051722672788
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_174: 5536207067549844238
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_175: -7850054083170911047
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_176: 5213581876658683825
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_177: -6816778310330933776
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_178: 2781323951099817190
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_179: -5495616602275109123
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_18: 4069253592909583305
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_180: -6227765116835397283
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_181: -1809841711637617610
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_182: -8926938731204103
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_183: 3787451848648403188
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_184: -1148330031523076793
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_185: 4577760587358338649
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_186: -7342521377177778551
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_187: 1250630079874431924
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_188: 6343155304683251689
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_189: -4010922718225216695
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_19: -3099313597496393433
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_190: -5227177366318429389
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_191: 7303474518156115983
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_192: -5282458153149836823
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_193: 813350268982526618
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_194: 2116636184968920822
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_195: -469891864215256912
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_196: -3674250983717255579
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_197: -6392526968698457764
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_198: -4656700051904931704
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_199: -3800830666569115630
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_2: -5787730646360260605
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_20: -27385526314340354
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_200: -1429923955409087374
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_201: 7594769906297458719
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_21: 2888094446597728380
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_22: -5553358612510301144
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_23: 3201213641763285251
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_24: 6477068081590471915
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_25: 7990124583212903858
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_26: -3179406621292696963
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_27: -7840773634425442003
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_28: 6479159879339091013
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_29: 266198479958717596
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_3: 3456366071096301472
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_30: -2623253930218270203
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_31: 8256475738107338803
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_32: -982928538268933174
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_33: -493550691110171959
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_34: -9143008341530941028
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_35: -3860442985061657635
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_36: -1204938868077799289
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_37: -4409796076481324288
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_38: 56815500731599655
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_39: -2009302918604894325
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_4: -1361322910991394985
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_40: -8539955831454950873
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_41: -1497586381469585128
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_42: -2278429789969169016
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_43: 1036703764145407871
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_44: 6107903314472121940
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_45: 7963431924867173063
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_46: 7692856592381492051
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_47: -4149238485855300553
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_48: -2347163406953221609
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_49: 5450855833441285634
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_5: 1887756666551943449
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_50: 8580488859005718849
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_51: -7989499934447110252
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_52: -5670015188566165851
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_53: -2198277753160142288
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_54: 1932714209278823379
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_55: 4405751974652136988
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_56: 6576305438624368775
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_57: 9099437985624041020
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_58: -7843222469678074023
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_59: 6833220085412941377
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_6: -7528339949377950302
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_60: -7953691764970058460
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_61: -7172243486264496176
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_62: 8242434023933829383
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_63: -5177262926730579445
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_64: 7829242870324883006
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_65: 8006899630287352321
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_66: -6680077101370314925
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_67: -2848318902041290763
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_68: -3929437186628428909
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_69: -4005734684990178839
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_7: 9819006430026509
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_70: -383768510365560704
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_71: 9202773157545629716
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_72: 4519601993580396431
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_73: -1080332943501732913
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_74: 2285890142921367447
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_75: -7013924824082241871
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_76: -3884068142498098203
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_77: 893206550034009734
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_78: 8498082971049570444
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_79: -6818708051838183809
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_8: -6452470540859960817
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_80: -6441356215857685966
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_81: 4894470566846820511
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_82: 2240009084072053957
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_83: 7653478328183179216
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_84: 938484828740636714
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_85: -2203437284060094437
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_86: -5063776505620547484
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_87: -5643609458416674215
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_88: -3763725797301720061
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_89: 6923880029733200056
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_9: -4732421624737306096
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_90: 8732484881831180535
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_91: -1392129733237406455
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_92: -3585957702136164717
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_93: 4241937289962242062
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_94: 1043489939229214069
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_95: -7735458963308898940
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_96: -5908520495138299298
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_97: 7509268610400836114
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_98: 6375865023130010487
+      DS _ DSi - Pokemon HeartGold _ SoulSilver - Playable Characters - Ethan (1) 1_99: 8547181290850885886
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
