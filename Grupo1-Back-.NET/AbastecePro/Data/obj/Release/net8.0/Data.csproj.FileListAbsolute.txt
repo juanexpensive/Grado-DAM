@@ -1,0 +1,16 @@
+C:\Users\juanm\Documents\GitHub\Grupo1-Back-.NET\AbastecePro\Data\bin\Release\net8.0\Data.deps.json
+C:\Users\juanm\Documents\GitHub\Grupo1-Back-.NET\AbastecePro\Data\bin\Release\net8.0\Data.dll
+C:\Users\juanm\Documents\GitHub\Grupo1-Back-.NET\AbastecePro\Data\bin\Release\net8.0\Data.pdb
+C:\Users\juanm\Documents\GitHub\Grupo1-Back-.NET\AbastecePro\Data\bin\Release\net8.0\Domain.dll
+C:\Users\juanm\Documents\GitHub\Grupo1-Back-.NET\AbastecePro\Data\bin\Release\net8.0\Domain.pdb
+C:\Users\juanm\Documents\GitHub\Grupo1-Back-.NET\AbastecePro\Data\obj\Release\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\juanm\Documents\GitHub\Grupo1-Back-.NET\AbastecePro\Data\obj\Release\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanm\Documents\GitHub\Grupo1-Back-.NET\AbastecePro\Data\obj\Release\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\juanm\Documents\GitHub\Grupo1-Back-.NET\AbastecePro\Data\obj\Release\net8.0\Data.AssemblyInfo.cs
+C:\Users\juanm\Documents\GitHub\Grupo1-Back-.NET\AbastecePro\Data\obj\Release\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\juanm\Documents\GitHub\Grupo1-Back-.NET\AbastecePro\Data\obj\Release\net8.0\Data.sourcelink.json
+C:\Users\juanm\Documents\GitHub\Grupo1-Back-.NET\AbastecePro\Data\obj\Release\net8.0\Data.csproj.Up2Date
+C:\Users\juanm\Documents\GitHub\Grupo1-Back-.NET\AbastecePro\Data\obj\Release\net8.0\Data.dll
+C:\Users\juanm\Documents\GitHub\Grupo1-Back-.NET\AbastecePro\Data\obj\Release\net8.0\refint\Data.dll
+C:\Users\juanm\Documents\GitHub\Grupo1-Back-.NET\AbastecePro\Data\obj\Release\net8.0\Data.pdb
+C:\Users\juanm\Documents\GitHub\Grupo1-Back-.NET\AbastecePro\Data\obj\Release\net8.0\ref\Data.dll

@@ -1,0 +1,589 @@
+core:
+    container:   
+        // Repositories
+        - IEmpresaRepository: EmpresaRepository
+        - IDireccionRepository: DireccionRepository
+        - IUsuarioRepository: UsuarioRepository
+        - ICategoriaRepository: CategoriaRepository
+        - IProductoRepository: ProductoRepository
+        - IPedidoRepository: PedidoRepository
+        - IDetallePedidoRepository: DetallePedidoRepository
+
+        // UseCases
+        - IEmpresaUseCase: EmpresaUseCase
+        - IDireccionUseCase: DireccionUseCase
+        - IUsuarioUseCase: UsuarioUseCase
+        - ICategoriaUseCase: CategoriaUseCase
+        - IProductoUseCase: ProductoUseCase
+        - IPedidoUseCase: PedidoUseCase
+        - IDetallePedidoUseCase: DetallePedidoUseCase
+
+
+domain:
+    utils:
+        enum Roles {Admin, Usuario};
+        enum Estados {Pendiente, Enviado, Entregado, Cancelado, Pagado};
+
+    entities:
+        class Empresa:
+            - int Id; {get; set;}
+            - string Nombre; {get; set;}
+            - string Cif; {get; set;}
+            - int IdDireccion; {get; set;}
+            - string Telefono; {get; set;}
+            - string Correo; {get; set;}
+            - string Iban; {get; set;}
+            - bool Activo; {get; set;}
+
+            public Empresa()
+            public Empresa(string nombre, string cif, int idDireccion, string telefono, string correo, string iban, bool activo = true)
+
+        class Direccion:
+            - int Id; {get; set;}
+            - string Calle; {get; set;}
+            - string Numero; {get; set;}
+            - string Ciudad; {get; set;}
+            - string Pais; {get; set;}           // Antes era "Provincia"
+            - string CodigoPostal; {get; set;}
+            - bool Activo; {get; set;}
+
+            public Direccion()
+            public Direccion(string calle, string numero, string ciudad, string pais, string codigoPostal, bool activo = true)
+
+        class Usuario:
+            - int Id; {get; set;}
+            - string Nombre; {get; set;}
+            - string Apellidos; {get; set;}
+            - string Correo; {get; set;}
+            - string Telefono; {get; set;}
+            - Roles Rol; {get; set;}
+            - string Firebase_uid; {get; set;}   // Nuevo campo para autenticación Firebase
+            - bool Activo; {get; set;}
+
+            public Usuario()
+            // En el constructor, el rol es un String y se parsea a enum Roles.
+            public Usuario(string nombre, string apellidos, string correo, string telefono, string rol, string firebase_uid, bool activo = true)
+
+
+        class Categoria:
+            - int Id; {get; set;}
+            - string Nombre; {get; set;}
+            - bool Activo; {get; set;}
+
+            public Categoria()
+            public Categoria(string nombre, bool activo = true)
+            public Categoria(int id, string nombre, bool activo = true)
+
+        class Producto:
+            - int Id; {get; set;}
+            - string Nombre; {get; set;}
+            - string Descripcion; {get; set;}
+            - decimal Precio; {get; set;}
+            - int Stock; {get; set;}
+            - int IdCategoria; {get; set;}
+            - int IdEmpresaProveedora; {get; set;}  // Antes era "IdProveedor"; referencia a Empresa
+            - bool Activo; {get; set;}
+
+            public Producto()
+            public Producto(string nombre, string descripcion, decimal precio, int stock, int idCategoria, int idEmpresaProveedora, bool activo = true)
+
+        class Pedido:
+            - int Id; {get; set;}
+            - DateTime Fecha; {get; set;}
+            - int IdUsuario; {get; set;}
+            - int IdEmpresaProveedora; {get; set;}   // Empresa que provee los productos del pedido
+            - int IdEmpresaConsumidora; {get; set;}  // Empresa que realiza el pedido (compradora)
+            - decimal PrecioTotal; {get; set;}
+            - Estados Estado; {get; set;}
+            - bool Activo; {get; set;}
+
+            public Pedido()
+            // En el constructor, el estado es un String y se parsea a enum Estados.
+            public Pedido(DateTime fecha, int idUsuario, int idEmpresaProveedora, int idEmpresaConsumidora, decimal precioTotal, string estado, bool activo = true)
+
+        class DetallePedido:
+            - int Id; {get; set;}
+            - int IdPedido; {get; set;}
+            - int IdProducto; {get; set;}
+            - int CantidadProducto; {get; set;}
+            - decimal PrecioUnitario; {get; set;}
+
+            public DetallePedido()
+            public DetallePedido(int idPedido, int idProducto, int cantidadProducto, decimal precioUnitario)
+
+    interfaces:
+        repositories:
+            interface IEmpresaRepository
+                + Task<Empresa[]> GetAllEmpresas();
+                + Task<Empresa> GetEmpresaById(int id);
+                + Task<bool> AddEmpresa(Empresa empresa);
+                + Task<bool> UpdateEmpresa(int id, Empresa empresa);
+                + Task<bool> DeleteEmpresa(int id);
+
+            interface IDireccionRepository
+                + Task<Direccion[]> GetAllDirecciones();
+                + Task<Direccion> GetDireccionById(int id);
+                + Task<bool> AddDireccion(Direccion direccion);
+                + Task<bool> UpdateDireccion(int id, Direccion direccion);
+                + Task<bool> DeleteDireccion(int id);
+
+            interface IUsuarioRepository
+                + Task<Usuario[]> GetAllUsuarios();
+                + Task<Usuario> GetUsuarioById(int id);
+                + Task<bool> AddUsuario(Usuario usuario);
+                + Task<bool> UpdateUsuario(int id, Usuario usuario);
+                + Task<bool> DeleteUsuario(int id);
+
+            interface ICategoriaRepository
+                + Task<Categoria[]> GetAllCategorias();
+                + Task<Categoria> GetCategoriaById(int id);
+                + Task<bool> AddCategoria(Categoria categoria);
+                + Task<bool> UpdateCategoria(int id, Categoria categoria);
+                + Task<bool> DeleteCategoria(int id);
+
+            interface IProductoRepository
+                + Task<Producto[]> GetAllProductos();
+                + Task<Producto> GetProductoById(int id);
+                + Task<bool> AddProducto(Producto producto);
+                + Task<bool> UpdateProducto(int id, Producto producto);
+                + Task<bool> DeleteProducto(int id);
+
+            interface IPedidoRepository
+                + Task<Pedido[]> GetAllPedidos();
+                + Task<Pedido> GetPedidoById(int id);
+                + Task<bool> AddPedido(Pedido pedido);
+                + Task<bool> UpdatePedido(int id, Pedido pedido);
+                + Task<bool> DeletePedido(int id);
+
+            interface IDetallePedidoRepository
+                + Task<DetallePedido[]> GetAllDetallesPedido();       
+                + Task<DetallePedido> GetDetallePedidoById(int id);   
+                + Task<bool> AddDetallePedido(DetallePedido detallePedido);
+                + Task<bool> UpdateDetallePedido(int id, DetallePedido detallePedido);
+                + Task<bool> DeleteDetallePedido(int id);
+
+        useCases:
+            interface IEmpresaUseCase
+                + Task<Empresa[]> GetAllEmpresas();
+                + Task<Empresa> GetEmpresaById(int id);
+                + Task<bool> AddEmpresa(Empresa empresa);
+                + Task<bool> UpdateEmpresa(int id, Empresa empresa);
+                + Task<bool> DeleteEmpresa(int id);
+
+            interface IDireccionUseCase
+                + Task<Direccion[]> GetAllDirecciones();
+                + Task<Direccion> GetDireccionById(int id);
+                + Task<bool> AddDireccion(Direccion direccion);
+                + Task<bool> UpdateDireccion(int id, Direccion direccion);
+                + Task<bool> DeleteDireccion(int id);
+
+            interface IUsuarioUseCase
+                + Task<Usuario[]> GetAllUsuarios();
+                + Task<Usuario> GetUsuarioById(int id);
+                + Task<bool> AddUsuario(Usuario usuario);
+                + Task<bool> UpdateUsuario(int id, Usuario usuario);
+                + Task<bool> DeleteUsuario(int id);
+
+            interface ICategoriaUseCase
+                + Task<Categoria[]> GetAllCategorias();
+                + Task<Categoria> GetCategoriaById(int id);
+                + Task<bool> AddCategoria(Categoria categoria);
+                + Task<bool> UpdateCategoria(int id, Categoria categoria);
+                + Task<bool> DeleteCategoria(int id);
+
+            interface IProductoUseCase
+                + Task<Producto[]> GetAllProductos();
+                + Task<Producto> GetProductoById(int id);
+                + Task<bool> AddProducto(Producto producto);
+                + Task<bool> UpdateProducto(int id, Producto producto);
+                + Task<bool> DeleteProducto(int id);
+
+            interface IPedidoUseCase
+                + Task<Pedido[]> GetAllPedidos();
+                + Task<Pedido> GetPedidoById(int id);
+                + Task<bool> AddPedido(Pedido pedido);
+                + Task<bool> UpdatePedido(int id, Pedido pedido);
+                + Task<bool> DeletePedido(int id);
+
+            interface IDetallePedidoUseCase
+                + Task<DetallePedido[]> GetAllDetallesPedido();
+                + Task<DetallePedido> GetDetallePedidoById(int id);
+                + Task<bool> AddDetallePedido(DetallePedido detallePedido);
+                + Task<bool> UpdateDetallePedido(int id, DetallePedido detallePedido);
+                + Task<bool> DeleteDetallePedido(int id);
+
+    useCases:
+        class EmpresaUseCase: IEmpresaUseCase
+            - IEmpresaRepository _empresaRepository;
+            public EmpresaUseCase(IEmpresaRepository empresaRepository)
+
+            + Task<Empresa[]> GetAllEmpresas();
+            + Task<Empresa> GetEmpresaById(int id);
+            + Task<bool> AddEmpresa(Empresa empresa);
+            + Task<bool> UpdateEmpresa(int id, Empresa empresa);
+            + Task<bool> DeleteEmpresa(int id);
+
+        class DireccionUseCase: IDireccionUseCase
+            - IDireccionRepository _direccionRepository;
+            public DireccionUseCase(IDireccionRepository direccionRepository)
+
+            + Task<Direccion[]> GetAllDirecciones();
+            + Task<Direccion> GetDireccionById(int id);
+            + Task<bool> AddDireccion(Direccion direccion);
+            + Task<bool> UpdateDireccion(int id, Direccion direccion);
+            + Task<bool> DeleteDireccion(int id);
+
+        class UsuarioUseCase: IUsuarioUseCase
+            - IUsuarioRepository _usuarioRepository;
+            public UsuarioUseCase(IUsuarioRepository usuarioRepository)
+
+            + Task<Usuario[]> GetAllUsuarios();
+            + Task<Usuario> GetUsuarioById(int id);
+            + Task<bool> AddUsuario(Usuario usuario);
+            + Task<bool> UpdateUsuario(int id, Usuario usuario);
+            + Task<bool> DeleteUsuario(int id);
+
+        class CategoriaUseCase: ICategoriaUseCase
+            - ICategoriaRepository _categoriaRepository;
+            public CategoriaUseCase(ICategoriaRepository categoriaRepository)
+
+            + Task<Categoria[]> GetAllCategorias();
+            + Task<Categoria> GetCategoriaById(int id);
+            + Task<bool> AddCategoria(Categoria categoria);
+            + Task<bool> UpdateCategoria(int id, Categoria categoria);
+            + Task<bool> DeleteCategoria(int id);
+
+        class ProductoUseCase: IProductoUseCase
+            - IProductoRepository _productoRepository;
+            public ProductoUseCase(IProductoRepository productoRepository)
+
+            + Task<Producto[]> GetAllProductos();
+            + Task<Producto> GetProductoById(int id);
+            + Task<bool> AddProducto(Producto producto);
+            + Task<bool> UpdateProducto(int id, Producto producto);
+            + Task<bool> DeleteProducto(int id);
+
+        class PedidoUseCase: IPedidoUseCase
+            - IPedidoRepository _pedidoRepository;
+            public PedidoUseCase(IPedidoRepository pedidoRepository)
+
+            + Task<Pedido[]> GetAllPedidos();
+            + Task<Pedido> GetPedidoById(int id);
+            + Task<bool> AddPedido(Pedido pedido);
+            + Task<bool> UpdatePedido(int id, Pedido pedido);
+            + Task<bool> DeletePedido(int id);
+
+        class DetallePedidoUseCase: IDetallePedidoUseCase
+            - IDetallePedidoRepository _detallePedidoRepository;
+            public DetallePedidoUseCase(IDetallePedidoRepository detallePedidoRepository)
+
+            + Task<DetallePedido[]> GetAllDetallesPedido();
+            + Task<DetallePedido> GetDetallePedidoById(int id);
+            + Task<bool> AddDetallePedido(DetallePedido detallePedido);
+            + Task<bool> UpdateDetallePedido(int id, DetallePedido detallePedido);
+            + Task<bool> DeleteDetallePedido(int id);
+
+_________________________________________________________________________________________________________________________________________________________________
+
+data:
+    repositories:
+        class EmpresaRepository: IEmpresaRepository
+            + Task<Empresa[]> GetAllEmpresas();
+            + Task<Empresa> GetEmpresaById(int id);
+            + Task<bool> AddEmpresa(Empresa empresa);
+            + Task<bool> UpdateEmpresa(int id, Empresa empresa);
+            + Task<bool> DeleteEmpresa(int id);   // Soft delete: UPDATE Empresa SET activo = 0
+
+        class DireccionRepository: IDireccionRepository
+            + Task<Direccion[]> GetAllDirecciones();
+            + Task<Direccion> GetDireccionById(int id);
+            + Task<bool> AddDireccion(Direccion direccion);
+            + Task<bool> UpdateDireccion(int id, Direccion direccion);
+            + Task<bool> DeleteDireccion(int id);
+
+        class UsuarioRepository: IUsuarioRepository
+            + Task<Usuario[]> GetAllUsuarios();
+            + Task<Usuario> GetUsuarioById(int id);
+            + Task<bool> AddUsuario(Usuario usuario);
+            + Task<bool> UpdateUsuario(int id, Usuario usuario);
+            + Task<bool> DeleteUsuario(int id);
+
+        class CategoriaRepository: ICategoriaRepository
+            + Task<Categoria[]> GetAllCategorias();
+            + Task<Categoria> GetCategoriaById(int id);
+            + Task<bool> AddCategoria(Categoria categoria);
+            + Task<bool> UpdateCategoria(int id, Categoria categoria);
+            + Task<bool> DeleteCategoria(int id);
+
+        class ProductoRepository: IProductoRepository
+            + Task<Producto[]> GetAllProductos();
+            + Task<Producto> GetProductoById(int id);
+            + Task<bool> AddProducto(Producto producto);
+            + Task<bool> UpdateProducto(int id, Producto producto);
+            + Task<bool> DeleteProducto(int id);
+
+        class PedidoRepository: IPedidoRepository
+            + Task<Pedido[]> GetAllPedidos();
+            + Task<Pedido> GetPedidoById(int id);
+            + Task<bool> AddPedido(Pedido pedido);
+            + Task<bool> UpdatePedido(int id, Pedido pedido);
+            + Task<bool> DeletePedido(int id);
+
+        class DetallePedidoRepository: IDetallePedidoRepository
+            + Task<DetallePedido[]> GetAllDetallesPedido();
+            + Task<DetallePedido> GetDetallePedidoById(int id);
+            + Task<bool> AddDetallePedido(DetallePedido detallePedido);
+            + Task<bool> UpdateDetallePedido(int id, DetallePedido detallePedido);
+            + Task<bool> DeleteDetallePedido(int id);
+
+    database:
+        class Connection
+            + static string getConnectionString();   // Retorna la cadena de conexión a Azure SQL Server
+
+_________________________________________________________________________________________________________________________________________________________________
+
+api:
+    controllers:
+        [ApiController]
+        [Route("api/[controller]")]
+        class EmpresaController: ControllerBase
+            - IEmpresaUseCase _empresaUseCase;
+            public EmpresaController(IEmpresaUseCase empresaUseCase)
+
+            [HttpGet]
+            + Task<IActionResult> GetEmpresa();          // Llama a GetAllEmpresas()
+
+            [HttpGet("{id}")]
+            + Task<IActionResult> GetEmpresaById(int id);
+
+            [HttpPost]
+            + Task<IActionResult> AddEmpresa(Empresa empresa);
+
+            [HttpPut("{id}")]
+            + Task<IActionResult> UpdateEmpresa(int id, Empresa empresa);
+
+            [HttpDelete("{id}")]
+            + Task<IActionResult> DeleteEmpresa(int id);
+
+        [ApiController]
+        [Route("api/[controller]")]
+        class DireccionController: ControllerBase
+            - IDireccionUseCase _direccionUseCase;
+            public DireccionController(IDireccionUseCase direccionUseCase)
+
+            [HttpGet]
+            + Task<IActionResult> GetAllDirecciones();
+
+            [HttpGet("{id}")]
+            + Task<IActionResult> GetDireccionById(int id);
+
+            [HttpPost]
+            + Task<IActionResult> AddDireccion(Direccion direccion);
+
+            [HttpPut("{id}")]
+            + Task<IActionResult> UpdateDireccion(int id, Direccion direccion);
+
+            [HttpDelete("{id}")]
+            + Task<IActionResult> DeleteDireccion(int id);
+
+        [ApiController]
+        [Route("api/[controller]")]
+        class UsuarioController: ControllerBase
+            - IUsuarioUseCase _usuarioUseCase;
+            public UsuarioController(IUsuarioUseCase usuarioUseCase)
+
+            [HttpGet]
+            + Task<IActionResult> GetAllUsuarios();
+
+            [HttpGet("{id}")]
+            + Task<IActionResult> GetUsuarioById(int id);
+
+            [HttpPost]
+            + Task<IActionResult> AddUsuario(Usuario usuario);
+
+            [HttpPut("{id}")]
+            + Task<IActionResult> UpdateUsuario(int id, Usuario usuario);
+
+            [HttpDelete("{id}")]
+            + Task<IActionResult> DeleteUsuario(int id);
+
+
+        [ApiController]
+        [Route("api/[controller]")]
+        class CategoriaController: ControllerBase
+            - ICategoriaUseCase _categoriaUseCase;
+            public CategoriaController(ICategoriaUseCase categoriaUseCase)
+
+            [HttpGet]
+            + Task<IActionResult> GetAllCategorias();
+
+            [HttpGet("{id}")]
+            + Task<IActionResult> GetCategoriaById(int id);
+
+            [HttpPost]
+            + Task<IActionResult> AddCategoria(Categoria categoria);
+
+            [HttpPut("{id}")]
+            + Task<IActionResult> UpdateCategoria(int id, Categoria categoria);
+
+            [HttpDelete("{id}")]
+            + Task<IActionResult> DeleteCategoria(int id);
+
+        [ApiController]
+        [Route("api/[controller]")]
+        class ProductoController: ControllerBase
+            - IProductoUseCase _productoUseCase;
+            public ProductoController(IProductoUseCase productoUseCase)
+
+            [HttpGet]
+            + Task<IActionResult> GetAllProductos();
+
+            [HttpGet("{id}")]
+            + Task<IActionResult> GetProductoById(int id);
+
+            [HttpPost]
+            + Task<IActionResult> AddProducto(Producto producto);
+
+            [HttpPut("{id}")]
+            + Task<IActionResult> UpdateProducto(int id, Producto producto);
+
+            [HttpDelete("{id}")]
+            + Task<IActionResult> DeleteProducto(int id);
+
+        [ApiController]
+        [Route("api/[controller]")]
+        class PedidoController: ControllerBase
+            - IPedidoUseCase _pedidoUseCase;
+            public PedidoController(IPedidoUseCase pedidoUseCase)
+
+            [HttpGet]
+            + Task<IActionResult> GetAllPedidos();
+
+            [HttpGet("{id}")]
+            + Task<IActionResult> GetPedidoById(int id);
+
+            [HttpPost]
+            + Task<IActionResult> AddPedido(Pedido pedido);
+
+            [HttpPut("{id}")]
+            + Task<IActionResult> UpdatePedido(int id, Pedido pedido);
+
+            [HttpDelete("{id}")]
+            + Task<IActionResult> DeletePedido(int id);
+
+        [ApiController]
+        [Route("api/[controller]")]
+        class DetallePedidoController: ControllerBase
+            - IDetallePedidoUseCase _detallePedidoUseCase;
+            public DetallePedidoController(IDetallePedidoUseCase detallePedidoUseCase)
+
+            [HttpGet]
+            + Task<IActionResult> GetAllDetallesPedido();      
+
+            [HttpGet("{id}")]
+            + Task<IActionResult> GetDetallePedidoById(int id); 
+
+            [HttpPost]
+            + Task<IActionResult> AddDetallePedido(DetallePedido detallePedido);
+
+            [HttpPut("{id}")]
+            + Task<IActionResult> UpdateDetallePedido(int id, DetallePedido detallePedido);
+
+            [HttpDelete("{id}")]
+            + Task<IActionResult> DeleteDetallePedido(int id);
+
+_________________________________________________________________________________________________________________________________________________________________
+
+Errores y problemas detectados en versiones anteriores:
+
+1. Relación incorrecta entre Pedido y Proveedor:
+   Inicialmente, la clase Pedido incluía un atributo idProveedor, lo que restringía cada pedido a
+   un único proveedor. Esto generaba una inconsistencia con el requisito funcional de que un pedido
+   pudiera contener productos de múltiples proveedores.
+
+2. Almacenamiento de direcciones en formato string en Empresa:
+   En versiones anteriores, la clase Empresa almacenaba la dirección como un texto plano
+   (string direccion), lo que impedía la reutilización y normalización de la entidad Direccion.
+
+3. Incoherencias entre propiedades y constructores:
+   - La clase Pedido tenía la propiedad Estado de tipo enum Estados, mientras que el constructor
+     recibía un string.
+   - La clase Usuario recibía un string rol que luego debía ser parseado a la enumeración Roles.
+   - Muchos constructores solicitaban el id de las entidades, cuando este valor debía ser gestionado
+     por la base de datos mediante auto-incremento.
+
+4. Uso incorrecto de tipos para valores monetarios:
+   En iteraciones anteriores, los precios de productos y detalles de pedido estaban definidos como
+   double, lo que podría generar errores de redondeo en cálculos financieros.
+
+5. Redundancia de idProveedor en DetallePedido:
+   Al almacenar el proveedor en cada detalle de pedido, se introducía un riesgo de inconsistencias.
+   Esto violaba la normalización de la base de datos.
+
+6. Ausencia de control de stock y auditoría:
+   Las entidades no contemplaban mecanismos para gestionar disponibilidad de productos ni campos
+   de auditoría (Activo), necesarios para un ERP funcional.
+
+7. Existencia de la entidad Proveedor como clase separada:
+   En versiones anteriores existía una entidad Proveedor independiente con su propio repositorio,
+   caso de uso y controlador. Esto generaba duplicidad conceptual con la entidad Empresa, ya que
+   ambas representaban organizaciones externas con datos similares (nombre, teléfono, correo, iban,
+   dirección).
+
+_________________________________________________________________________________________________________________________________________________________________
+
+Implementación y mejoras realizadas en la última versión:
+
+1. Eliminación completa de la entidad Proveedor:
+   La entidad Proveedor, junto con IProveedorRepository, IProveedorUseCase, ProveedorRepository,
+   ProveedorUseCase y ProveedorController, ha sido eliminada del sistema. Las empresas proveedoras
+   se gestionan ahora directamente a través de la entidad Empresa. Los productos y pedidos
+   referencian a la empresa proveedora mediante el campo IdEmpresaProveedora, que apunta a un
+   registro de la tabla Empresa.
+
+2. Distinción entre empresa proveedora y empresa consumidora en Pedido:
+   La clase Pedido ahora incluye dos referencias a Empresa:
+   - IdEmpresaProveedora: la empresa que suministra los productos del pedido.
+   - IdEmpresaConsumidora: la empresa que realiza la compra (cliente).
+   Esto permite modelar correctamente las relaciones B2B del sistema ERP.
+
+3. Normalización de direcciones en la entidad Empresa:
+   La clase Empresa ahora referencia la entidad Direccion mediante IdDireccion, permitiendo
+   reutilización y consistencia en las ubicaciones.
+
+4. Campo Pais en lugar de Provincia en Direccion:
+   La entidad Direccion ahora usa el campo Pais en lugar de Provincia, adaptándose a un contexto
+   internacional para un sistema ERP.
+
+5. Autenticación Firebase en Usuario:
+   La clase Usuario incorpora el campo Firebase_uid para integración con Firebase Authentication,
+   permitiendo gestión de identidad externa.
+
+6. Campo Activo en todas las entidades (soft delete):
+   Todas las entidades (Empresa, Direccion, Usuario, Categoria, Producto, Pedido) incorporan el
+   campo Activo de tipo bool. Las operaciones de eliminación (Delete) realizan un soft delete,
+   estableciendo Activo = false en lugar de borrar el registro físicamente de la base de datos.
+
+7. Ajuste de constructores y propiedades:
+   - Se modificaron los constructores para que reciban los mismos tipos que las propiedades
+     (Estados para Pedido.Estado y Roles para Usuario.Rol, parseados desde string).
+   - Se eliminó la necesidad de pasar id en la creación de nuevas entidades, dejando que la
+     base de datos gestione su generación mediante auto-incremento.
+   - Se añadió un constructor vacío en todas las entidades para compatibilidad con deserialización.
+
+8. Uso de tipo decimal para precios:
+   Los atributos de precio en Producto (Precio) y DetallePedido (PrecioUnitario) son decimal,
+   garantizando precisión en cálculos financieros.
+
+9. CRUD completo para todas las entidades:
+   Todas las entidades ahora disponen de operaciones completas: GetAll, GetById, Add, Update y
+   Delete. En versiones anteriores, Empresa solo tenía GetEmpresa y UpdateEmpresa.
+
+10. Refactorización de DetallePedido:
+    La interfaz IDetallePedidoRepository (y su caso de uso) ahora expone GetAllDetallesPedido()
+    y GetDetallePedidoById(int id) en lugar del anterior GetDetallesByPedidoId(int idPedido),
+    siguiendo el patrón CRUD estándar del resto de repositorios.
+
+11. Nuevo valor en enum Estados:
+    Se añadió el estado Pagado al enum Estados, además de los existentes:
+    {Pendiente, Enviado, Entregado, Cancelado, Pagado}.

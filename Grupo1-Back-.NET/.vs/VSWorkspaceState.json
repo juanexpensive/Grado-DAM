@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AbastecePro",
+    "\\AbastecePro\\AbastecePro",
+    "\\AbastecePro\\AbastecePro\\Controllers",
+    "\\AbastecePro\\Core",
+    "\\AbastecePro\\Data",
+    "\\AbastecePro\\Data\\Repositories",
+    "\\AbastecePro\\Domain",
+    "\\AbastecePro\\Domain\\Entities",
+    "\\AbastecePro\\Domain\\UseCases"
+  ],
+  "SelectedNode": "\\AbastecePro\\AbastecePro\\Controllers\\UsuarioController.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25A2DC40-FBE5-4BC7-9BE2-FBA9C06B6060}|AbastecePro\\AbastecePro.csproj|c:\\users\\pablo.iglesias\\documents\\github\\grupo1-back-.net\\abastecepro\\abastecepro\\controllers\\direccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A2DC40-FBE5-4BC7-9BE2-FBA9C06B6060}|AbastecePro\\AbastecePro.csproj|solutionrelative:abastecepro\\controllers\\direccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F35170-59A7-4A90-A1E5-014A1461FCC3}|Data\\Data.csproj|c:\\users\\pablo.iglesias\\documents\\github\\grupo1-back-.net\\abastecepro\\data\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F35170-59A7-4A90-A1E5-014A1461FCC3}|Data\\Data.csproj|solutionrelative:data\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6708120-7A2C-4497-8B17-E773C08F918A}|Domain\\Domain.csproj|c:\\users\\pablo.iglesias\\documents\\github\\grupo1-back-.net\\abastecepro\\domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6708120-7A2C-4497-8B17-E773C08F918A}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F35170-59A7-4A90-A1E5-014A1461FCC3}|Data\\Data.csproj|c:\\users\\pablo.iglesias\\documents\\github\\grupo1-back-.net\\abastecepro\\data\\repositoriesmock\\productomock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F35170-59A7-4A90-A1E5-014A1461FCC3}|Data\\Data.csproj|solutionrelative:data\\repositoriesmock\\productomock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DireccionController.cs",
+              "DocumentMoniker": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\AbastecePro\\Controllers\\DireccionController.cs",
+              "RelativeDocumentMoniker": "AbastecePro\\Controllers\\DireccionController.cs",
+              "ToolTip": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\AbastecePro\\Controllers\\DireccionController.cs",
+              "RelativeToolTip": "AbastecePro\\Controllers\\DireccionController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T12:50:55.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoMock.cs",
+              "DocumentMoniker": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Data\\RepositoriesMock\\ProductoMock.cs",
+              "RelativeDocumentMoniker": "Data\\RepositoriesMock\\ProductoMock.cs",
+              "ToolTip": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Data\\RepositoriesMock\\ProductoMock.cs",
+              "RelativeToolTip": "Data\\RepositoriesMock\\ProductoMock.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAmwDkAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T18:42:34.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Domain\\Entities\\Producto.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Producto.cs",
+              "ToolTip": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Domain\\Entities\\Producto.cs",
+              "RelativeToolTip": "Domain\\Entities\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T18:41:37.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Data\\Repositories\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\ProductoRepository.cs",
+              "ToolTip": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\Grupo1-Back-.NET\\AbastecePro\\Data\\Repositories\\ProductoRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\ProductoRepository.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAA9wIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T18:41:17.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
