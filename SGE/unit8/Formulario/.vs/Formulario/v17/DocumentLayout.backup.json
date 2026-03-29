@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit8\\Formulario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B18559B-4485-4347-B8AB-05CFE9AB4947}|Formulario\\Formulario.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\unit8\\formulario\\formulario\\views\\home\\saludo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B18559B-4485-4347-B8AB-05CFE9AB4947}|Formulario\\Formulario.csproj|solutionrelative:formulario\\views\\home\\saludo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B18559B-4485-4347-B8AB-05CFE9AB4947}|Formulario\\Formulario.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\unit8\\formulario\\formulario\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B18559B-4485-4347-B8AB-05CFE9AB4947}|Formulario\\Formulario.csproj|solutionrelative:formulario\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B18559B-4485-4347-B8AB-05CFE9AB4947}|Formulario\\Formulario.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\unit8\\formulario\\formulario\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B18559B-4485-4347-B8AB-05CFE9AB4947}|Formulario\\Formulario.csproj|solutionrelative:formulario\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B18559B-4485-4347-B8AB-05CFE9AB4947}|Formulario\\Formulario.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\unit8\\formulario\\formulario\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B18559B-4485-4347-B8AB-05CFE9AB4947}|Formulario\\Formulario.csproj|solutionrelative:formulario\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B18559B-4485-4347-B8AB-05CFE9AB4947}|Formulario\\Formulario.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\unit8\\formulario\\formulario\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B18559B-4485-4347-B8AB-05CFE9AB4947}|Formulario\\Formulario.csproj|solutionrelative:formulario\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit8\\Formulario\\Formulario\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Formulario\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit8\\Formulario\\Formulario\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Formulario\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-03T13:33:22.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Saludo.cshtml",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit8\\Formulario\\Formulario\\Views\\Home\\Saludo.cshtml",
+              "RelativeDocumentMoniker": "Formulario\\Views\\Home\\Saludo.cshtml",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit8\\Formulario\\Formulario\\Views\\Home\\Saludo.cshtml",
+              "RelativeToolTip": "Formulario\\Views\\Home\\Saludo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-03T13:30:46.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit8\\Formulario\\Formulario\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Formulario\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit8\\Formulario\\Formulario\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Formulario\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T13:11:33.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit8\\Formulario\\Formulario\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Formulario\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit8\\Formulario\\Formulario\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Formulario\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-03T13:08:47.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit8\\Formulario\\Formulario\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Formulario\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit8\\Formulario\\Formulario\\Models\\Person.cs",
+              "RelativeToolTip": "Formulario\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T13:08:05.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

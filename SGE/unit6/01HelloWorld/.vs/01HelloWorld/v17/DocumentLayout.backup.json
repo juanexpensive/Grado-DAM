@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit6\\01HelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAD5D0B-A50A-46F8-A76D-934AD395F40B}|01HelloWorld\\01HelloWorld.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\unit6\\01helloworld\\01helloworld\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DAD5D0B-A50A-46F8-A76D-934AD395F40B}|01HelloWorld\\01HelloWorld.csproj|solutionrelative:01helloworld\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAD5D0B-A50A-46F8-A76D-934AD395F40B}|01HelloWorld\\01HelloWorld.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\unit6\\01helloworld\\01helloworld\\views\\home\\juan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DAD5D0B-A50A-46F8-A76D-934AD395F40B}|01HelloWorld\\01HelloWorld.csproj|solutionrelative:01helloworld\\views\\home\\juan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAD5D0B-A50A-46F8-A76D-934AD395F40B}|01HelloWorld\\01HelloWorld.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\unit6\\01helloworld\\01helloworld\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DAD5D0B-A50A-46F8-A76D-934AD395F40B}|01HelloWorld\\01HelloWorld.csproj|solutionrelative:01helloworld\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAD5D0B-A50A-46F8-A76D-934AD395F40B}|01HelloWorld\\01HelloWorld.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\unit6\\01helloworld\\01helloworld\\views\\productos\\listadoproductos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DAD5D0B-A50A-46F8-A76D-934AD395F40B}|01HelloWorld\\01HelloWorld.csproj|solutionrelative:01helloworld\\views\\productos\\listadoproductos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAD5D0B-A50A-46F8-A76D-934AD395F40B}|01HelloWorld\\01HelloWorld.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\unit6\\01helloworld\\01helloworld\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DAD5D0B-A50A-46F8-A76D-934AD395F40B}|01HelloWorld\\01HelloWorld.csproj|solutionrelative:01helloworld\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAD5D0B-A50A-46F8-A76D-934AD395F40B}|01HelloWorld\\01HelloWorld.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\unit6\\01helloworld\\01helloworld\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DAD5D0B-A50A-46F8-A76D-934AD395F40B}|01HelloWorld\\01HelloWorld.csproj|solutionrelative:01helloworld\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAD5D0B-A50A-46F8-A76D-934AD395F40B}|01HelloWorld\\01HelloWorld.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\unit6\\01helloworld\\01helloworld\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DAD5D0B-A50A-46F8-A76D-934AD395F40B}|01HelloWorld\\01HelloWorld.csproj|solutionrelative:01helloworld\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListadoProductos.cshtml",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit6\\01HelloWorld\\01HelloWorld\\Views\\Productos\\ListadoProductos.cshtml",
+              "RelativeDocumentMoniker": "01HelloWorld\\Views\\Productos\\ListadoProductos.cshtml",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit6\\01HelloWorld\\01HelloWorld\\Views\\Productos\\ListadoProductos.cshtml",
+              "RelativeToolTip": "01HelloWorld\\Views\\Productos\\ListadoProductos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T12:36:16.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Juan.cshtml",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit6\\01HelloWorld\\01HelloWorld\\Views\\Home\\Juan.cshtml",
+              "RelativeDocumentMoniker": "01HelloWorld\\Views\\Home\\Juan.cshtml",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit6\\01HelloWorld\\01HelloWorld\\Views\\Home\\Juan.cshtml",
+              "RelativeToolTip": "01HelloWorld\\Views\\Home\\Juan.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T12:12:21.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit6\\01HelloWorld\\01HelloWorld\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "01HelloWorld\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit6\\01HelloWorld\\01HelloWorld\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "01HelloWorld\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T12:37:54.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit6\\01HelloWorld\\01HelloWorld\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "01HelloWorld\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit6\\01HelloWorld\\01HelloWorld\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "01HelloWorld\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T12:28:25.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit6\\01HelloWorld\\01HelloWorld\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "01HelloWorld\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit6\\01HelloWorld\\01HelloWorld\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "01HelloWorld\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T12:35:49.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit6\\01HelloWorld\\01HelloWorld\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "01HelloWorld\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit6\\01HelloWorld\\01HelloWorld\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "01HelloWorld\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T12:34:56.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit6\\01HelloWorld\\01HelloWorld\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "01HelloWorld\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit6\\01HelloWorld\\01HelloWorld\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "01HelloWorld\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T12:27:13.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

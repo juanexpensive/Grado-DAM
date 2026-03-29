@@ -1,0 +1,29 @@
+﻿@model List<Ejercicio_1.Models.Entities.clsPersona>
+
+@{
+    ViewData["Title"] = "Listado de Personas";
+}
+
+<h1>Listado de Personas</h1>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nombre</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var persona in Model)
+        {
+            <tr>
+                <td>@persona.Id</td>
+                <td>@persona.Nombre</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<p>
+    <a href="/Home">index</a>
+</p>
+

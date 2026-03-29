@@ -1,0 +1,35 @@
+﻿@model IEnumerable<Domain.Entities.Departamento>
+
+@{
+    ViewData["Title"] = "View";
+}
+
+<h1>Listado de Departamentos</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-success">Crear Departamento</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Nombre
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.nombre)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.id }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.id })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

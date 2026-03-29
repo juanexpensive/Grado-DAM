@@ -1,0 +1,34 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">halloooooo</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+@{
+    ViewBag.Title = "Hora Actual";
+
+    // C# code block in Razor
+    DateTime horaActual = DateTime.Now;
+    string formatoHora = horaActual.ToString("HH:mm");
+    bool esTarde = horaActual.Hour >= 12; // Check if the hour is 12 or later
+}
+
+@* Display the current time *@
+<p>Hola, son las @formatoHora</p>
+
+@* Display the conditional text *@
+<p>
+    @if (esTarde)
+    {
+        // C# code inside an HTML block
+        <text>Hemos pasado de las 12 del mediodía.</text>
+    }
+    else
+    {
+        // C# code inside an HTML block
+        <text>Todavía no hemos pasado de las 12 del mediodía.</text>
+    }
+</p>
+@Html.ActionLink("Ver productos", "Index", "Productos")

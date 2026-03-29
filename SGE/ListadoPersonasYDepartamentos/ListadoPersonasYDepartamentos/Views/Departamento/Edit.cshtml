@@ -1,0 +1,46 @@
+﻿@model Domain.Entities.Departamento
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit Departamento</h1>
+
+<h4>Departamento</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            @if (ViewData.ModelState.Count > 0 && ViewData.ModelState.ContainsKey(""))
+            {
+                <div class="alert alert-danger">
+                    @Html.ValidationMessage("")
+                </div>
+            }
+
+            <input type="hidden" asp-for="id" />
+
+            <div class="form-group">
+                <label asp-for="nombre" class="control-label">Nombre del Departamento</label>
+                <input asp-for="nombre" class="form-control" />
+                <span asp-validation-for="nombre" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mt-3">
+                <input type="submit" value="Guardar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="mt-3">
+    <a asp-action="Index">Volver a la Lista</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,98 @@
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\bin\Debug\net9.0\appsettings.json
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\bin\Debug\net9.0\Ejercicio 1.staticwebassets.runtime.json
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\bin\Debug\net9.0\Ejercicio 1.staticwebassets.endpoints.json
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\bin\Debug\net9.0\Ejercicio 1.exe
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\bin\Debug\net9.0\Ejercicio 1.deps.json
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\bin\Debug\net9.0\Ejercicio 1.runtimeconfig.json
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\bin\Debug\net9.0\Ejercicio 1.dll
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\bin\Debug\net9.0\Ejercicio 1.pdb
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\Ejercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\Ejercicio 1.AssemblyInfoInputs.cache
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\Ejercicio 1.AssemblyInfo.cs
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\Ejercicio 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\Ejercicio 1.RazorAssemblyInfo.cache
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\Ejercicio 1.RazorAssemblyInfo.cs
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\Ejercicio 1.sourcelink.json
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\scopedcss\bundle\Ejercicio 1.styles.css
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\scopedcss\projectbundle\Ejercicio 1.bundle.scp.css
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\c44sm1wwmp-b9sayid5wm.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\7sh2zlnjf1-61n19gt1b8.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\76z0xpj9ln-xtxxf3hu2r.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\qn9ys4ubmm-bqjiyaj88i.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\kj5zob7gmc-c2jlpeoesf.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\4b17l2ke64-erw9l3u2r3.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\xvdhunjtyw-aexeepp0ev.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\e805np1ia8-d7shbmvgxk.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\9uvg395608-ausgxo2sd3.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\wbid0em5xr-k8d9w2qqmf.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\6sumo8nt07-cosvhxvwiu.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\synot02ptt-ub07r2b239.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\w4zxijk32l-fvhpjtyr6v.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\183z5do450-b7pk76d08c.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\y2rny6ivy3-fsbi9cje9m.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\1zffh0pmqm-rzd6atqjts.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\8gmiq0sbr8-ee0r1s7dh0.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\2e01hepkqp-dxx9fxp4il.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\ouxfjd4xei-jd9uben2k1.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\4pa5wexlhb-khv3u5hwcm.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\gg881338gh-r4e9w2rdcm.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\xd9v03h0km-lcd1t2u6c8.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\9dmh710ckw-c2oey78nd0.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\feux4ii5ew-tdbxkamptv.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\8jj72sja6u-j5mq2jizvt.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\jdk0gtsaxi-06098lyss8.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\j53u37jkfv-nvvlpmu67g.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\lwgjpf9jc7-s35ty4nyc5.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\yjt3vjg24x-pj5nd1wqec.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\ljk2pyvcn3-46ein0sx1k.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\lwy3l6ws53-v0zj4ognzu.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\tov3amx5a8-37tfw0ft22.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\f8jv7605fk-hrwsygsryq.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\gmqdaojs5k-pk9g2wxc8p.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\iwrk4snlun-ft3s53vfgj.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\q26jfl9zr2-6cfz1n2cew.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\ghzxsrejwq-6pdc2jztkx.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\mrepkzvi9r-493y06b0oq.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\9610fv202l-iovd86k7lj.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\9s0iaysdku-vr1egmr9el.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\grgzdfqsxt-kbrnm935zg.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\fzk2tmj70f-jj8uyg4cgr.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\ct4cyay2xs-y7v9cxd14o.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\p2y6yaquwk-notf2xhcfb.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\l828bgfa3m-h1s4sie4z3.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\r4nx9epqcf-63fj8s7r0e.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\1xagz2qwsc-0j3bgjxly4.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\slaagv1w40-47otxtyo56.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\7mr6tjwj83-4v8eqarkd7.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\wobbp3rr2m-356vix0kms.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\1w7ba1qrzf-83jwlth58m.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\7ui9tf34ga-mrlpezrjn3.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\j1x2zqyzu8-lzl9nlhx6b.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\ms07zgqshd-ag7o75518u.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\e0k0ycqglg-x0q3zqp4vz.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\bzxcyaryjd-0i3buxo5is.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\45a6gafza0-o1o13a6vjx.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\780vt9mo2e-ttgo8qnofa.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\93kdhdwy9a-2z0ns9nrw6.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\v7fg60aju6-muycvpuwrr.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\uo3g1d0onv-87fc7y1x7t.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\ufobxm30qh-mlv21k5csn.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\7kqc7hh6s8-v5ry733yh3.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\compressed\zlg40zfpd3-v5ry733yh3.gz
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\Ejercicio 1.dll
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\refint\Ejercicio 1.dll
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\Ejercicio 1.pdb
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\Ejercicio 1.genruntimeconfig.cache
+C:\Users\juan.caro\Documents\GitHub\SGE\unit7\Ejercicio 1\Ejercicio 1\obj\Debug\net9.0\ref\Ejercicio 1.dll

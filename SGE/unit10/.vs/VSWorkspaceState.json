@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ListaPersonasClean",
+    "\\ListaPersonasClean\\Data",
+    "\\ListaPersonasClean\\Data\\Database",
+    "\\ListaPersonasClean\\Data\\Repositories",
+    "\\ListaPersonasClean\\Domain",
+    "\\ListaPersonasClean\\UI"
+  ],
+  "SelectedNode": "\\ListaPersonasClean\\Data\\Repositories\\PeopleRepository.cs",
+  "PreviewInSolutionExplorer": false
+}

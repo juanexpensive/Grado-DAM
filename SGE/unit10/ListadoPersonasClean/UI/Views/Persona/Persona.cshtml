@@ -1,0 +1,46 @@
+﻿using Domain.Entities;
+using System.Reflection;
+using System.Threading;
+
+@model IEnumerable<Domain.Entities.Persona>
+
+@{
+    ViewData["Title"] = "Listado de Personas";
+}
+
+< h1 > @ViewData["Title"] </ h1 >
+
+< table class= "table table-bordered table-striped" >
+    < thead class= "table-dark" >
+        < tr >
+            < th style = "text-align:center;" > @Html.DisplayNameFor(model => model.First().Nombre) </ th >
+            < th style = "text-align:center;" > @Html.DisplayNameFor(model => model.First().Apellidos) </ th >
+            < th style = "text-align:center;" > @Html.DisplayNameFor(model => model.First().FechaNacimiento) </ th >
+            < th style = "text-align:center;" > @Html.DisplayNameFor(model => model.First().Direccion) </ th >
+            < th style = "text-align:center;" > @Html.DisplayNameFor(model => model.First().Telefono) </ th >
+            < th style = "text-align:center;" > @Html.DisplayNameFor(model => model.First().Foto) </ th >
+        </ tr >
+    </ thead >
+    < tbody >
+        @foreach (var persona in Model)
+        {
+                < tr >
+
+                    < td align = "center" style = "vertical-align:middle" > @Html.DisplayFor(m => persona.Nombre) </ td >
+                    < td align = "center" style = "vertical-align:middle" > @Html.DisplayFor(m => persona.Apellidos) </ td >
+                    < td align = "center" style = "vertical-align:middle" > @Html.DisplayFor(m => persona.FechaNacimiento) </ td >
+                    < td align = "center" style = "vertical-align:middle" > @Html.DisplayFor(m => persona.Direccion) </ td >
+                    < td align = "center" style = "vertical-align:middle" > @Html.DisplayFor(m => persona.Telefono) </ td >
+                    < td align = "center" >
+                        < img src = "@persona.Foto" alt = "Foto" style = "width: 100px; height: 100px;" />
+                    </ td >
+                    < td align = "center" style = "vertical-align:middle" >
+                        @Html.ActionLink("Details", "Details", new { id = persona.ID }) |
+                        @Html.ActionLink("Edit", "Edit", new { id = persona.ID }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = persona.ID })
+                    </ td >
+
+                </ tr >
+        }
+    </ tbody >
+</ table >

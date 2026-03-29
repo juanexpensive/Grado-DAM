@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanm\\Documents\\GitHub\\SGE\\unit10\\ListaPersonaCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21A201F3-2B1B-4C70-AE4B-B1EDD36E54AD}|Data\\Data.csproj|c:\\users\\juanm\\documents\\github\\sge\\unit10\\listapersonacrud\\data\\database\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21A201F3-2B1B-4C70-AE4B-B1EDD36E54AD}|Data\\Data.csproj|solutionrelative:data\\database\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D82DBC-A969-48A7-89BE-D8ABE9E10116}|Domain\\Domain.csproj|c:\\users\\juanm\\documents\\github\\sge\\unit10\\listapersonacrud\\domain\\entities\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D82DBC-A969-48A7-89BE-D8ABE9E10116}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D82DBC-A969-48A7-89BE-D8ABE9E10116}|Domain\\Domain.csproj|c:\\users\\juanm\\documents\\github\\sge\\unit10\\listapersonacrud\\domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D82DBC-A969-48A7-89BE-D8ABE9E10116}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D82DBC-A969-48A7-89BE-D8ABE9E10116}|Domain\\Domain.csproj|c:\\users\\juanm\\documents\\github\\sge\\unit10\\listapersonacrud\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B5D82DBC-A969-48A7-89BE-D8ABE9E10116}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD81FEF-70F3-4FD2-A1A4-800B73457BD0}|ListaPersonaCRUD\\Presentation.csproj|c:\\users\\juanm\\documents\\github\\sge\\unit10\\listapersonacrud\\listapersonacrud\\views\\home\\index.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3AD81FEF-70F3-4FD2-A1A4-800B73457BD0}|ListaPersonaCRUD\\Presentation.csproj|solutionrelative:listapersonacrud\\views\\home\\index.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD81FEF-70F3-4FD2-A1A4-800B73457BD0}|ListaPersonaCRUD\\Presentation.csproj|c:\\users\\juanm\\documents\\github\\sge\\unit10\\listapersonacrud\\listapersonacrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD81FEF-70F3-4FD2-A1A4-800B73457BD0}|ListaPersonaCRUD\\Presentation.csproj|solutionrelative:listapersonacrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\Documents\\GitHub\\SGE\\unit10\\ListaPersonaCRUD\\Domain\\entities\\Departamento.cs",
+              "RelativeDocumentMoniker": "Domain\\entities\\Departamento.cs",
+              "ToolTip": "C:\\Users\\juanm\\Documents\\GitHub\\SGE\\unit10\\ListaPersonaCRUD\\Domain\\entities\\Departamento.cs",
+              "RelativeToolTip": "Domain\\entities\\Departamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T08:37:24.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\Documents\\GitHub\\SGE\\unit10\\ListaPersonaCRUD\\Domain\\entities\\Persona.cs",
+              "RelativeDocumentMoniker": "Domain\\entities\\Persona.cs",
+              "ToolTip": "C:\\Users\\juanm\\Documents\\GitHub\\SGE\\unit10\\ListaPersonaCRUD\\Domain\\entities\\Persona.cs",
+              "RelativeToolTip": "Domain\\entities\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T08:30:43.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\juanm\\Documents\\GitHub\\SGE\\unit10\\ListaPersonaCRUD\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\juanm\\Documents\\GitHub\\SGE\\unit10\\ListaPersonaCRUD\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-30T08:30:08.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\juanm\\Documents\\GitHub\\SGE\\unit10\\ListaPersonaCRUD\\ListaPersonaCRUD\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ListaPersonaCRUD\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\juanm\\Documents\\GitHub\\SGE\\unit10\\ListaPersonaCRUD\\ListaPersonaCRUD\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ListaPersonaCRUD\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-30T08:29:43.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\Documents\\GitHub\\SGE\\unit10\\ListaPersonaCRUD\\Data\\database\\Connection.cs",
+              "RelativeDocumentMoniker": "Data\\database\\Connection.cs",
+              "ToolTip": "C:\\Users\\juanm\\Documents\\GitHub\\SGE\\unit10\\ListaPersonaCRUD\\Data\\database\\Connection.cs",
+              "RelativeToolTip": "Data\\database\\Connection.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAuwGgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T12:48:03.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\Documents\\GitHub\\SGE\\unit10\\ListaPersonaCRUD\\ListaPersonaCRUD\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ListaPersonaCRUD\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\juanm\\Documents\\GitHub\\SGE\\unit10\\ListaPersonaCRUD\\ListaPersonaCRUD\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ListaPersonaCRUD\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T12:47:35.056Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

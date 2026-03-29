@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Data\\Database",
+    "\\Domain\\Entities",
+    "\\Domain\\UseCases",
+    "\\Domain\\UseCases\\Interfaces",
+    "\\UI"
+  ],
+  "SelectedNode": "\\ListadoPersonasClean.sln",
+  "PreviewInSolutionExplorer": false
+}
