@@ -1,0 +1,386 @@
+﻿@model Domain.DTOs.DatosJuegoDTO
+@{
+    ViewData["Title"] = "Juego - Adivina los Departamentos";
+    var resultado = ViewBag.Resultado as Domain.Entities.ResultadoJuego;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewData["Title"]</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+            margin: 0;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            padding: 40px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+
+        h1 {
+            text-align: center;
+            color: #667eea;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        .instrucciones {
+            text-align: center;
+            color: #666;
+            margin-bottom: 30px;
+            font-size: 1.1em;
+        }
+
+        .pista {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+
+            .pista h3 {
+                margin: 0 0 10px 0;
+                color: #333;
+            }
+
+        .colores-departamentos {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+
+        .color-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 8px 15px;
+            background: white;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        .color-box {
+            width: 30px;
+            height: 30px;
+            border-radius: 5px;
+            border: 2px solid #ddd;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 30px;
+        }
+
+        thead {
+            background: #667eea;
+            color: white;
+        }
+
+        th {
+            padding: 15px;
+            text-align: left;
+            font-weight: 600;
+        }
+
+        td {
+            padding: 15px;
+            border-bottom: 1px solid #eee;
+        }
+
+        tr {
+            transition: transform 0.2s;
+        }
+
+        tbody tr:hover {
+            transform: scale(1.02);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+
+        select {
+            width: 100%;
+            padding: 10px;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            font-size: 1em;
+            cursor: pointer;
+            transition: border-color 0.3s;
+        }
+
+            select:hover {
+                border-color: #667eea;
+            }
+
+            select:focus {
+                outline: none;
+                border-color: #667eea;
+                box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+            }
+
+        .btn-comprobar {
+            display: block;
+            width: 100%;
+            max-width: 300px;
+            margin: 30px auto;
+            padding: 15px 40px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 50px;
+            font-size: 1.2em;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s;
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+        }
+
+            .btn-comprobar:hover {
+                transform: translateY(-2px);
+                box-shadow: 0 8px 20px rgba(102, 126, 234, 0.6);
+            }
+
+            .btn-comprobar:active {
+                transform: translateY(0);
+            }
+
+        .resultado {
+            margin: 30px 0;
+            padding: 20px;
+            border-radius: 15px;
+            text-align: center;
+            font-size: 1.3em;
+            font-weight: 600;
+            animation: fadeIn 0.5s;
+        }
+
+            .resultado.ganar {
+                background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%);
+                color: white;
+            }
+
+            .resultado.perder {
+                background: linear-gradient(135deg, #ee0979 0%, #ff6a00 100%);
+                color: white;
+            }
+
+        .resultado-icon {
+            font-size: 3em;
+            margin-bottom: 10px;
+        }
+
+        @@keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(-20px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .links {
+            text-align: center;
+            margin-top: 30px;
+        }
+
+            .links a {
+                color: #667eea;
+                text-decoration: none;
+                margin: 0 15px;
+                font-weight: 600;
+                transition: color 0.3s;
+            }
+
+                .links a:hover {
+                    color: #764ba2;
+                }
+
+        .alerta {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            z-index: 9999;
+            padding: 30px 40px;
+            border-radius: 15px;
+            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+            color: white;
+            text-align: center;
+            font-weight: 600;
+            font-size: 1.2em;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.3);
+            display: none;
+            max-width: 90%;
+        }
+
+            .alerta.mostrar {
+                display: block;
+                animation: aparecer 0.5s;
+            }
+
+        .overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.5);
+            z-index: 9998;
+            display: none;
+        }
+
+            .overlay.mostrar {
+                display: block;
+                animation: fadeIn 0.3s;
+            }
+
+        @@keyframes aparecer {
+            0% {
+                opacity: 0;
+                transform: translate(-50%, -50%) scale(0.8);
+            }
+
+            100% {
+                opacity: 1;
+                transform: translate(-50%, -50%) scale(1);
+            }
+        }
+
+        @@keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+
+            to {
+                opacity: 1;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="overlay" id="overlay"></div>
+
+    <div class="container">
+        <h1>🎯 Adivina los Departamentos</h1>
+        <p class="instrucciones">
+            Asigna el departamento correcto a cada empleado. Las filas del mismo color pertenecen al mismo departamento. ¡Buena suerte!
+        </p>
+
+        <div class="alerta" id="alerta">
+            ⚠️ Por favor, selecciona un departamento para cada persona antes de comprobar
+        </div>
+
+        <div class="pista">
+            <h3>💡 Pista: Colores de los Departamentos</h3>
+            <div class="colores-departamentos">
+                @foreach (var dept in Model.Departamentos)
+                {
+                    <div class="color-item">
+                        <div class="color-box" style="background-color: @dept.Color"></div>
+                        <span><strong>@dept.Nombre</strong></span>
+                    </div>
+                }
+            </div>
+        </div>
+
+        @if (resultado != null)
+        {
+            <div class="resultado @(resultado.Gano ? "ganar" : "perder")">
+                <div class="resultado-icon">
+                    @if (resultado.Gano)
+                    {
+                        <span>🎉</span>
+                    }
+                    else
+                    {
+                        <span>💪</span>
+                    }
+                </div>
+                @if (resultado.Gano)
+                {
+                    <p>¡FELICIDADES! ¡HAS GANADO! 🏆</p>
+                    <p>Has acertado todos los departamentos correctamente</p>
+                }
+                else
+                {
+                    <p>Has acertado @resultado.Aciertos de @resultado.Total departamentos</p>
+                    <p>¡Sigue intentándolo!</p>
+                }
+            </div>
+        }
+
+        <form method="post" asp-action="Comprobar" id="formJuego">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Nombre</th>
+                        <th>Apellidos</th>
+                        <th>Departamento</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var persona in Model.Personas)
+                    {
+                        <tr style="background-color: @persona.ColorDepartamento">
+                            <td><strong>@persona.Nombre</strong></td>
+                            <td><strong>@persona.Apellido</strong></td>
+                            <td>
+                                <select name="asignaciones[@persona.Id]" class="select-departamento">
+                                    <option value="">-- Selecciona un departamento --</option>
+                                    @foreach (var dept in Model.Departamentos)
+                                    {
+                                        <option value="@dept.Id">@dept.Nombre</option>
+                                    }
+                                </select>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+            <button type="button" class="btn-comprobar" onclick="validarYEnviar()">Comprobar Respuestas</button>
+        </form>
+
+        <script>
+            function validarYEnviar() {
+                const selects = document.querySelectorAll('.select-departamento');
+                const alerta = document.getElementById('alerta');
+                let todoSeleccionado = true;
+
+                selects.forEach(select => {
+                    if (select.value === '') {
+                        todoSeleccionado = false;
+                    }
+                });
+
+                if (!todoSeleccionado) {
+                    alerta.classList.add('mostrar');
+                    setTimeout(() => {
+                        alerta.classList.remove('mostrar');
+                    }, 3000);
+                } else {
+                    document.getElementById('formJuego').submit();
+                }
+            }
+        </script>
+
+        <div class="links">
+            <a asp-controller="Persona" asp-action="Index">Ver Personas</a>
+            <a asp-controller="Departamento" asp-action="Index">Ver Departamentos</a>
+        </div>
+    </div>
+</body>
+</html>

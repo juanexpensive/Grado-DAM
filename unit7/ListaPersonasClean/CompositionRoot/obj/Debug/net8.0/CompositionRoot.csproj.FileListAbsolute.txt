@@ -1,0 +1,6 @@
+D:\GitHub\SGE\unit7\ListaPersonasClean\CompositionRoot\obj\Debug\net8.0\CompositionRoot.csproj.AssemblyReference.cache
+D:\GitHub\SGE\unit7\ListaPersonasClean\CompositionRoot\obj\Debug\net8.0\CompositionRoot.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SGE\unit7\ListaPersonasClean\CompositionRoot\obj\Debug\net8.0\CompositionRoot.AssemblyInfoInputs.cache
+D:\GitHub\SGE\unit7\ListaPersonasClean\CompositionRoot\obj\Debug\net8.0\CompositionRoot.AssemblyInfo.cs
+D:\GitHub\SGE\unit7\ListaPersonasClean\CompositionRoot\obj\Debug\net8.0\CompositionRoot.csproj.CoreCompileInputs.cache
+D:\GitHub\SGE\unit7\ListaPersonasClean\CompositionRoot\obj\Debug\net8.0\CompositionRoot.sourcelink.json

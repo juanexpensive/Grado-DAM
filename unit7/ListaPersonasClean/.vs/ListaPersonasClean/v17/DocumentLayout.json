@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\ListaPersonasClean\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C641A846-BF2F-46DB-A665-4D3F617BBFA6}|Data\\Data.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\unit7\\listapersonasclean\\data\\repositories\\personarepositoryazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C641A846-BF2F-46DB-A665-4D3F617BBFA6}|Data\\Data.csproj|solutionrelative:data\\repositories\\personarepositoryazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C641A846-BF2F-46DB-A665-4D3F617BBFA6}|Data\\Data.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\unit7\\listapersonasclean\\data\\repositories\\peoplerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C641A846-BF2F-46DB-A665-4D3F617BBFA6}|Data\\Data.csproj|solutionrelative:data\\repositories\\peoplerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F08CF69-F851-449A-80CD-26F68B293C0E}|Domain\\Domain.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\unit7\\listapersonasclean\\domain\\usecases\\interfaces\\ipeoplerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F08CF69-F851-449A-80CD-26F68B293C0E}|Domain\\Domain.csproj|solutionrelative:domain\\usecases\\interfaces\\ipeoplerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F08CF69-F851-449A-80CD-26F68B293C0E}|Domain\\Domain.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\unit7\\listapersonasclean\\domain\\entities\\clspersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F08CF69-F851-449A-80CD-26F68B293C0E}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\clspersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F08CF69-F851-449A-80CD-26F68B293C0E}|Domain\\Domain.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\unit7\\listapersonasclean\\domain\\usecases\\interfaces\\ipeoplelistusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F08CF69-F851-449A-80CD-26F68B293C0E}|Domain\\Domain.csproj|solutionrelative:domain\\usecases\\interfaces\\ipeoplelistusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C641A846-BF2F-46DB-A665-4D3F617BBFA6}|Data\\Data.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\unit7\\listapersonasclean\\data\\database\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C641A846-BF2F-46DB-A665-4D3F617BBFA6}|Data\\Data.csproj|solutionrelative:data\\database\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595489EC-197D-44B1-8AA1-FF95DE0E2571}|CompositionRoot\\CompositionRoot.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\unit7\\listapersonasclean\\compositionroot\\di.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595489EC-197D-44B1-8AA1-FF95DE0E2571}|CompositionRoot\\CompositionRoot.csproj|solutionrelative:compositionroot\\di.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595489EC-197D-44B1-8AA1-FF95DE0E2571}|CompositionRoot\\CompositionRoot.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\unit7\\listapersonasclean\\compositionroot\\compositionroot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{595489EC-197D-44B1-8AA1-FF95DE0E2571}|CompositionRoot\\CompositionRoot.csproj|solutionrelative:compositionroot\\compositionroot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C641A846-BF2F-46DB-A665-4D3F617BBFA6}|Data\\Data.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\unit7\\listapersonasclean\\data\\repositories\\peoplerepositoryempty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C641A846-BF2F-46DB-A665-4D3F617BBFA6}|Data\\Data.csproj|solutionrelative:data\\repositories\\peoplerepositoryempty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8D80BB-87C2-4CB0-8CB4-90B37EF7BA58}|UI\\UI.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\unit7\\listapersonasclean\\ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8D80BB-87C2-4CB0-8CB4-90B37EF7BA58}|UI\\UI.csproj|solutionrelative:ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C641A846-BF2F-46DB-A665-4D3F617BBFA6}|Data\\Data.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\unit7\\listapersonasclean\\data\\repositories\\peoplerepository100.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C641A846-BF2F-46DB-A665-4D3F617BBFA6}|Data\\Data.csproj|solutionrelative:data\\repositories\\peoplerepository100.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F08CF69-F851-449A-80CD-26F68B293C0E}|Domain\\Domain.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\unit7\\listapersonasclean\\domain\\usecases\\peoplelistusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F08CF69-F851-449A-80CD-26F68B293C0E}|Domain\\Domain.csproj|solutionrelative:domain\\usecases\\peoplelistusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8D80BB-87C2-4CB0-8CB4-90B37EF7BA58}|UI\\UI.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\unit7\\listapersonasclean\\ui\\ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B8D80BB-87C2-4CB0-8CB4-90B37EF7BA58}|UI\\UI.csproj|solutionrelative:ui\\ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C641A846-BF2F-46DB-A665-4D3F617BBFA6}|Data\\Data.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\unit7\\listapersonasclean\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C641A846-BF2F-46DB-A665-4D3F617BBFA6}|Data\\Data.csproj|solutionrelative:data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonaRepositoryAzure.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\ListaPersonasClean\\Data\\Repositories\\PersonaRepositoryAzure.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\PersonaRepositoryAzure.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\ListaPersonasClean\\Data\\Repositories\\PersonaRepositoryAzure.cs",
+              "RelativeToolTip": "Data\\Repositories\\PersonaRepositoryAzure.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:13:29.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\ListaPersonasClean\\Data\\Database\\Connection.cs",
+              "RelativeDocumentMoniker": "Data\\Database\\Connection.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\ListaPersonasClean\\Data\\Database\\Connection.cs",
+              "RelativeToolTip": "Data\\Database\\Connection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:10:32.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PeopleListUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\ListaPersonasClean\\Domain\\UseCases\\PeopleListUseCase.cs",
+              "RelativeDocumentMoniker": "Domain\\UseCases\\PeopleListUseCase.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\ListaPersonasClean\\Domain\\UseCases\\PeopleListUseCase.cs",
+              "RelativeToolTip": "Domain\\UseCases\\PeopleListUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:09:32.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PeopleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\ListaPersonasClean\\Data\\Repositories\\PeopleRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\PeopleRepository.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\ListaPersonasClean\\Data\\Repositories\\PeopleRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\PeopleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:09:32.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PeopleRepositoryEmpty.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\ListaPersonasClean\\Data\\Repositories\\PeopleRepositoryEmpty.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\PeopleRepositoryEmpty.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\ListaPersonasClean\\Data\\Repositories\\PeopleRepositoryEmpty.cs",
+              "RelativeToolTip": "Data\\Repositories\\PeopleRepositoryEmpty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:09:32.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPeopleListUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\ListaPersonasClean\\Domain\\UseCases\\interfaces\\IPeopleListUseCase.cs",
+              "RelativeDocumentMoniker": "Domain\\UseCases\\interfaces\\IPeopleListUseCase.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\ListaPersonasClean\\Domain\\UseCases\\interfaces\\IPeopleListUseCase.cs",
+              "RelativeToolTip": "Domain\\UseCases\\interfaces\\IPeopleListUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:09:32.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPeopleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\ListaPersonasClean\\Domain\\UseCases\\interfaces\\IPeopleRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\UseCases\\interfaces\\IPeopleRepository.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\ListaPersonasClean\\Domain\\UseCases\\interfaces\\IPeopleRepository.cs",
+              "RelativeToolTip": "Domain\\UseCases\\interfaces\\IPeopleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:09:32.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsPersona.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\ListaPersonasClean\\Domain\\Entities\\clsPersona.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\clsPersona.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\ListaPersonasClean\\Domain\\Entities\\clsPersona.cs",
+              "RelativeToolTip": "Domain\\Entities\\clsPersona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:09:32.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DI.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\ListaPersonasClean\\CompositionRoot\\DI.cs",
+              "RelativeDocumentMoniker": "CompositionRoot\\DI.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\ListaPersonasClean\\CompositionRoot\\DI.cs",
+              "RelativeToolTip": "CompositionRoot\\DI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:09:32.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UI.csproj",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\ListaPersonasClean\\UI\\UI.csproj",
+              "RelativeDocumentMoniker": "UI\\UI.csproj",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\ListaPersonasClean\\UI\\UI.csproj",
+              "RelativeToolTip": "UI\\UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-17T13:09:32.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CompositionRoot.csproj",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\ListaPersonasClean\\CompositionRoot\\CompositionRoot.csproj",
+              "RelativeDocumentMoniker": "CompositionRoot\\CompositionRoot.csproj",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\ListaPersonasClean\\CompositionRoot\\CompositionRoot.csproj",
+              "RelativeToolTip": "CompositionRoot\\CompositionRoot.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-17T13:09:32.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PeopleRepository100.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\ListaPersonasClean\\Data\\Repositories\\PeopleRepository100.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\PeopleRepository100.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\ListaPersonasClean\\Data\\Repositories\\PeopleRepository100.cs",
+              "RelativeToolTip": "Data\\Repositories\\PeopleRepository100.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAHcAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:09:32.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Data.csproj",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\ListaPersonasClean\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\ListaPersonasClean\\Data\\Data.csproj",
+              "RelativeToolTip": "Data\\Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-17T13:09:32.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\ListaPersonasClean\\UI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "UI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\ListaPersonasClean\\UI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "UI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:09:32.433Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

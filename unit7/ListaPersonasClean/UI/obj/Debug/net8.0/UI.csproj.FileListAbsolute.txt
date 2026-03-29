@@ -1,0 +1,10 @@
+D:\GitHub\SGE\unit7\ListaPersonasClean\UI\obj\Debug\net8.0\UI.csproj.AssemblyReference.cache
+D:\GitHub\SGE\unit7\ListaPersonasClean\UI\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\GitHub\SGE\unit7\ListaPersonasClean\UI\obj\Debug\net8.0\UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SGE\unit7\ListaPersonasClean\UI\obj\Debug\net8.0\UI.AssemblyInfoInputs.cache
+D:\GitHub\SGE\unit7\ListaPersonasClean\UI\obj\Debug\net8.0\UI.AssemblyInfo.cs
+D:\GitHub\SGE\unit7\ListaPersonasClean\UI\obj\Debug\net8.0\UI.csproj.CoreCompileInputs.cache
+D:\GitHub\SGE\unit7\ListaPersonasClean\UI\obj\Debug\net8.0\UI.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHub\SGE\unit7\ListaPersonasClean\UI\obj\Debug\net8.0\UI.RazorAssemblyInfo.cache
+D:\GitHub\SGE\unit7\ListaPersonasClean\UI\obj\Debug\net8.0\UI.RazorAssemblyInfo.cs
+D:\GitHub\SGE\unit7\ListaPersonasClean\UI\obj\Debug\net8.0\UI.sourcelink.json

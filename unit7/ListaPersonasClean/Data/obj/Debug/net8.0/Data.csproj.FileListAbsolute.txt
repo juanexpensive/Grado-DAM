@@ -1,0 +1,5 @@
+D:\GitHub\SGE\unit7\ListaPersonasClean\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SGE\unit7\ListaPersonasClean\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+D:\GitHub\SGE\unit7\ListaPersonasClean\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+D:\GitHub\SGE\unit7\ListaPersonasClean\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+D:\GitHub\SGE\unit7\ListaPersonasClean\Data\obj\Debug\net8.0\Data.sourcelink.json

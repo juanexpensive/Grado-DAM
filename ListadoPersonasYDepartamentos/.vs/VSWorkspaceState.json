@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Domain",
+    "\\Domain\\DTOs",
+    "\\Domain\\Entities",
+    "\\ListadoPersonasYDepartamentos",
+    "\\ListadoPersonasYDepartamentos\\Controllers"
+  ],
+  "SelectedNode": "\\ListadoPersonasYDepartamentos\\Controllers\\DepartamentoController.cs",
+  "PreviewInSolutionExplorer": false
+}

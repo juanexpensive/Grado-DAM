@@ -1,0 +1,653 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{299C231B-4F1D-43A2-9B8F-FBD1C2539A71}|Domain\\Domain.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\listadopersonasydepartamentos\\domain\\entities\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299C231B-4F1D-43A2-9B8F-FBD1C2539A71}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E19FE0-F6C8-4A0C-8BB9-A8B96682CDAD}|ListadoPersonasYDepartamentos\\UI.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\listadopersonasydepartamentos\\listadopersonasydepartamentos\\views\\juego\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3E19FE0-F6C8-4A0C-8BB9-A8B96682CDAD}|ListadoPersonasYDepartamentos\\UI.csproj|solutionrelative:listadopersonasydepartamentos\\views\\juego\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E19FE0-F6C8-4A0C-8BB9-A8B96682CDAD}|ListadoPersonasYDepartamentos\\UI.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\listadopersonasydepartamentos\\listadopersonasydepartamentos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3E19FE0-F6C8-4A0C-8BB9-A8B96682CDAD}|ListadoPersonasYDepartamentos\\UI.csproj|solutionrelative:listadopersonasydepartamentos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E19FE0-F6C8-4A0C-8BB9-A8B96682CDAD}|ListadoPersonasYDepartamentos\\UI.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\listadopersonasydepartamentos\\listadopersonasydepartamentos\\controllers\\juegocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E19FE0-F6C8-4A0C-8BB9-A8B96682CDAD}|ListadoPersonasYDepartamentos\\UI.csproj|solutionrelative:listadopersonasydepartamentos\\controllers\\juegocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E19FE0-F6C8-4A0C-8BB9-A8B96682CDAD}|ListadoPersonasYDepartamentos\\UI.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\listadopersonasydepartamentos\\listadopersonasydepartamentos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E19FE0-F6C8-4A0C-8BB9-A8B96682CDAD}|ListadoPersonasYDepartamentos\\UI.csproj|solutionrelative:listadopersonasydepartamentos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E19FE0-F6C8-4A0C-8BB9-A8B96682CDAD}|ListadoPersonasYDepartamentos\\UI.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\listadopersonasydepartamentos\\listadopersonasydepartamentos\\controllers\\api\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E19FE0-F6C8-4A0C-8BB9-A8B96682CDAD}|ListadoPersonasYDepartamentos\\UI.csproj|solutionrelative:listadopersonasydepartamentos\\controllers\\api\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E19FE0-F6C8-4A0C-8BB9-A8B96682CDAD}|ListadoPersonasYDepartamentos\\UI.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\listadopersonasydepartamentos\\listadopersonasydepartamentos\\controllers\\api\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E19FE0-F6C8-4A0C-8BB9-A8B96682CDAD}|ListadoPersonasYDepartamentos\\UI.csproj|solutionrelative:listadopersonasydepartamentos\\controllers\\api\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299C231B-4F1D-43A2-9B8F-FBD1C2539A71}|Domain\\Domain.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\listadopersonasydepartamentos\\domain\\usecases\\defaultusecasejuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299C231B-4F1D-43A2-9B8F-FBD1C2539A71}|Domain\\Domain.csproj|solutionrelative:domain\\usecases\\defaultusecasejuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299C231B-4F1D-43A2-9B8F-FBD1C2539A71}|Domain\\Domain.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\listadopersonasydepartamentos\\domain\\interfaces\\iusecasejuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299C231B-4F1D-43A2-9B8F-FBD1C2539A71}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iusecasejuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299C231B-4F1D-43A2-9B8F-FBD1C2539A71}|Domain\\Domain.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\listadopersonasydepartamentos\\domain\\dtos\\personajuegodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299C231B-4F1D-43A2-9B8F-FBD1C2539A71}|Domain\\Domain.csproj|solutionrelative:domain\\dtos\\personajuegodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299C231B-4F1D-43A2-9B8F-FBD1C2539A71}|Domain\\Domain.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\listadopersonasydepartamentos\\domain\\dtos\\departamentojuegodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299C231B-4F1D-43A2-9B8F-FBD1C2539A71}|Domain\\Domain.csproj|solutionrelative:domain\\dtos\\departamentojuegodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299C231B-4F1D-43A2-9B8F-FBD1C2539A71}|Domain\\Domain.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\listadopersonasydepartamentos\\domain\\dtos\\datosjuegodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299C231B-4F1D-43A2-9B8F-FBD1C2539A71}|Domain\\Domain.csproj|solutionrelative:domain\\dtos\\datosjuegodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299C231B-4F1D-43A2-9B8F-FBD1C2539A71}|Domain\\Domain.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\listadopersonasydepartamentos\\domain\\dtos\\personaconnombrededepartamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299C231B-4F1D-43A2-9B8F-FBD1C2539A71}|Domain\\Domain.csproj|solutionrelative:domain\\dtos\\personaconnombrededepartamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299C231B-4F1D-43A2-9B8F-FBD1C2539A71}|Domain\\Domain.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\listadopersonasydepartamentos\\domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299C231B-4F1D-43A2-9B8F-FBD1C2539A71}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299C231B-4F1D-43A2-9B8F-FBD1C2539A71}|Domain\\Domain.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\listadopersonasydepartamentos\\domain\\entities\\resultadojuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299C231B-4F1D-43A2-9B8F-FBD1C2539A71}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\resultadojuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72508EDE-A049-4A94-8AFD-714A618AD5CD}|Data\\Data.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\listadopersonasydepartamentos\\data\\repositories\\personasrepositoryazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72508EDE-A049-4A94-8AFD-714A618AD5CD}|Data\\Data.csproj|solutionrelative:data\\repositories\\personasrepositoryazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299C231B-4F1D-43A2-9B8F-FBD1C2539A71}|Domain\\Domain.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\listadopersonasydepartamentos\\domain\\repositories\\irepositorypersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299C231B-4F1D-43A2-9B8F-FBD1C2539A71}|Domain\\Domain.csproj|solutionrelative:domain\\repositories\\irepositorypersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72508EDE-A049-4A94-8AFD-714A618AD5CD}|Data\\Data.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\listadopersonasydepartamentos\\data\\database\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72508EDE-A049-4A94-8AFD-714A618AD5CD}|Data\\Data.csproj|solutionrelative:data\\database\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299C231B-4F1D-43A2-9B8F-FBD1C2539A71}|Domain\\Domain.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\listadopersonasydepartamentos\\domain\\interfaces\\iusecasedepartamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299C231B-4F1D-43A2-9B8F-FBD1C2539A71}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iusecasedepartamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72508EDE-A049-4A94-8AFD-714A618AD5CD}|Data\\Data.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\listadopersonasydepartamentos\\data\\repositories\\departamentosrepositoryazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72508EDE-A049-4A94-8AFD-714A618AD5CD}|Data\\Data.csproj|solutionrelative:data\\repositories\\departamentosrepositoryazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299C231B-4F1D-43A2-9B8F-FBD1C2539A71}|Domain\\Domain.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\listadopersonasydepartamentos\\domain\\usecases\\defaultusecasepersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299C231B-4F1D-43A2-9B8F-FBD1C2539A71}|Domain\\Domain.csproj|solutionrelative:domain\\usecases\\defaultusecasepersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299C231B-4F1D-43A2-9B8F-FBD1C2539A71}|Domain\\Domain.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\listadopersonasydepartamentos\\domain\\dtos\\personaconlistadedepartamentosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299C231B-4F1D-43A2-9B8F-FBD1C2539A71}|Domain\\Domain.csproj|solutionrelative:domain\\dtos\\personaconlistadedepartamentosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299C231B-4F1D-43A2-9B8F-FBD1C2539A71}|Domain\\Domain.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\listadopersonasydepartamentos\\domain\\usecases\\defaultusecasedepartamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299C231B-4F1D-43A2-9B8F-FBD1C2539A71}|Domain\\Domain.csproj|solutionrelative:domain\\usecases\\defaultusecasedepartamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B990F652-16DF-437F-B61C-3A44E23D836B}|CompositionRoot\\CompositionRoot.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\listadopersonasydepartamentos\\compositionroot\\di.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B990F652-16DF-437F-B61C-3A44E23D836B}|CompositionRoot\\CompositionRoot.csproj|solutionrelative:compositionroot\\di.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299C231B-4F1D-43A2-9B8F-FBD1C2539A71}|Domain\\Domain.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\listadopersonasydepartamentos\\domain\\interfaces\\iusecasepersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299C231B-4F1D-43A2-9B8F-FBD1C2539A71}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iusecasepersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299C231B-4F1D-43A2-9B8F-FBD1C2539A71}|Domain\\Domain.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\listadopersonasydepartamentos\\domain\\repositories\\irepositorydepartamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299C231B-4F1D-43A2-9B8F-FBD1C2539A71}|Domain\\Domain.csproj|solutionrelative:domain\\repositories\\irepositorydepartamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E19FE0-F6C8-4A0C-8BB9-A8B96682CDAD}|ListadoPersonasYDepartamentos\\UI.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\listadopersonasydepartamentos\\listadopersonasydepartamentos\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E19FE0-F6C8-4A0C-8BB9-A8B96682CDAD}|ListadoPersonasYDepartamentos\\UI.csproj|solutionrelative:listadopersonasydepartamentos\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E19FE0-F6C8-4A0C-8BB9-A8B96682CDAD}|ListadoPersonasYDepartamentos\\UI.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\listadopersonasydepartamentos\\listadopersonasydepartamentos\\views\\persona\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3E19FE0-F6C8-4A0C-8BB9-A8B96682CDAD}|ListadoPersonasYDepartamentos\\UI.csproj|solutionrelative:listadopersonasydepartamentos\\views\\persona\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E19FE0-F6C8-4A0C-8BB9-A8B96682CDAD}|ListadoPersonasYDepartamentos\\UI.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\listadopersonasydepartamentos\\listadopersonasydepartamentos\\controllers\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E19FE0-F6C8-4A0C-8BB9-A8B96682CDAD}|ListadoPersonasYDepartamentos\\UI.csproj|solutionrelative:listadopersonasydepartamentos\\controllers\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E19FE0-F6C8-4A0C-8BB9-A8B96682CDAD}|ListadoPersonasYDepartamentos\\UI.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\listadopersonasydepartamentos\\listadopersonasydepartamentos\\views\\persona\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3E19FE0-F6C8-4A0C-8BB9-A8B96682CDAD}|ListadoPersonasYDepartamentos\\UI.csproj|solutionrelative:listadopersonasydepartamentos\\views\\persona\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E19FE0-F6C8-4A0C-8BB9-A8B96682CDAD}|ListadoPersonasYDepartamentos\\UI.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\listadopersonasydepartamentos\\listadopersonasydepartamentos\\views\\departamento\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3E19FE0-F6C8-4A0C-8BB9-A8B96682CDAD}|ListadoPersonasYDepartamentos\\UI.csproj|solutionrelative:listadopersonasydepartamentos\\views\\departamento\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E19FE0-F6C8-4A0C-8BB9-A8B96682CDAD}|ListadoPersonasYDepartamentos\\UI.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\listadopersonasydepartamentos\\listadopersonasydepartamentos\\views\\departamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3E19FE0-F6C8-4A0C-8BB9-A8B96682CDAD}|ListadoPersonasYDepartamentos\\UI.csproj|solutionrelative:listadopersonasydepartamentos\\views\\departamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E19FE0-F6C8-4A0C-8BB9-A8B96682CDAD}|ListadoPersonasYDepartamentos\\UI.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\listadopersonasydepartamentos\\listadopersonasydepartamentos\\views\\departamento\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3E19FE0-F6C8-4A0C-8BB9-A8B96682CDAD}|ListadoPersonasYDepartamentos\\UI.csproj|solutionrelative:listadopersonasydepartamentos\\views\\departamento\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E19FE0-F6C8-4A0C-8BB9-A8B96682CDAD}|ListadoPersonasYDepartamentos\\UI.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\listadopersonasydepartamentos\\listadopersonasydepartamentos\\views\\persona\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3E19FE0-F6C8-4A0C-8BB9-A8B96682CDAD}|ListadoPersonasYDepartamentos\\UI.csproj|solutionrelative:listadopersonasydepartamentos\\views\\persona\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E19FE0-F6C8-4A0C-8BB9-A8B96682CDAD}|ListadoPersonasYDepartamentos\\UI.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\listadopersonasydepartamentos\\listadopersonasydepartamentos\\ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E3E19FE0-F6C8-4A0C-8BB9-A8B96682CDAD}|ListadoPersonasYDepartamentos\\UI.csproj|solutionrelative:listadopersonasydepartamentos\\ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juan.caro\\Desktop\\ListadoPersonasClean-malillo\\Data\\Repositories\\ListadoPersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E19FE0-F6C8-4A0C-8BB9-A8B96682CDAD}|ListadoPersonasYDepartamentos\\UI.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\listadopersonasydepartamentos\\listadopersonasydepartamentos\\views\\departamento\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3E19FE0-F6C8-4A0C-8BB9-A8B96682CDAD}|ListadoPersonasYDepartamentos\\UI.csproj|solutionrelative:listadopersonasydepartamentos\\views\\departamento\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E19FE0-F6C8-4A0C-8BB9-A8B96682CDAD}|ListadoPersonasYDepartamentos\\UI.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\listadopersonasydepartamentos\\listadopersonasydepartamentos\\views\\departamento\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3E19FE0-F6C8-4A0C-8BB9-A8B96682CDAD}|ListadoPersonasYDepartamentos\\UI.csproj|solutionrelative:listadopersonasydepartamentos\\views\\departamento\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E19FE0-F6C8-4A0C-8BB9-A8B96682CDAD}|ListadoPersonasYDepartamentos\\UI.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\listadopersonasydepartamentos\\listadopersonasydepartamentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E19FE0-F6C8-4A0C-8BB9-A8B96682CDAD}|ListadoPersonasYDepartamentos\\UI.csproj|solutionrelative:listadopersonasydepartamentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\ListadoPersonasYDepartamentos\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ListadoPersonasYDepartamentos\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\ListadoPersonasYDepartamentos\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ListadoPersonasYDepartamentos\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T11:05:01.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\ListadoPersonasYDepartamentos\\Views\\Juego\\Index.cshtml",
+              "RelativeDocumentMoniker": "ListadoPersonasYDepartamentos\\Views\\Juego\\Index.cshtml",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\ListadoPersonasYDepartamentos\\Views\\Juego\\Index.cshtml",
+              "RelativeToolTip": "ListadoPersonasYDepartamentos\\Views\\Juego\\Index.cshtml",
+              "ViewState": "AgIAAGIBAAAAAAAAAAAAAIEBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T12:09:35.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\ListadoPersonasYDepartamentos\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ListadoPersonasYDepartamentos\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\ListadoPersonasYDepartamentos\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ListadoPersonasYDepartamentos\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:25:16.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonasController.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\ListadoPersonasYDepartamentos\\Controllers\\API\\PersonasController.cs",
+              "RelativeDocumentMoniker": "ListadoPersonasYDepartamentos\\Controllers\\API\\PersonasController.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\ListadoPersonasYDepartamentos\\Controllers\\API\\PersonasController.cs",
+              "RelativeToolTip": "ListadoPersonasYDepartamentos\\Controllers\\API\\PersonasController.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAmwEUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:56:16.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartamentoController.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\ListadoPersonasYDepartamentos\\Controllers\\API\\DepartamentoController.cs",
+              "RelativeDocumentMoniker": "ListadoPersonasYDepartamentos\\Controllers\\API\\DepartamentoController.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\ListadoPersonasYDepartamentos\\Controllers\\API\\DepartamentoController.cs",
+              "RelativeToolTip": "ListadoPersonasYDepartamentos\\Controllers\\API\\DepartamentoController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwEMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T12:41:03.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DefaultUseCaseJuego.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\Domain\\UseCases\\DefaultUseCaseJuego.cs",
+              "RelativeDocumentMoniker": "Domain\\UseCases\\DefaultUseCaseJuego.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\Domain\\UseCases\\DefaultUseCaseJuego.cs",
+              "RelativeToolTip": "Domain\\UseCases\\DefaultUseCaseJuego.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAswFUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T11:53:03.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUseCaseJuego.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\Domain\\Interfaces\\IUseCaseJuego.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUseCaseJuego.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\Domain\\Interfaces\\IUseCaseJuego.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IUseCaseJuego.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T11:52:03.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PersonaJuegoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\Domain\\DTOs\\PersonaJuegoDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\DTOs\\PersonaJuegoDTO.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\Domain\\DTOs\\PersonaJuegoDTO.cs",
+              "RelativeToolTip": "Domain\\DTOs\\PersonaJuegoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T11:49:02.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DepartamentoJuegoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\Domain\\DTOs\\DepartamentoJuegoDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\DTOs\\DepartamentoJuegoDTO.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\Domain\\DTOs\\DepartamentoJuegoDTO.cs",
+              "RelativeToolTip": "Domain\\DTOs\\DepartamentoJuegoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T11:49:29.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\Domain\\Entities\\Departamento.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Departamento.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\Domain\\Entities\\Departamento.cs",
+              "RelativeToolTip": "Domain\\Entities\\Departamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:03:08.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JuegoController.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\ListadoPersonasYDepartamentos\\Controllers\\JuegoController.cs",
+              "RelativeDocumentMoniker": "ListadoPersonasYDepartamentos\\Controllers\\JuegoController.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\ListadoPersonasYDepartamentos\\Controllers\\JuegoController.cs",
+              "RelativeToolTip": "ListadoPersonasYDepartamentos\\Controllers\\JuegoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T12:07:46.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DatosJuegoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\Domain\\DTOs\\DatosJuegoDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\DTOs\\DatosJuegoDTO.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\Domain\\DTOs\\DatosJuegoDTO.cs",
+              "RelativeToolTip": "Domain\\DTOs\\DatosJuegoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T11:49:53.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PersonaConNombreDeDepartamentoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\Domain\\DTOs\\PersonaConNombreDeDepartamentoDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\DTOs\\PersonaConNombreDeDepartamentoDTO.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\Domain\\DTOs\\PersonaConNombreDeDepartamentoDTO.cs",
+              "RelativeToolTip": "Domain\\DTOs\\PersonaConNombreDeDepartamentoDTO.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAUwBAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:02:57.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\Domain\\Entities\\Persona.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Persona.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\Domain\\Entities\\Persona.cs",
+              "RelativeToolTip": "Domain\\Entities\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:03:09.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResultadoJuego.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\Domain\\Entities\\ResultadoJuego.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ResultadoJuego.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\Domain\\Entities\\ResultadoJuego.cs",
+              "RelativeToolTip": "Domain\\Entities\\ResultadoJuego.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T11:47:54.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PersonasRepositoryAzure.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\Data\\Repositories\\PersonasRepositoryAzure.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\PersonasRepositoryAzure.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\Data\\Repositories\\PersonasRepositoryAzure.cs",
+              "RelativeToolTip": "Data\\Repositories\\PersonasRepositoryAzure.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwOoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:02:32.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\Data\\Database\\Connection.cs",
+              "RelativeDocumentMoniker": "Data\\Database\\Connection.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\Data\\Database\\Connection.cs",
+              "RelativeToolTip": "Data\\Database\\Connection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T10:41:08.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRepositoryPersonas.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\Domain\\Repositories\\IRepositoryPersonas.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositories\\IRepositoryPersonas.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\Domain\\Repositories\\IRepositoryPersonas.cs",
+              "RelativeToolTip": "Domain\\Repositories\\IRepositoryPersonas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:03:18.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUseCaseDepartamentos.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\Domain\\Interfaces\\IUseCaseDepartamentos.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUseCaseDepartamentos.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\Domain\\Interfaces\\IUseCaseDepartamentos.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IUseCaseDepartamentos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:03:13.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DepartamentosRepositoryAzure.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\Data\\Repositories\\DepartamentosRepositoryAzure.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\DepartamentosRepositoryAzure.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\Data\\Repositories\\DepartamentosRepositoryAzure.cs",
+              "RelativeToolTip": "Data\\Repositories\\DepartamentosRepositoryAzure.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAwwKEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T10:42:16.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PersonaConListaDeDepartamentosDTO.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\Domain\\DTOs\\PersonaConListaDeDepartamentosDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\DTOs\\PersonaConListaDeDepartamentosDTO.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\Domain\\DTOs\\PersonaConListaDeDepartamentosDTO.cs",
+              "RelativeToolTip": "Domain\\DTOs\\PersonaConListaDeDepartamentosDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:02:44.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DefaultUseCasePersonas.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\Domain\\UseCases\\DefaultUseCasePersonas.cs",
+              "RelativeDocumentMoniker": "Domain\\UseCases\\DefaultUseCasePersonas.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\Domain\\UseCases\\DefaultUseCasePersonas.cs",
+              "RelativeToolTip": "Domain\\UseCases\\DefaultUseCasePersonas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T12:11:48.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DefaultUseCaseDepartamentos.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\Domain\\UseCases\\DefaultUseCaseDepartamentos.cs",
+              "RelativeDocumentMoniker": "Domain\\UseCases\\DefaultUseCaseDepartamentos.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\Domain\\UseCases\\DefaultUseCaseDepartamentos.cs",
+              "RelativeToolTip": "Domain\\UseCases\\DefaultUseCaseDepartamentos.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDMAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:57:41.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IRepositoryDepartamentos.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\Domain\\Repositories\\IRepositoryDepartamentos.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositories\\IRepositoryDepartamentos.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\Domain\\Repositories\\IRepositoryDepartamentos.cs",
+              "RelativeToolTip": "Domain\\Repositories\\IRepositoryDepartamentos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:03:18.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IUseCasePersonas.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\Domain\\Interfaces\\IUseCasePersonas.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUseCasePersonas.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\Domain\\Interfaces\\IUseCasePersonas.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IUseCasePersonas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:03:15.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DI.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\CompositionRoot\\DI.cs",
+              "RelativeDocumentMoniker": "CompositionRoot\\DI.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\CompositionRoot\\DI.cs",
+              "RelativeToolTip": "CompositionRoot\\DI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T11:53:40.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\ListadoPersonasYDepartamentos\\Controllers\\PersonaController.cs",
+              "RelativeDocumentMoniker": "ListadoPersonasYDepartamentos\\Controllers\\PersonaController.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\ListadoPersonasYDepartamentos\\Controllers\\PersonaController.cs",
+              "RelativeToolTip": "ListadoPersonasYDepartamentos\\Controllers\\PersonaController.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAuwJcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T19:13:39.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\ListadoPersonasYDepartamentos\\Views\\Persona\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ListadoPersonasYDepartamentos\\Views\\Persona\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\ListadoPersonasYDepartamentos\\Views\\Persona\\Edit.cshtml",
+              "RelativeToolTip": "ListadoPersonasYDepartamentos\\Views\\Persona\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T11:06:57.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DepartamentoController.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\ListadoPersonasYDepartamentos\\Controllers\\DepartamentoController.cs",
+              "RelativeDocumentMoniker": "ListadoPersonasYDepartamentos\\Controllers\\DepartamentoController.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\ListadoPersonasYDepartamentos\\Controllers\\DepartamentoController.cs",
+              "RelativeToolTip": "ListadoPersonasYDepartamentos\\Controllers\\DepartamentoController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAuwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T12:05:43.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\ListadoPersonasYDepartamentos\\Views\\Persona\\Details.cshtml",
+              "RelativeDocumentMoniker": "ListadoPersonasYDepartamentos\\Views\\Persona\\Details.cshtml",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\ListadoPersonasYDepartamentos\\Views\\Persona\\Details.cshtml",
+              "RelativeToolTip": "ListadoPersonasYDepartamentos\\Views\\Persona\\Details.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T12:22:17.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\ListadoPersonasYDepartamentos\\Views\\Departamento\\Index.cshtml",
+              "RelativeDocumentMoniker": "ListadoPersonasYDepartamentos\\Views\\Departamento\\Index.cshtml",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\ListadoPersonasYDepartamentos\\Views\\Departamento\\Index.cshtml",
+              "RelativeToolTip": "ListadoPersonasYDepartamentos\\Views\\Departamento\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T11:03:28.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\ListadoPersonasYDepartamentos\\Views\\Departamento\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ListadoPersonasYDepartamentos\\Views\\Departamento\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\ListadoPersonasYDepartamentos\\Views\\Departamento\\Delete.cshtml",
+              "RelativeToolTip": "ListadoPersonasYDepartamentos\\Views\\Departamento\\Delete.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T11:15:15.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\ListadoPersonasYDepartamentos\\Views\\Departamento\\Create.cshtml",
+              "RelativeDocumentMoniker": "ListadoPersonasYDepartamentos\\Views\\Departamento\\Create.cshtml",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\ListadoPersonasYDepartamentos\\Views\\Departamento\\Create.cshtml",
+              "RelativeToolTip": "ListadoPersonasYDepartamentos\\Views\\Departamento\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T13:25:04.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\ListadoPersonasYDepartamentos\\Views\\Persona\\Index.cshtml",
+              "RelativeDocumentMoniker": "ListadoPersonasYDepartamentos\\Views\\Persona\\Index.cshtml",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\ListadoPersonasYDepartamentos\\Views\\Persona\\Index.cshtml",
+              "RelativeToolTip": "ListadoPersonasYDepartamentos\\Views\\Persona\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T11:06:41.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UI.csproj",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\ListadoPersonasYDepartamentos\\UI.csproj",
+              "RelativeDocumentMoniker": "ListadoPersonasYDepartamentos\\UI.csproj",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\ListadoPersonasYDepartamentos\\UI.csproj",
+              "RelativeToolTip": "ListadoPersonasYDepartamentos\\UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-01T13:19:57.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ListadoPersonas.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Desktop\\ListadoPersonasClean-malillo\\Data\\Repositories\\ListadoPersonas.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\ListadoPersonasClean-malillo\\Data\\Repositories\\ListadoPersonas.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Desktop\\ListadoPersonasClean-malillo\\Data\\Repositories\\ListadoPersonas.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\ListadoPersonasClean-malillo\\Data\\Repositories\\ListadoPersonas.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T12:15:50.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\ListadoPersonasYDepartamentos\\Views\\Departamento\\Details.cshtml",
+              "RelativeDocumentMoniker": "ListadoPersonasYDepartamentos\\Views\\Departamento\\Details.cshtml",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\ListadoPersonasYDepartamentos\\Views\\Departamento\\Details.cshtml",
+              "RelativeToolTip": "ListadoPersonasYDepartamentos\\Views\\Departamento\\Details.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T11:14:33.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\ListadoPersonasYDepartamentos\\Views\\Departamento\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ListadoPersonasYDepartamentos\\Views\\Departamento\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\ListadoPersonasYDepartamentos\\Views\\Departamento\\Edit.cshtml",
+              "RelativeToolTip": "ListadoPersonasYDepartamentos\\Views\\Departamento\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T11:13:51.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\ListadoPersonasYDepartamentos\\Program.cs",
+              "RelativeDocumentMoniker": "ListadoPersonasYDepartamentos\\Program.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\ListadoPersonasYDepartamentos\\ListadoPersonasYDepartamentos\\Program.cs",
+              "RelativeToolTip": "ListadoPersonasYDepartamentos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T10:42:07.994Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

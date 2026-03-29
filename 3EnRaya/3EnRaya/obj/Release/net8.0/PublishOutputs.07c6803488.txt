@@ -1,0 +1,7 @@
+C:\Users\juan.caro\Documents\GitHub\SGE\3EnRaya\3EnRaya\obj\Release\net8.0\PubTmp\Out\3EnRaya.exe
+C:\Users\juan.caro\Documents\GitHub\SGE\3EnRaya\3EnRaya\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\juan.caro\Documents\GitHub\SGE\3EnRaya\3EnRaya\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\juan.caro\Documents\GitHub\SGE\3EnRaya\3EnRaya\obj\Release\net8.0\PubTmp\Out\3EnRaya.dll
+C:\Users\juan.caro\Documents\GitHub\SGE\3EnRaya\3EnRaya\obj\Release\net8.0\PubTmp\Out\3EnRaya.deps.json
+C:\Users\juan.caro\Documents\GitHub\SGE\3EnRaya\3EnRaya\obj\Release\net8.0\PubTmp\Out\3EnRaya.runtimeconfig.json
+C:\Users\juan.caro\Documents\GitHub\SGE\3EnRaya\3EnRaya\obj\Release\net8.0\PubTmp\Out\3EnRaya.pdb
