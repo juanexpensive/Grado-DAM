@@ -1,0 +1,34 @@
+
+Abre este enlace: https://www.linkedin.com/pulse/clean-architecture-react-native-expo-ghulaam-rasool-gvetf
+En él se realiza un ejemplo del uso de Clean Architecture en React Native con Expo sin usar el MVVM. En él se muestra un listado de usuarios que se traen de una API falsa. Responde a las  siguientes cuestiones:
+¿Qué clase o clases cambiarías si te dicen que el listado que se muestra depende de la edad del usuario, ya que se mostrarán los usuarios que tengan +- 5 años que el usuario que lo pide.
+¿Cómo crees que quedará el ejemplo si queremos usar el MVVM?, añade la clase o clases que consideres.
+
+
+1. En la API layer porque no quieres traerte toda la base de datos, en la repository layer porque usaria una funcion nueva 
+2. 
+
+/core
+    types
+    container
+/models
+    /data
+        repositories
+        hooks
+        components
+        api
+    /entities
+        user
+/viewmodels
+        userListVM
+        screens
+        styles
+        usecases
+        
+/views
+        index
+config
+
+
+
+
